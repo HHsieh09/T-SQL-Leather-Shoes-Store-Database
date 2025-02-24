@@ -1,0 +1,6 @@
+EmployeeID	ValidStatusID	Description	StartTime	EndTime
+1	2	In honor of December, we're celebrating our incredible team members. Enjoy 10% on all purchases and a special treat during your shift.	2020-12-07	2021-01-06
+2	2	Join us for an in-depth product training session on our latest collection. Learn about the materials, craftsmanship, and unique features of each style.	2021-09-23	2021-10-23
+1	2	Enjoy 5% on all purchases during our exclusive employee shopping event. It's the perfect opportunity to stock up on holiday gifts or treat yourself.	2022-03-26	2022-04-25
+1	1	We're thrilled to announce the opening of our newest store in NY. Stay tuned for more details on the grand opening date and special employee perks.	2022-08-27	2022-09-26
+2	1	We're launching a company-wide sales contest to motivate and reward our top performers. The winner will receive $4000. Let's work together to achieve our goals!	2022-12-17	2023-01-16

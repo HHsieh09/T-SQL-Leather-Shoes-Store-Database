@@ -1,0 +1,2823 @@
+AddressID	AddressType	PersonID	Country	State	City	Street	Floor	Unit
+1	Main	1.0	US	Alabama	Birmingham	80558 Gina Crossing		Room 1177
+2	Main	2.0	US	Alabama	Gadsden	75 Towne Plaza		
+3	Main	3.0	US	Alabama	Birmingham	25 Swallow Place		
+4	Main	4.0	US	Alabama	Birmingham	8 Michigan Junction		
+5	Main	5.0	US	Alabama	Birmingham	8 Mendota Drive		Apt 1844
+6	Main	6.0	US	Alabama	Mobile	91437 Shasta Terrace		Apt 194
+7	Main	7.0	US	Alabama	Montgomery	83577 West Terrace		Apt 521
+8	Main	8.0	US	Alabama	Birmingham	4970 Ridgeway Avenue		Apt 221
+9	Main	9.0	US	Alabama	Gadsden	83973 Corben Pass		Apt 980
+10	Main	10.0	US	Alabama	Birmingham	38172 Ruskin Road		
+11	Main	11.0	US	Alabama	Birmingham	2 Delaware Trail		
+12	Main	12.0	US	Alabama	Birmingham	2 Nevada Street		Apt 446
+13	Main	13.0	US	Alabama	Birmingham	9822 Fair Oaks Parkway		Room 1
+14	Secondary	14.0	US	Oregon	Portland	5 Sauthoff Crossing		Apt 68
+15	Main	14.0	US	Alabama	Birmingham	98 Bluestem Plaza		Apt 780
+16	Main	15.0	US	Alabama	Birmingham	7 Milwaukee Park		
+17	Main	16.0	US	Alabama	Birmingham	3590 Dahle Way		Apt 1952
+18	Main	17.0	US	Alabama	Birmingham	8 Bunting Pass		Apt 923
+19	Main	18.0	US	Alabama	Birmingham	108 Mccormick Pass		Apt 85
+20	Secondary	19.0	US	Illinois	Aurora	1619 Nelson Junction		Room 85
+21	Main	19.0	US	Alaska	Anchorage	309 Kenwood Avenue		
+22	Main	20.0	US	Alaska	Anchorage	90 Dennis Circle		
+23	Main	21.0	US	Alaska	Anchorage	7604 Mcbride Avenue		
+24	Main	22.0	US	Alaska	Anchorage	1078 Mcbride Hill		
+25	Main	23.0	US	Alaska	Anchorage	83 Eastwood Place		
+26	Main	24.0	US	Alaska	Anchorage	4847 Granby Parkway		
+27	Secondary	25.0	US	Washington	Spokane	98 Quincy Place		Room 1526
+28	Main	25.0	US	Alaska	Anchorage	2849 Macpherson Alley		Apt 254
+29	Main	26.0	US	Alaska	Anchorage	83105 West Point		
+30	Main	27.0	US	Arizona	Prescott	0904 Weeping Birch Junction		Apt 960
+31	Main	28.0	US	Arizona	Glendale	6820 Haas Plaza		
+32	Main	29.0	US	Arizona	Scottsdale	5841 Dakota Way		
+33	Main	30.0	US	Arizona	Phoenix	40 Walton Avenue		
+34	Main	31.0	US	Arizona	Tucson	0245 Randy Parkway		Room 1040
+35	Main	32.0	US	Arizona	Tucson	69 Gale Way		Apt 294
+36	Main	33.0	US	Arizona	Tucson	22907 Havey Trail		Room 1034
+37	Main	34.0	US	Arizona	Prescott	57905 Hallows Crossing		Apt 1814
+38	Main	35.0	US	Arizona	Tucson	81138 Village Green Trail		
+39	Main	36.0	US	Arizona	Prescott	21841 Fremont Hill		
+40	Secondary	37.0	US	New York	Albany	68 Hanover Parkway		Room 856
+41	Main	37.0	US	Arizona	Scottsdale	07725 Golf View Way		
+42	Main	38.0	US	Arizona	Phoenix	2194 Ohio Drive		
+43	Main	39.0	US	Arizona	Scottsdale	0590 Harbort Drive		
+44	Main	40.0	US	Arizona	Phoenix	1674 Miller Place		Apt 632
+45	Main	41.0	US	Arizona	Tucson	3023 Homewood Way		Apt 515
+46	Main	42.0	US	Arizona	Tucson	374 Packers Hill		Apt 666
+47	Main	43.0	US	Arizona	Phoenix	86 Morningstar Lane		
+48	Secondary	44.0	US	Mississippi	Jackson	794 Westridge Center		Apt 23
+49	Main	44.0	US	Arizona	Phoenix	078 Iowa Point		
+52	Secondary	45.0	US	Virginia	Roanoke	8200 Cottonwood Terrace	12.0	
+53	Main	45.0	US	Arizona	Scottsdale	7969 Schlimgen Road		
+54	Main	46.0	US	Arizona	Phoenix	8 Forest Dale Road		
+55	Main	47.0	US	Arizona	Tucson	9 Melody Road		
+56	Main	48.0	US	Arizona	Tempe	10001 Killdeer Alley		Apt 409
+57	Main	49.0	US	Arizona	Glendale	1028 Nobel Point		Apt 696
+58	Secondary	50.0	US	Arizona	Phoenix	50 Barnett Street	10.0	
+59	Main	50.0	US	Arizona	Scottsdale	05 Superior Crossing		
+60	Main	51.0	US	Arizona	Scottsdale	2 Orin Crossing		
+61	Main	52.0	US	Arizona	Phoenix	1 Gerald Place		
+62	Main	53.0	US	Arizona	Phoenix	80550 Norway Maple Circle		Apt 71
+63	Main	54.0	US	Arizona	Tucson	5078 Shoshone Avenue		Apt 671
+64	Main	55.0	US	Arkansas	Hot Springs National Park	888 Butternut Drive		Apt 1889
+65	Main	56.0	US	Arkansas	Hot Springs National Park	6319 Corben Avenue		Apt 1918
+66	Main	57.0	US	Arkansas	Little Rock	95 Bay Drive		
+67	Main	58.0	US	California	San Bernardino	3 Wayridge Center		
+68	Main	59.0	US	California	San Diego	897 Annamark Pass		
+69	Main	60.0	US	California	Moreno Valley	5920 Crownhardt Drive		
+70	Main	61.0	US	California	San Bernardino	2984 Florence Hill		Room 1122
+71	Main	62.0	US	California	Oakland	5 Parkside Park		
+72	Main	63.0	US	California	Petaluma	41262 Gateway Drive		Apt 1782
+73	Main	64.0	US	California	San Jose	4049 Hayes Place		
+74	Main	65.0	US	California	San Jose	83 Monterey Crossing		
+75	Main	66.0	US	California	Santa Barbara	7 Sage Place		Apt 932
+76	Secondary	67.0	US	Texas	Dallas	89870 Nevada Circle		Apt 437
+77	Main	67.0	US	California	San Francisco	6469 Shelley Terrace		
+78	Main	68.0	US	California	Sacramento	3 Holy Cross Drive		Apt 435
+79	Main	69.0	US	California	Los Angeles	3388 Kinsman Parkway		
+80	Main	70.0	US	California	San Francisco	1031 Hallows Place		Apt 63
+81	Main	71.0	US	California	San Francisco	4286 Havey Crossing		Apt 678
+82	Main	72.0	US	California	Long Beach	7 Caliangt Alley		Room 1176
+83	Secondary	73.0	US	Indiana	Indianapolis	24 Independence Parkway	16.0	
+84	Main	73.0	US	California	Los Angeles	95676 Texas Hill		
+85	Main	74.0	US	California	Los Angeles	94788 Bartillon Drive		Apt 1789
+86	Main	75.0	US	California	Fresno	03469 Raven Hill		Apt 609
+87	Main	76.0	US	California	Oakland	1 Westridge Hill		Apt 686
+88	Main	77.0	US	California	San Jose	81055 Hazelcrest Hill		Apt 829
+89	Secondary	78.0	US	Georgia	Atlanta	4 Harper Place	11.0	
+90	Main	78.0	US	California	Burbank	80 Stang Crossing		Apt 756
+91	Main	79.0	US	California	Fresno	714 Bashford Avenue		
+92	Main	80.0	US	California	Anaheim	7121 Vahlen Lane		
+93	Main	81.0	US	California	Los Angeles	8415 Eastlawn Alley		Apt 995
+94	Main	82.0	US	California	San Jose	842 Mallory Parkway		
+95	Main	83.0	US	California	Long Beach	792 Golf View Trail		
+96	Main	84.0	US	California	Sacramento	1 Twin Pines Street		
+97	Secondary	85.0	US	Wisconsin	Green Bay	13418 Logan Hill		Suite 27
+98	Main	85.0	US	California	Santa Cruz	431 Sachs Avenue		
+99	Main	86.0	US	California	San Jose	7638 Moose Parkway		
+100	Main	87.0	US	California	Riverside	9 Dovetail Circle		
+101	Main	88.0	US	California	Salinas	121 Fieldstone Street		Apt 968
+102	Main	89.0	US	California	Los Angeles	692 Armistice Center		
+103	Main	90.0	US	California	San Jose	21 Chive Avenue		
+104	Main	91.0	US	California	San Diego	349 Ridgeway Road		
+105	Main	92.0	US	California	Newport Beach	1801 Melvin Terrace		
+106	Main	93.0	US	California	San Diego	26873 Loeprich Plaza		Apt 916
+107	Main	94.0	US	California	Moreno Valley	8591 Logan Hill		
+108	Main	95.0	US	California	Salinas	516 Eastwood Plaza		
+109	Main	96.0	US	California	San Diego	8408 Schurz Hill		
+110	Main	97.0	US	California	Sacramento	0778 Ramsey Terrace		Apt 309
+111	Main	98.0	US	California	Fresno	97126 Mitchell Trail		
+112	Main	99.0	US	California	San Jose	6 Harbort Parkway		
+113	Main	100.0	US	California	Van Nuys	212 Westport Junction		Room 112
+114	Main	101.0	US	California	Sunnyvale	179 Basil Way		Apt 906
+115	Main	102.0	US	California	Fullerton	7 Birchwood Street		
+116	Main	103.0	US	California	San Jose	102 Mandrake Park		
+117	Main	104.0	US	California	Sacramento	32641 Warner Alley		Apt 616
+118	Secondary	105.0	US	Florida	Ocala	3713 Roxbury Point		Suite 15
+119	Main	105.0	US	California	Moreno Valley	01890 Knutson Circle		
+120	Main	106.0	US	California	Long Beach	0759 Merchant Park		
+121	Main	107.0	US	California	South Lake Tahoe	6 Waubesa Terrace		
+122	Main	108.0	US	California	Los Angeles	1617 Bunting Junction		
+123	Main	109.0	US	California	Los Angeles	59956 East Alley		Apt 771
+124	Main	110.0	US	California	San Francisco	3294 Buena Vista Pass		
+125	Main	111.0	US	California	San Francisco	8 Bay Way		
+126	Main	112.0	US	California	San Bernardino	8 Rusk Trail		Apt 646
+127	Main	113.0	US	California	Glendale	6 Springview Drive		
+128	Secondary	114.0	US	Massachusetts	Springfield	780 Michigan Crossing		Suite 72
+129	Main	114.0	US	California	San Bernardino	70 Tennyson Park		Apt 448
+131	Secondary	115.0	US	Texas	Tyler	34 Quincy Crossing	1.0	
+132	Main	115.0	US	California	Orange	7 Longview Pass		
+133	Secondary	116.0	US	Arizona	Mesa	0693 Killdeer Park		
+134	Main	116.0	US	California	Fresno	49820 Annamark Parkway		
+135	Main	117.0	US	California	Santa Barbara	8 Kim Trail		
+136	Main	118.0	US	California	Oakland	487 6th Road		
+137	Main	119.0	US	California	Sacramento	2258 Blaine Street		Apt 441
+138	Main	120.0	US	California	Fresno	58241 Parkside Junction		Apt 635
+139	Main	121.0	US	California	Los Angeles	39085 Sunbrook Road		
+140	Main	122.0	US	California	Los Angeles	948 Esker Avenue		Apt 617
+141	Main	123.0	US	California	Pasadena	51 Straubel Plaza		
+142	Main	124.0	US	California	San Jose	1398 Towne Center		
+143	Main	125.0	US	California	Los Angeles	8 Crownhardt Pass		
+144	Main	126.0	US	California	San Francisco	78613 Dryden Hill		
+145	Main	127.0	US	California	Riverside	746 Eliot Avenue		
+146	Main	128.0	US	California	Sacramento	2 Manufacturers Drive		Apt 47
+147	Main	129.0	US	California	San Diego	69495 Esch Avenue		
+148	Main	130.0	US	California	San Jose	928 Cherokee Trail		Apt 387
+149	Main	131.0	US	California	San Diego	10 Nevada Way		Apt 1990
+150	Secondary	132.0	US	Florida	Jacksonville	0548 Del Mar Parkway		Apt 1205
+151	Main	132.0	US	California	Fresno	4790 Kedzie Drive		Apt 1927
+152	Main	133.0	US	California	Corona	9634 Little Fleur Junction		Apt 1979
+153	Main	134.0	US	California	San Diego	90418 Doe Crossing Road		Apt 873
+154	Main	135.0	US	California	San Diego	89390 Mosinee Road		
+155	Main	136.0	US	California	Northridge	167 Iowa Point		Apt 359
+156	Main	137.0	US	California	Fresno	08 Michigan Lane		
+157	Main	138.0	US	California	Sacramento	74348 Schurz Park		
+158	Main	139.0	US	California	Van Nuys	8346 Morrow Avenue		
+159	Secondary	140.0	US	Texas	Wichita Falls	112 Loftsgordon Road		Suite 41
+160	Main	140.0	US	California	San Jose	4 Sauthoff Alley		
+161	Main	141.0	US	California	Oakland	51866 Holy Cross Place		
+162	Main	142.0	US	California	Los Angeles	3309 Pankratz Avenue		
+163	Main	143.0	US	California	Los Angeles	594 Waywood Circle		Room 1006
+164	Main	144.0	US	California	Los Angeles	08009 Fallview Pass		
+165	Main	145.0	US	California	San Francisco	0 Susan Court		Apt 1798
+166	Main	146.0	US	California	Sacramento	44986 Gale Circle		
+167	Main	147.0	US	California	San Diego	40699 Manitowish Circle		
+168	Main	148.0	US	California	San Bernardino	205 Del Sol Circle		
+169	Main	149.0	US	California	Santa Cruz	62109 Maryland Way		
+170	Main	150.0	US	Colorado	Denver	10 Killdeer Drive		Apt 431
+171	Main	151.0	US	Colorado	Pueblo	10 Roxbury Place		
+172	Main	152.0	US	Colorado	Pueblo	3127 Lyons Hill		
+173	Main	153.0	US	Colorado	Boulder	345 Fisk Hill		
+174	Main	154.0	US	Colorado	Pueblo	51 Roth Drive		Apt 306
+175	Main	155.0	US	Colorado	Littleton	8439 David Point		
+176	Secondary	156.0	US	Florida	Daytona Beach	12 La Follette Road	10.0	
+177	Main	156.0	US	Connecticut	Hartford	72244 Bayside Center		Apt 742
+178	Main	157.0	US	Connecticut	West Hartford	327 East Drive		Apt 497
+179	Secondary	158.0	US	Iowa	Davenport	2614 Killdeer Lane	3.0	
+180	Main	158.0	US	Connecticut	Waterbury	44 Debs Park		
+181	Main	159.0	US	Connecticut	New Haven	9 Grim Court		Apt 359
+182	Main	160.0	US	Connecticut	Hartford	88993 Dovetail Trail		Room 1078
+183	Main	161.0	US	Connecticut	Waterbury	0435 Lillian Way		
+184	Main	162.0	US	Connecticut	New Haven	14531 Northridge Trail		Room 1149
+185	Main	163.0	US	Connecticut	Waterbury	4 Anderson Road		
+186	Main	164.0	US	Delaware	Wilmington	36 1st Pass		
+187	Main	165.0	US	Delaware	Newark	024 Morrow Park		
+188	Main	166.0	US	Delaware	Wilmington	28770 Elgar Place		
+189	Main	167.0	US	Delaware	Newark	32490 Paget Road		Apt 465
+190	Main	168.0	US	Delaware	Wilmington	8 Swallow Parkway		
+191	Main	169.0	US	District of Columbia	Washington	1915 Sloan Crossing		
+192	Main	170.0	US	District of Columbia	Washington	175 Kim Drive		Room 100
+193	Main	171.0	US	District of Columbia	Washington	364 Farwell Alley		
+194	Secondary	172.0	US	Ohio	Hamilton	07 Nancy Place		Suite 87
+195	Main	172.0	US	District of Columbia	Washington	3 Elmside Park		Apt 554
+196	Main	173.0	US	District of Columbia	Washington	4 Ridge Oak Lane		
+197	Main	174.0	US	District of Columbia	Washington	5265 Express Place		
+198	Main	175.0	US	District of Columbia	Washington	2227 Schiller Drive		Room 1091
+199	Main	176.0	US	District of Columbia	Washington	74080 Elka Hill		
+200	Main	177.0	US	District of Columbia	Washington	78507 Elgar Drive		Apt 188
+201	Main	178.0	US	District of Columbia	Washington	45183 Corben Avenue		
+202	Main	179.0	US	District of Columbia	Washington	19657 Cottonwood Trail		
+203	Main	180.0	US	District of Columbia	Washington	26614 Banding Place		
+204	Main	181.0	US	District of Columbia	Washington	592 Delladonna Crossing		Apt 1907
+205	Main	182.0	US	District of Columbia	Washington	73 Pine View Circle		Apt 445
+206	Main	183.0	US	District of Columbia	Washington	7 Jackson Park		
+207	Main	184.0	US	District of Columbia	Washington	77349 7th Avenue		Apt 74
+208	Main	185.0	US	District of Columbia	Washington	48 Pankratz Lane		Apt 796
+209	Main	186.0	US	Florida	Pensacola	41901 Clemons Pass		
+210	Main	187.0	US	Florida	Gainesville	1 Holy Cross Court		
+211	Main	188.0	US	Florida	Sarasota	5 Waxwing Road		
+212	Main	189.0	US	Florida	Clearwater	5586 Esker Hill		
+213	Main	190.0	US	Florida	Pensacola	932 Memorial Court		
+214	Main	191.0	US	Florida	Port Saint Lucie	375 Pepper Wood Pass		
+215	Main	192.0	US	Florida	Miami	5719 Grover Street		Room 1166
+216	Main	193.0	US	Florida	Gainesville	91919 Northridge Street		Apt 824
+217	Main	194.0	US	Florida	Fort Pierce	13802 Vera Street		
+218	Main	195.0	US	Florida	Bradenton	01 Maryland Drive		Apt 432
+219	Secondary	196.0	US	California	Berkeley	028 Fairview Plaza	9.0	
+220	Main	196.0	US	Florida	Tampa	1 Cottonwood Hill		
+221	Main	197.0	US	Florida	Jacksonville	0 Carey Plaza		
+222	Secondary	198.0	US	New York	New York City	74 Daystar Center		
+223	Main	198.0	US	Florida	Naples	83 1st Park		
+224	Main	199.0	US	Florida	Hollywood	755 Mallory Drive		Apt 1915
+225	Main	200.0	US	Florida	Panama City	96 Ryan Junction		
+226	Main	201.0	US	Florida	Fort Myers	39 Pleasure Center		
+227	Main	202.0	US	Florida	Daytona Beach	57 Goodland Lane		Apt 1921
+228	Main	203.0	US	Florida	Lakeland	697 Farragut Drive		Apt 734
+229	Main	204.0	US	Florida	Vero Beach	626 Summer Ridge Street		Apt 1982
+230	Main	205.0	US	Florida	Tampa	1087 Magdeline Plaza		
+231	Secondary	206.0	US	Mississippi	Jackson	506 Swallow Crossing	15.0	
+232	Main	206.0	US	Florida	Sarasota	91970 Hallows Parkway		
+233	Main	207.0	US	Florida	Pompano Beach	6 Schurz Trail		
+234	Main	208.0	US	Florida	Fort Pierce	8 Mcguire Hill		
+235	Main	209.0	US	Florida	Boynton Beach	PO Box 62257		
+236	Main	210.0	US	Florida	West Palm Beach	5 Caliangt Hill		
+237	Main	211.0	US	Florida	Panama City	812 Mockingbird Park		
+238	Main	212.0	US	Florida	Saint Petersburg	114 Linden Pass		
+239	Secondary	213.0	US	Colorado	Colorado Springs	70216 Anderson Hill		Suite 34
+240	Main	213.0	US	Florida	Jacksonville	06823 Huxley Park		Apt 18
+241	Main	214.0	US	Florida	Kissimmee	122 Redwing Circle		Apt 543
+242	Main	215.0	US	Florida	Tampa	6 Milwaukee Court		Apt 200
+243	Main	216.0	US	Florida	Daytona Beach	0 Hoepker Plaza		
+244	Main	217.0	US	Florida	Miami Beach	3459 Browning Center		Apt 70
+245	Main	218.0	US	Florida	Panama City	42985 Meadow Valley Terrace		
+246	Main	219.0	US	Florida	Tallahassee	0 Fremont Street		
+247	Main	220.0	US	Florida	Kissimmee	88 Pankratz Trail		
+248	Secondary	221.0	US	Florida	Orlando	5 Riverside Avenue		Suite 61
+249	Main	221.0	US	Florida	Fort Lauderdale	591 Mccormick Junction		
+250	Main	222.0	US	Florida	Bradenton	35652 4th Circle		
+251	Main	223.0	US	Florida	Jacksonville	608 Linden Park		
+252	Secondary	224.0	US	Kentucky	Lexington	8 Killdeer Junction		Room 1094
+253	Main	224.0	US	Florida	Clearwater	9 Dexter Plaza		Apt 47
+254	Main	225.0	US	Florida	Naples	58 Jenifer Road		
+255	Main	226.0	US	Florida	Bradenton	22 Victoria Park		
+256	Secondary	227.0	US	Missouri	Saint Louis	732 Del Mar Way		Suite 41
+257	Main	227.0	US	Florida	Hollywood	1 Commercial Drive		
+258	Main	228.0	US	Florida	Tallahassee	886 Crest Line Plaza		
+259	Main	229.0	US	Florida	Pensacola	0 Manitowish Crossing		
+260	Secondary	230.0	US	Kansas	Kansas City	1076 Golden Leaf Point		Suite 92
+261	Main	230.0	US	Florida	Fort Myers	7186 Talmadge Terrace		Apt 1769
+262	Main	231.0	US	Florida	Daytona Beach	46 Calypso Junction		Room 1182
+263	Main	232.0	US	Florida	Fort Pierce	10708 Carioca Alley		
+264	Secondary	233.0	US	Texas	Longview	2 Merry Alley	8.0	
+265	Main	233.0	US	Florida	Miami	09317 Forest Dale Street		
+266	Secondary	234.0	US	California	Los Angeles	366 Scoville Hill		Room 1287
+267	Main	234.0	US	Florida	Lakeland	03 Quincy Hill		
+268	Main	235.0	US	Florida	Fort Lauderdale	916 Vernon Way		
+269	Main	236.0	US	Florida	Brooksville	83 Lakewood Gardens Road		
+270	Main	237.0	US	Florida	Jacksonville	9 Continental Circle		Apt 1864
+271	Main	238.0	US	Florida	Miami	4699 Laurel Drive		Apt 643
+272	Secondary	239.0	US	District of Columbia	Washington	10 Lerdahl Park		Room 689
+273	Main	239.0	US	Florida	Miami Beach	332 Namekagon Trail		
+274	Secondary	240.0	US	Louisiana	Shreveport	58 Paget Drive		Apt 642
+275	Main	240.0	US	Florida	Fort Lauderdale	805 Rieder Crossing		Room 105
+276	Main	241.0	US	Florida	Gainesville	Suite 86		
+277	Main	242.0	US	Florida	Saint Petersburg	447 Springs Terrace		
+278	Main	243.0	US	Florida	Tallahassee	4 Ilene Parkway		
+279	Main	244.0	US	Florida	Melbourne	37 Morning Pass		Apt 1893
+280	Main	245.0	US	Florida	Gainesville	035 Rowland Plaza		
+281	Main	246.0	US	Florida	Clearwater	8168 Norway Maple Alley		
+282	Secondary	247.0	US	Illinois	Carol Stream	1971 Longview Court		Suite 80
+283	Main	247.0	US	Florida	Bradenton	12544 Fair Oaks Drive		Apt 249
+284	Secondary	248.0	US	Florida	Sarasota	0475 Sugar Way		Apt 1594
+285	Main	248.0	US	Florida	Daytona Beach	4452 Forest Run Center		
+286	Main	249.0	US	Florida	Lakeland	97522 Straubel Park		
+287	Main	250.0	US	Florida	Naples	252 Morrow Parkway		Apt 239
+288	Main	251.0	US	Florida	Bradenton	0 Gulseth Point		
+289	Main	252.0	US	Georgia	Atlanta	55301 Milwaukee Plaza		
+290	Secondary	253.0	US	Georgia	Macon	6 Sunfield Point		Apt 414
+291	Main	253.0	US	Georgia	Atlanta	8164 Alpine Pass		
+292	Main	254.0	US	Georgia	Marietta	49 Blue Bill Park Terrace		
+293	Secondary	255.0	US	Louisiana	New Orleans	95128 Quincy Pass		Room 390
+294	Main	255.0	US	Georgia	Atlanta	38619 Mcbride Park		Apt 228
+295	Main	256.0	US	Georgia	Atlanta	31 Loomis Terrace		Apt 860
+296	Main	257.0	US	Georgia	Valdosta	8677 Brentwood Terrace		
+297	Main	258.0	US	Georgia	Valdosta	5614 Carberry Terrace		
+298	Main	259.0	US	Georgia	Atlanta	73825 Jana Lane		Apt 695
+299	Main	260.0	US	Georgia	Savannah	94872 Meadow Valley Hill		
+300	Main	261.0	US	Georgia	Atlanta	90 Kinsman Place		Apt 1839
+301	Main	262.0	US	Georgia	Atlanta	4426 Brickson Park Junction		Apt 913
+302	Main	263.0	US	Georgia	Lawrenceville	3 Hovde Lane		Apt 669
+303	Main	264.0	US	Georgia	Savannah	60 Melody Crossing		
+304	Secondary	265.0	US	Michigan	Saginaw	3263 Chive Circle		Room 100
+305	Main	265.0	US	Georgia	Atlanta	7916 Barnett Hill		
+306	Main	266.0	US	Georgia	Atlanta	501 Montana Point		
+307	Secondary	267.0	US	Louisiana	Metairie	69 Tomscot Pass		Suite 5
+308	Main	267.0	US	Georgia	Atlanta	1766 Forest Run Park		
+309	Secondary	268.0	US	Minnesota	Young America	2554 6th Way		Suite 32
+310	Main	268.0	US	Georgia	Atlanta	39 Becker Lane		
+311	Main	269.0	US	Georgia	Valdosta	46365 Merrick Parkway		Apt 555
+312	Main	270.0	US	Georgia	Macon	5233 Westend Alley		
+313	Secondary	271.0	US	Louisiana	New Orleans	3827 Longview Terrace		Room 1778
+314	Main	271.0	US	Georgia	Atlanta	0232 7th Crossing		Apt 299
+315	Main	272.0	US	Georgia	Decatur	23422 Pepper Wood Street		
+316	Main	273.0	US	Georgia	Alpharetta	85 Mallard Pass		Room 111
+317	Secondary	274.0	US	New Jersey	Trenton	96143 Crowley Center		Apt 1069
+318	Main	274.0	US	Georgia	Savannah	065 Blackbird Court		
+319	Main	275.0	US	Georgia	Lawrenceville	3 Katie Point		Apt 183
+320	Main	276.0	US	Georgia	Atlanta	73 Nevada Drive		
+321	Main	277.0	US	Georgia	Athens	81361 Monterey Crossing		Apt 839
+322	Main	278.0	US	Georgia	Atlanta	37861 Bashford Street		
+323	Main	279.0	US	Georgia	Atlanta	31 Hauk Crossing		
+324	Secondary	280.0	US	Texas	El Paso	100 High Crossing Junction		Room 13
+325	Main	280.0	US	Georgia	Augusta	781 Heath Terrace		Apt 789
+326	Main	281.0	US	Hawaii	Honolulu	7986 La Follette Circle		
+327	Main	282.0	US	Idaho	Idaho Falls	3 Carioca Drive		Apt 785
+328	Main	283.0	US	Idaho	Boise	58 Westridge Way		
+329	Main	284.0	US	Idaho	Boise	0 Rieder Plaza		
+330	Main	285.0	US	Idaho	Boise	1559 Bowman Way		Apt 794
+331	Main	286.0	US	Idaho	Boise	9 Novick Hill		
+332	Main	287.0	US	Idaho	Boise	667 Evergreen Trail		
+333	Main	288.0	US	Idaho	Idaho Falls	17		
+334	Main	289.0	US	Idaho	Boise	542 Westerfield Point		
+335	Main	290.0	US	Idaho	Boise	16869 Butternut Plaza		Room 1061
+336	Main	291.0	US	Idaho	Idaho Falls	11 Ruskin Center		Apt 437
+337	Secondary	292.0	US	District of Columbia	Washington	223 Bluestem Park		Suite 36
+338	Main	292.0	US	Idaho	Boise	9123 Victoria Hill		
+339	Main	293.0	US	Illinois	Palatine	21022 Anthes Drive		
+340	Main	294.0	US	Illinois	Chicago	6 Scofield Park		Apt 543
+341	Secondary	295.0	US	California	Los Angeles	2363 Pleasure Place		Suite 12
+342	Main	295.0	US	Illinois	Peoria	924 Monument Crossing		
+343	Main	296.0	US	Illinois	Springfield	4900 Cherokee Way		
+344	Main	297.0	US	Illinois	Chicago	37331 Reindahl Point		
+345	Main	298.0	US	Illinois	Chicago	4 Canary Lane		
+346	Main	299.0	US	Illinois	Naperville	1 Warrior Pass		
+347	Main	300.0	US	Illinois	Springfield	3 Bunting Parkway		Room 1078
+348	Main	301.0	US	Illinois	Palatine	157 Carberry Way		Apt 584
+349	Main	302.0	US	Illinois	Chicago	2375 Mallory Trail		
+350	Main	303.0	US	Illinois	Springfield	4 Waubesa Circle		
+351	Main	304.0	US	Illinois	Chicago	907 Village Green Center		
+352	Secondary	305.0	US	Louisiana	New Orleans	592 Independence Junction		Suite 69
+353	Main	305.0	US	Illinois	Chicago	9454 Loeprich Court		Apt 366
+354	Main	306.0	US	Illinois	Chicago	82329 Chinook Trail		Apt 32
+355	Main	307.0	US	Illinois	Chicago	94 Barnett Hill		Apt 202
+356	Main	308.0	US	Illinois	Chicago	6 Dennis Terrace		Apt 632
+357	Main	309.0	US	Illinois	Chicago	67519 Lotheville Circle		
+358	Secondary	310.0	US	Texas	El Paso	0057 American Ash Circle		Suite 37
+359	Main	310.0	US	Illinois	Peoria	6 Bonner Park		
+360	Main	311.0	US	Illinois	Springfield	3 Hollow Ridge Court		
+361	Main	312.0	US	Illinois	Peoria	7 Corben Trail		
+362	Main	313.0	US	Illinois	Palatine	8 Carpenter Park		
+363	Main	314.0	US	Illinois	Chicago	64 Old Shore Pass		
+364	Main	315.0	US	Illinois	Chicago	09190 Dottie Way		
+365	Main	316.0	US	Indiana	Fort Wayne	76440 Eliot Terrace		
+366	Main	317.0	US	Indiana	Bloomington	9147 Ruskin Crossing		
+367	Main	318.0	US	Indiana	Evansville	67 Manley Alley		Apt 207
+368	Main	319.0	US	Indiana	Fort Wayne	23357 Transport Street		Apt 223
+369	Main	320.0	US	Indiana	Muncie	49 Dwight Hill		Apt 1852
+370	Main	321.0	US	Indiana	Indianapolis	12414 Corry Trail		Apt 1860
+371	Main	322.0	US	Indiana	Indianapolis	7929 Chive Parkway		
+372	Main	323.0	US	Indiana	Indianapolis	59 Continental Trail		
+373	Main	324.0	US	Indiana	Indianapolis	90853 Bonner Trail		
+374	Main	325.0	US	Indiana	South Bend	62 Rigney Way		Room 1045
+375	Main	326.0	US	Indiana	Fort Wayne	10 Lawn Drive		Apt 320
+376	Main	327.0	US	Indiana	Crawfordsville	74 Stoughton Park		
+377	Main	328.0	US	Indiana	Fort Wayne	65 Shopko Court		Apt 249
+378	Main	329.0	US	Indiana	South Bend	56330 Claremont Court		
+379	Secondary	330.0	US	New Mexico	Albuquerque	455 Susan Circle		Room 378
+380	Main	330.0	US	Indiana	Indianapolis	11902 Thackeray Point		
+381	Main	331.0	US	Indiana	Indianapolis	18 Ridgeview Street		
+382	Main	332.0	US	Indiana	Bloomington	35 Arrowood Trail		
+383	Secondary	333.0	US	California	San Jose	35 High Crossing Junction		
+384	Main	333.0	US	Indiana	Indianapolis	8750 Fallview Place		Apt 425
+385	Main	334.0	US	Indiana	Fort Wayne	89072 Moulton Terrace		
+386	Main	335.0	US	Indiana	Indianapolis	12210 Elmside Circle		Apt 1891
+387	Main	336.0	US	Indiana	Fort Wayne	79 Hayes Avenue		Apt 1858
+388	Main	337.0	US	Indiana	Evansville	9 Anderson Court		
+389	Main	338.0	US	Indiana	Crawfordsville	7 Arkansas Crossing		Apt 58
+390	Main	339.0	US	Indiana	Fort Wayne	1442 Red Cloud Street		Apt 766
+391	Main	340.0	US	Indiana	Fort Wayne	1976 Buhler Street		
+392	Main	341.0	US	Indiana	Muncie	4 Walton Way		
+393	Main	342.0	US	Iowa	Davenport	75 Commercial Pass		
+394	Secondary	343.0	US	Colorado	Boulder	7 Vera Alley		Apt 294
+395	Main	343.0	US	Iowa	Des Moines	30800 Carioca Trail		
+396	Main	344.0	US	Iowa	Davenport	99887 Bashford Place		
+397	Main	345.0	US	Iowa	Des Moines	6036 Emmet Pass		Apt 517
+398	Main	346.0	US	Iowa	Des Moines	6 Hallows Point		Apt 80
+399	Main	347.0	US	Iowa	Des Moines	57 Union Way		
+400	Main	348.0	US	Iowa	Des Moines	96 Jana Road		
+401	Main	349.0	US	Iowa	Davenport	794 Hoard Place		
+402	Main	350.0	US	Iowa	Des Moines	88 Comanche Point		Apt 599
+403	Main	351.0	US	Iowa	Davenport	5 Corry Street		
+404	Main	352.0	US	Iowa	Des Moines	58 Killdeer Way		Apt 847
+405	Main	353.0	US	Iowa	Des Moines	6894 Eggendart Avenue		
+406	Main	354.0	US	Iowa	Davenport	817 Mockingbird Court		Apt 755
+407	Main	355.0	US	Kansas	Topeka	37335 Huxley Court		
+408	Secondary	356.0	US	Ohio	Cleveland	1892 Corben Street		Apt 1014
+409	Main	356.0	US	Kansas	Topeka	5115 Larry Hill		Apt 418
+410	Main	357.0	US	Kansas	Shawnee Mission	250 Northport Way		Apt 640
+411	Main	358.0	US	Kansas	Topeka	765 Steensland Terrace		
+412	Main	359.0	US	Kansas	Wichita	18 Hanover Court		
+413	Main	360.0	US	Kansas	Shawnee Mission	645 Mcbride Park		
+414	Main	361.0	US	Kansas	Shawnee Mission	9315 Thackeray Crossing		
+415	Main	362.0	US	Kansas	Shawnee Mission	18 Sunfield Alley		
+416	Main	363.0	US	Kansas	Shawnee Mission	7 Judy Way		
+417	Main	364.0	US	Kansas	Topeka	8041 Lien Place		Apt 833
+418	Main	365.0	US	Kansas	Shawnee Mission	84442 Monica Avenue		Apt 911
+419	Main	366.0	US	Kansas	Shawnee Mission	9 Granby Way		Apt 224
+420	Main	367.0	US	Kentucky	Louisville	7105 7th Trail		
+421	Secondary	368.0	US	Florida	Miami	4501 Union Pass	8.0	
+422	Main	368.0	US	Kentucky	Lexington	3 Hallows Terrace		Room 1034
+423	Main	369.0	US	Kentucky	Lexington	398 Thierer Drive		
+424	Main	370.0	US	Kentucky	Louisville	155 Bonner Plaza		Apt 572
+425	Secondary	371.0	US	Texas	Arlington	5210 Grim Road	5.0	
+426	Main	371.0	US	Kentucky	Lexington	56223 Schlimgen Point		
+427	Main	372.0	US	Louisiana	Lafayette	93696 Bobwhite Center		Apt 824
+428	Main	373.0	US	Louisiana	New Orleans	8 Vahlen Alley		Apt 534
+429	Main	374.0	US	Louisiana	New Orleans	47556 Dixon Plaza		
+430	Main	375.0	US	Louisiana	Lafayette	Suite 11		
+431	Main	376.0	US	Louisiana	Shreveport	5398 Schlimgen Place		Apt 835
+432	Main	377.0	US	Louisiana	Lake Charles	5 Portage Avenue		Apt 350
+434	Secondary	378.0	US	Maryland	Silver Spring	53383 Drewry Junction	5.0	
+435	Main	378.0	US	Louisiana	Lafayette	499 Laurel Street		
+436	Main	379.0	US	Louisiana	New Orleans	428 Gina Place		
+437	Main	380.0	US	Louisiana	Shreveport	321 Mandrake Way		Room 1017
+438	Main	381.0	US	Louisiana	Lake Charles	46 Messerschmidt Pass		Apt 36
+439	Main	382.0	US	Louisiana	Lake Charles	5060 Reinke Circle		Apt 1774
+440	Main	383.0	US	Louisiana	New Orleans	720 Cherokee Terrace		
+441	Main	384.0	US	Louisiana	Lafayette	51641 Alpine Circle		
+442	Main	385.0	US	Louisiana	New Orleans	25551 Bultman Trail		
+443	Main	386.0	US	Louisiana	New Orleans	7703 Riverside Place		Apt 1816
+444	Main	387.0	US	Maryland	Baltimore	2 Eagan Pass		
+445	Secondary	388.0	US	Alabama	Mobile	97607 Columbus Street		Apt 474
+446	Main	388.0	US	Maryland	Baltimore	5719 Sloan Avenue		
+447	Main	389.0	US	Maryland	Silver Spring	65841 Burning Wood Lane		
+448	Main	390.0	US	Maryland	Gaithersburg	2977 Hudson Pass		Room 1
+449	Main	391.0	US	Maryland	Silver Spring	82 Fuller Junction		
+450	Main	392.0	US	Maryland	Baltimore	040 Roth Street		
+451	Main	393.0	US	Massachusetts	Boston	59046 Johnson Terrace		
+452	Main	394.0	US	Massachusetts	Boston	6 Granby Plaza		Room 11
+453	Main	395.0	US	Massachusetts	Boston	48 Hovde Drive		Apt 437
+454	Main	396.0	US	Massachusetts	Boston	976 Meadow Valley Park		Apt 587
+455	Main	397.0	US	Massachusetts	Boston	78648 Shoshone Terrace		
+456	Main	398.0	US	Massachusetts	Cambridge	1 Sycamore Trail		
+457	Secondary	399.0	US	Florida	Largo	0467 Donald Pass		Suite 49
+458	Main	399.0	US	Massachusetts	Brockton	85504 Elgar Lane		
+459	Main	400.0	US	Massachusetts	Boston	18981 Aberg Park		
+460	Main	401.0	US	Massachusetts	Newton	188 Fallview Drive		Apt 477
+461	Main	402.0	US	Massachusetts	Boston	1 Blue Bill Park Lane		
+462	Secondary	403.0	US	Washington	Vancouver	07 Chive Street		Suite 63
+463	Main	403.0	US	Massachusetts	Watertown	9935 Mifflin Lane		
+464	Main	404.0	US	Massachusetts	Boston	314 Rockefeller Pass		
+465	Main	405.0	US	Massachusetts	Brockton	871 Dryden Hill		
+466	Main	406.0	US	Michigan	Kalamazoo	104 Ryan Circle		Apt 802
+467	Main	407.0	US	Michigan	Battle Creek	6680 Eagan Lane		Apt 621
+468	Main	408.0	US	Michigan	Farmington	2690 Nancy Circle		
+469	Main	409.0	US	Michigan	Grand Rapids	8 Express Center		
+470	Secondary	410.0	US	West Virginia	Charleston	0413 Ridgeway Place		Suite 33
+471	Main	410.0	US	Michigan	Detroit	17 Vahlen Pass		Apt 552
+472	Main	411.0	US	Michigan	Detroit	030 Rowland Way		
+473	Main	412.0	US	Michigan	Ann Arbor	810 Barnett Hill		Apt 804
+474	Main	413.0	US	Michigan	Grand Rapids	89 Bashford Place		
+475	Secondary	414.0	US	New Mexico	Albuquerque	189 Lotheville Street		Suite 62
+476	Main	414.0	US	Michigan	Saginaw	793 Division Crossing		
+477	Main	415.0	US	Michigan	Southfield	60 Holy Cross Parkway		Apt 1979
+478	Main	416.0	US	Michigan	Dearborn	9955 Hanover Terrace		
+479	Secondary	417.0	US	Connecticut	Fairfield	7 Larry Court		
+480	Main	417.0	US	Michigan	Flint	42629 Graedel Street		
+481	Main	418.0	US	Michigan	Grand Rapids	02 Daystar Place		
+482	Main	419.0	US	Michigan	Grand Rapids	21 Gulseth Court		
+483	Main	420.0	US	Michigan	Dearborn	3 Orin Court		Apt 324
+484	Secondary	421.0	US	North Carolina	Durham	435 Mandrake Street		
+485	Main	421.0	US	Michigan	Kalamazoo	9560 4th Center		Apt 1780
+486	Main	422.0	US	Minnesota	Minneapolis	5 Coolidge Point		Apt 228
+487	Secondary	423.0	US	Texas	San Angelo	5 Dottie Pass		Apt 978
+488	Main	423.0	US	Minnesota	Minneapolis	55510 Sheridan Street		
+489	Main	424.0	US	Minnesota	Monticello	300 Southridge Hill		
+490	Main	425.0	US	Minnesota	Minneapolis	3585 Pond Point		
+491	Main	426.0	US	Minnesota	Saint Paul	472 Ridgeview Pass		
+492	Main	427.0	US	Minnesota	Minneapolis	19 Gerald Junction		
+493	Secondary	428.0	US	Minnesota	Minneapolis	4 Stang Circle		Suite 56
+494	Main	428.0	US	Minnesota	Saint Paul	2936 Mayer Alley		
+495	Main	429.0	US	Minnesota	Minneapolis	58 Roth Park		
+496	Main	430.0	US	Minnesota	Monticello	84526 Express Alley		
+497	Main	431.0	US	Minnesota	Minneapolis	98 Erie Plaza		
+498	Main	432.0	US	Minnesota	Saint Paul	621 Merchant Trail		
+499	Main	433.0	US	Minnesota	Rochester	165 Bashford Place		Apt 616
+500	Main	434.0	US	Minnesota	Minneapolis	43 Graceland Way		Apt 666
+501	Main	435.0	US	Minnesota	Duluth	14 Ridge Oak Street		
+502	Main	436.0	US	Minnesota	Saint Paul	003 Sloan Trail		Apt 514
+503	Main	437.0	US	Mississippi	Jackson	5 Mcguire Lane		Apt 901
+504	Secondary	438.0	US	Kentucky	Louisville	97 Mitchell Court		Suite 23
+505	Main	438.0	US	Mississippi	Jackson	94 Sullivan Plaza		Apt 395
+506	Secondary	439.0	US	Texas	Houston	241 Ruskin Street		Apt 1227
+507	Main	439.0	US	Mississippi	Jackson	9 Grayhawk Circle		Apt 222
+508	Main	440.0	US	Mississippi	Jackson	45 Riverside Court		
+509	Main	441.0	US	Mississippi	Jackson	0 Forest Run Street		
+510	Main	442.0	US	Mississippi	Columbus	26272 8th Hill		
+511	Secondary	443.0	US	Florida	Pensacola	0605 Sugar Place		Apt 1923
+512	Main	443.0	US	Mississippi	Hattiesburg	8683 Loeprich Point		
+513	Main	444.0	US	Mississippi	Gulfport	849 Arizona Court		
+514	Main	445.0	US	Missouri	Kansas City	993 Orin Circle		Apt 1877
+515	Main	446.0	US	Missouri	Saint Louis	7 Bluestem Terrace		
+516	Secondary	447.0	US	Tennessee	Nashville	755 Rigney Crossing		Apt 1668
+517	Main	447.0	US	Missouri	Lees Summit	10821 Blaine Road		
+518	Secondary	448.0	US	New Mexico	Albuquerque	869 Farragut Drive		Room 613
+519	Main	448.0	US	Missouri	Kansas City	49 Di Loreto Park		Apt 1800
+521	Secondary	449.0	US	Florida	Tampa	335 Northland Drive		Room 520
+522	Main	449.0	US	Missouri	Kansas City	5606 Di Loreto Street		
+523	Main	450.0	US	Missouri	Springfield	87 Melby Place		Apt 27
+524	Main	451.0	US	Missouri	Saint Louis	3769 Mesta Junction		
+525	Main	452.0	US	Missouri	Kansas City	98 5th Circle		Apt 1910
+526	Main	453.0	US	Missouri	Springfield	779 Leroy Lane		Apt 939
+527	Main	454.0	US	Missouri	Kansas City	5 Nelson Crossing		
+528	Main	455.0	US	Missouri	Kansas City	60 High Crossing Avenue		
+529	Main	456.0	US	Missouri	Kansas City	9 Logan Avenue		Apt 740
+530	Main	457.0	US	Missouri	Saint Louis	92080 Swallow Road		
+531	Main	458.0	US	Missouri	Jefferson City	769 Vermont Center		
+532	Secondary	459.0	US	Virginia	Hampton	136 Grayhawk Lane		Suite 70
+533	Main	459.0	US	Missouri	Kansas City	8 Darwin Drive		Apt 380
+534	Main	460.0	US	Missouri	Saint Louis	9 Straubel Alley		
+535	Secondary	461.0	US	Texas	Dallas	8 Knutson Place		Room 1992
+536	Main	461.0	US	Missouri	Kansas City	0 Aberg Drive		
+537	Main	462.0	US	Missouri	Kansas City	13079 Maywood Crossing		
+538	Main	463.0	US	Missouri	Kansas City	712 Derek Plaza		Room 1169
+539	Main	464.0	US	Missouri	Springfield	25 Boyd Center		
+540	Main	465.0	US	Missouri	Saint Louis	952 Troy Avenue		Apt 268
+541	Main	466.0	US	Missouri	Kansas City	7 Burrows Point		
+542	Main	467.0	US	Missouri	Springfield	72747 Carioca Hill		Apt 910
+543	Main	468.0	US	Missouri	Kansas City	207 Bobwhite Terrace		
+544	Secondary	469.0	US	California	Anaheim	3554 Stoughton Alley		Apt 1106
+545	Main	469.0	US	Missouri	Kansas City	29233 Cordelia Point		
+546	Main	470.0	US	Montana	Bozeman	7 Morrow Lane		
+547	Main	471.0	US	Montana	Bozeman	34 Vahlen Circle		Apt 465
+548	Main	472.0	US	Montana	Bozeman	9440 Chinook Drive		
+549	Main	473.0	US	Montana	Bozeman	741 Summer Ridge Court		
+550	Main	474.0	US	Nebraska	Omaha	02 Russell Terrace		
+551	Main	475.0	US	Nebraska	Omaha	8 Eagle Crest Junction		Apt 889
+552	Main	476.0	US	Nebraska	Omaha	03 Gerald Pass		Room 1092
+553	Main	477.0	US	Nevada	Henderson	514 Katie Terrace		
+554	Main	478.0	US	Nevada	Reno	7077 Sauthoff Road		
+555	Main	479.0	US	Nevada	North Las Vegas	13547 Troy Circle		
+556	Main	480.0	US	Nevada	Las Vegas	715 Pine View Parkway		Apt 188
+557	Main	481.0	US	Nevada	North Las Vegas	857 Union Pass		
+558	Main	482.0	US	Nevada	Las Vegas	982 Warner Pass		
+559	Main	483.0	US	Nevada	Las Vegas	537 Cascade Center		
+560	Main	484.0	US	Nevada	Reno	4 Evergreen Crossing		
+561	Main	485.0	US	Nevada	Reno	4 Fisk Place		
+562	Main	486.0	US	Nevada	North Las Vegas	569 Eagan Junction		
+564	Secondary	487.0	US	Texas	San Antonio	37 West Place		
+565	Main	487.0	US	Nevada	Las Vegas	43539 Maryland Junction		
+566	Main	488.0	US	Nevada	Las Vegas	3724 Summerview Center		
+567	Main	489.0	US	Nevada	North Las Vegas	20198 Carioca Circle		
+568	Main	490.0	US	New Jersey	Trenton	176 Manley Trail		Apt 1763
+569	Main	491.0	US	New Jersey	Jersey City	23 John Wall Court		
+570	Main	492.0	US	New Jersey	Trenton	70 Sachs Avenue		
+571	Secondary	493.0	US	California	Orange	5628 Heffernan Lane		Apt 1734
+572	Main	493.0	US	New Jersey	Elizabeth	62914 Petterle Terrace		Apt 767
+573	Main	494.0	US	New Jersey	Trenton	0 Cascade Avenue		Room 1104
+574	Main	495.0	US	New Jersey	Jersey City	61 Debra Trail		
+575	Main	496.0	US	New Jersey	Trenton	5960 Summerview Crossing		
+576	Main	497.0	US	New Jersey	Trenton	6122 Superior Plaza		Apt 810
+577	Main	498.0	US	New Mexico	Albuquerque	81395 Brentwood Lane		Apt 1978
+578	Main	499.0	US	New Mexico	Albuquerque	8 Farragut Park		
+579	Main	500.0	US	New Mexico	Santa Fe	60 Leroy Circle		
+580	Main	501.0	US	New Mexico	Albuquerque	512 Hoepker Junction		Room 110
+581	Main	502.0	US	New Mexico	Santa Fe	4081 Fair Oaks Plaza		Apt 1940
+582	Main	503.0	US	New York	Bronx	532 Upham Parkway		Apt 868
+583	Main	504.0	US	New York	Rochester	645 Sutherland Park		
+584	Main	505.0	US	New York	New York City	906 Lake View Hill		Apt 825
+585	Main	506.0	US	New York	New York City	64 Almo Junction		
+586	Main	507.0	US	New York	Elmira	97 Granby Trail		
+587	Main	508.0	US	New York	Syracuse	79952 Coolidge Court		Apt 477
+588	Main	509.0	US	New York	Brooklyn	538 Dorton Lane		
+589	Secondary	510.0	US	Alabama	Birmingham	786 Norway Maple Street		
+590	Main	510.0	US	New York	New York City	61050 Corscot Street		
+591	Main	511.0	US	New York	New York City	76 Badeau Alley		Apt 677
+592	Main	512.0	US	New York	Albany	0 Eastlawn Terrace		
+593	Secondary	513.0	US	Idaho	Boise	8838 Marcy Street	20.0	
+594	Main	513.0	US	New York	New York City	2 Morningstar Street		Room 1061
+595	Main	514.0	US	New York	Bronx	72 Scofield Drive		Apt 985
+596	Main	515.0	US	New York	Hicksville	703 Northwestern Center		Apt 1964
+597	Main	516.0	US	New York	New York City	77313 Morning Trail		
+598	Secondary	517.0	US	Texas	Dallas	500 Sycamore Lane	20.0	
+599	Main	517.0	US	New York	Syracuse	89428 Forest Dale Center		
+600	Main	518.0	US	New York	Brooklyn	1 Hallows Alley		
+601	Main	519.0	US	New York	Jamaica	71413 Messerschmidt Drive		
+602	Main	520.0	US	New York	New York City	85818 Amoth Street		
+603	Main	521.0	US	New York	New York City	214 Village Green Crossing		
+604	Main	522.0	US	New York	New York City	65 Manley Drive		
+605	Main	523.0	US	New York	New York City	795 Buhler Point		
+606	Main	524.0	US	New York	Elmira	98 Blaine Circle		Apt 341
+607	Main	525.0	US	New York	Syracuse	873 Towne Lane		
+608	Main	526.0	US	New York	Bronx	2 Sunnyside Park		
+609	Main	527.0	US	New York	Buffalo	321 Farwell Hill		Apt 344
+610	Secondary	528.0	US	District of Columbia	Washington	97 Susan Plaza		Apt 1443
+611	Main	528.0	US	New York	Brooklyn	562 Arapahoe Street		
+612	Main	529.0	US	New York	Jamaica	770 Starling Pass		
+613	Secondary	530.0	US	Tennessee	Memphis	54583 Muir Way	11.0	
+614	Main	530.0	US	New York	Brooklyn	53547 Aberg Point		
+615	Secondary	531.0	US	California	Los Angeles	3319 Fulton Avenue		Room 403
+616	Main	531.0	US	New York	New York City	970 Rieder Lane		
+617	Main	532.0	US	New York	New York City	67 North Street		
+618	Main	533.0	US	New York	Albany	1725 Shelley Parkway		
+619	Secondary	534.0	US	District of Columbia	Washington	8563 Mosinee Avenue		
+620	Main	534.0	US	New York	Brooklyn	19530 Jana Place		Room 1160
+621	Main	535.0	US	New York	New York City	04402 Brickson Park Lane		
+622	Main	536.0	US	New York	Bronx	3210 Main Road		Apt 99
+623	Main	537.0	US	New York	Albany	89021 Hovde Avenue		
+624	Main	538.0	US	New York	Hicksville	43487 Bluestem Street		
+625	Main	539.0	US	New York	New York City	1472 Fulton Street		Apt 516
+626	Main	540.0	US	New York	Bronx	00596 Northport Park		Apt 1843
+627	Main	541.0	US	New York	Staten Island	58 Buhler Terrace		Apt 988
+628	Main	542.0	US	New York	Brooklyn	8651 Dunning Crossing		
+629	Main	543.0	US	New York	Buffalo	96 Basil Point		
+630	Main	544.0	US	New York	Great Neck	455 Coolidge Terrace		
+631	Main	545.0	US	New York	New York City	324 Messerschmidt Park		
+632	Main	546.0	US	New York	Brooklyn	615 Jenna Terrace		
+633	Main	547.0	US	New York	New York City	14		
+634	Secondary	548.0	US	New York	Rochester	7 Parkside Crossing		Apt 435
+635	Main	548.0	US	New York	Brooklyn	9191 Sage Crossing		Apt 538
+636	Main	549.0	US	New York	Rochester	65332 Sommers Terrace		
+637	Main	550.0	US	New York	New York City	805 Amoth Hill		
+638	Main	551.0	US	New York	Buffalo	266 Division Plaza		
+639	Main	552.0	US	New York	Brooklyn	428 Mosinee Center		Room 1063
+640	Secondary	553.0	US	Oklahoma	Tulsa	060 Columbus Plaza	11.0	
+641	Main	553.0	US	New York	Jamaica	40402 Scoville Way		
+642	Main	554.0	US	North Carolina	Charlotte	37155 Upham Point		
+643	Main	555.0	US	North Carolina	Fayetteville	8796 Old Gate Crossing		Apt 288
+645	Secondary	556.0	US	Oregon	Portland	167 Washington Center		Apt 1923
+646	Main	556.0	US	North Carolina	Charlotte	02 Lighthouse Bay Road		
+647	Main	557.0	US	North Carolina	Charlotte	4092 Northland Lane		
+648	Main	558.0	US	North Carolina	Charlotte	22 Butterfield Parkway		
+649	Main	559.0	US	North Carolina	Charlotte	7 Mendota Crossing		
+650	Main	560.0	US	North Carolina	Fayetteville	73513 Crowley Hill		Apt 747
+651	Main	561.0	US	North Carolina	Winston Salem	31 Londonderry Point		
+652	Main	562.0	US	North Carolina	Greensboro	94 Hoepker Junction		
+653	Main	563.0	US	North Carolina	Greensboro	242 Hoffman Court		Apt 627
+654	Main	564.0	US	North Carolina	Charlotte	85727 Scott Circle		
+655	Main	565.0	US	North Carolina	Charlotte	0 Forest Dale Court		Apt 431
+656	Main	566.0	US	North Carolina	Charlotte	097 Armistice Terrace		
+657	Main	567.0	US	North Carolina	High Point	16537 Rigney Point		
+658	Main	568.0	US	North Carolina	Wilmington	4946 Talmadge Trail		
+659	Main	569.0	US	North Carolina	Fayetteville	6583 Drewry Parkway		
+660	Main	570.0	US	North Carolina	Charlotte	2 Mitchell Parkway		
+661	Main	571.0	US	North Carolina	Winston Salem	2586 Oneill Terrace		
+662	Main	572.0	US	North Carolina	Charlotte	37 Sunfield Road		Room 1092
+663	Main	573.0	US	North Carolina	Raleigh	28 Shopko Avenue		Apt 1778
+664	Secondary	574.0	US	Vermont	Montpelier	3 Dryden Street	7.0	
+665	Main	574.0	US	North Dakota	Fargo	2 Lotheville Street		Room 1162
+666	Secondary	575.0	US	Texas	Houston	5298 Clemons Trail	9.0	
+667	Main	575.0	US	North Dakota	Fargo	0464 Anderson Parkway		
+668	Main	576.0	US	North Dakota	Fargo	7469 Twin Pines Parkway		Room 1038
+669	Main	577.0	US	North Dakota	Fargo	47037 Anhalt Park		
+670	Main	578.0	US	Ohio	Cleveland	7 Dexter Street		
+671	Main	579.0	US	Ohio	Columbus	05184 Arrowood Trail		Apt 1851
+672	Main	580.0	US	Ohio	Cincinnati	836 John Wall Trail		Room 1080
+673	Main	581.0	US	Ohio	Cleveland	53886 Brown Point		Apt 861
+674	Main	582.0	US	Ohio	Akron	68505 Lien Parkway		
+675	Main	583.0	US	Ohio	Columbus	76879 Hanson Park		
+676	Main	584.0	US	Ohio	Cleveland	887 Meadow Vale Junction		Room 1170
+677	Main	585.0	US	Ohio	Dayton	9 Waubesa Drive		
+678	Main	586.0	US	Ohio	Columbus	95 East Lane		
+679	Main	587.0	US	Ohio	Dayton	16 Kennedy Parkway		Room 101
+680	Main	588.0	US	Ohio	Cincinnati	3533 Hollow Ridge Lane		Apt 66
+681	Main	589.0	US	Ohio	Columbus	2033 Butterfield Avenue		Apt 289
+682	Main	590.0	US	Ohio	Warren	2589 Michigan Terrace		Apt 183
+683	Main	591.0	US	Ohio	Toledo	81 Hansons Street		
+684	Main	592.0	US	Ohio	Canton	755 Warbler Road		Apt 724
+685	Main	593.0	US	Ohio	Columbus	2 Westridge Plaza		
+686	Secondary	594.0	US	Ohio	Cincinnati	4172 Burning Wood Terrace		Room 317
+687	Main	594.0	US	Ohio	Canton	312 5th Plaza		
+688	Main	595.0	US	Ohio	Cleveland	4 Twin Pines Street		Room 1144
+689	Main	596.0	US	Ohio	Akron	9 Glacier Hill Trail		Apt 1844
+690	Main	597.0	US	Ohio	Warren	8 Banding Way		Apt 1814
+691	Main	598.0	US	Ohio	Akron	20714 Sugar Terrace		Apt 294
+692	Secondary	599.0	US	California	Oakland	32333 East Road		
+693	Main	599.0	US	Ohio	Cincinnati	3 Karstens Crossing		
+694	Main	600.0	US	Ohio	Dayton	9645 Drewry Lane		Apt 773
+695	Main	601.0	US	Ohio	Toledo	5483 Westport Lane		
+696	Main	602.0	US	Ohio	Columbus	630 1st Avenue		Apt 397
+697	Main	603.0	US	Ohio	Akron	69 Hintze Court		
+698	Main	604.0	US	Oklahoma	Oklahoma City	4666 Marquette Crossing		Apt 803
+699	Secondary	605.0	US	Connecticut	Bridgeport	21 Valley Edge Crossing	3.0	
+700	Main	605.0	US	Oklahoma	Oklahoma City	8730 Cascade Lane		
+701	Main	606.0	US	Oklahoma	Tulsa	69971 Katie Crossing		Apt 555
+702	Main	607.0	US	Oklahoma	Oklahoma City	6859 Wayridge Hill		Room 1069
+703	Main	608.0	US	Oklahoma	Oklahoma City	8 Carpenter Parkway		
+704	Main	609.0	US	Oklahoma	Oklahoma City	20833 Briar Crest Parkway		
+705	Main	610.0	US	Oklahoma	Tulsa	253 Bluestem Road		Apt 1929
+706	Main	611.0	US	Oklahoma	Oklahoma City	7450 Spaight Terrace		Room 1004
+707	Main	612.0	US	Oklahoma	Oklahoma City	53 Arizona Hill		
+708	Main	613.0	US	Oklahoma	Tulsa	75 Kenwood Terrace		
+709	Main	614.0	US	Oklahoma	Tulsa	74798 Heath Junction		Apt 642
+710	Main	615.0	US	Oklahoma	Tulsa	64 Old Gate Plaza		Apt 904
+711	Main	616.0	US	Oklahoma	Oklahoma City	172 Briar Crest Hill		
+712	Main	617.0	US	Oklahoma	Oklahoma City	1 Monument Park		Room 1173
+714	Secondary	618.0	US	Oklahoma	Oklahoma City	4690 Cascade Crossing		
+715	Main	618.0	US	Oklahoma	Oklahoma City	925 Arrowood Park		
+716	Main	619.0	US	Oklahoma	Oklahoma City	0037 Utah Lane		Apt 221
+717	Main	620.0	US	Oklahoma	Tulsa	6805 Cambridge Court		Apt 966
+718	Main	621.0	US	Oregon	Portland	68 Elgar Hill		
+719	Main	622.0	US	Oregon	Portland	875 Valley Edge Crossing		
+720	Main	623.0	US	Oregon	Portland	6 Twin Pines Avenue		Apt 997
+721	Main	624.0	US	Oregon	Portland	45553 Mifflin Trail		
+722	Secondary	625.0	US	Oklahoma	Oklahoma City	534 Westerfield Street	19.0	
+723	Main	625.0	US	Oregon	Eugene	2282 Westport Hill		
+724	Main	626.0	US	Oregon	Portland	27 Gateway Terrace		
+725	Main	627.0	US	Pennsylvania	Harrisburg	7417 Pearson Trail		
+726	Main	628.0	US	Pennsylvania	New Castle	4687 2nd Court		Apt 769
+727	Main	629.0	US	Pennsylvania	Philadelphia	3506 Green Pass		Apt 696
+728	Main	630.0	US	Pennsylvania	Lancaster	02 Coolidge Place		Apt 1843
+729	Secondary	631.0	US	Tennessee	Chattanooga	882 3rd Parkway		
+730	Main	631.0	US	Pennsylvania	Philadelphia	10806 Quincy Trail		
+731	Main	632.0	US	Pennsylvania	Philadelphia	4842 Hanson Drive		Apt 924
+732	Main	633.0	US	Pennsylvania	Allentown	66 Magdeline Circle		
+733	Main	634.0	US	Pennsylvania	Philadelphia	0025 Hoard Road		Room 114
+734	Main	635.0	US	Pennsylvania	Philadelphia	48 Golf Alley		Apt 863
+735	Main	636.0	US	Pennsylvania	Philadelphia	7 Spaight Place		Apt 909
+736	Main	637.0	US	Pennsylvania	Levittown	293 Blackbird Place		Apt 458
+737	Main	638.0	US	Pennsylvania	Philadelphia	37 Marcy Way		Apt 604
+738	Main	639.0	US	Pennsylvania	Philadelphia	8337 Saint Paul Circle		Apt 807
+739	Main	640.0	US	Pennsylvania	Lancaster	5 Lakewood Terrace		Apt 1774
+740	Secondary	641.0	US	Massachusetts	Cambridge	9 Homewood Pass	12.0	
+741	Main	641.0	US	Pennsylvania	Pittsburgh	0 Forest Dale Plaza		
+742	Main	642.0	US	Pennsylvania	Pittsburgh	2734 Meadow Valley Way		Apt 215
+743	Main	643.0	US	Pennsylvania	Pittsburgh	138 Susan Way		Apt 793
+744	Main	644.0	US	Pennsylvania	Allentown	71 Messerschmidt Pass		Apt 929
+745	Main	645.0	US	Pennsylvania	Pittsburgh	36762 Eastwood Pass		Apt 1951
+746	Main	646.0	US	Pennsylvania	Wilkes Barre	16569 East Avenue		
+747	Secondary	647.0	US	New Mexico	Albuquerque	3859 Di Loreto Street	19.0	
+748	Main	647.0	US	Pennsylvania	Lancaster	Suite 63		
+749	Main	648.0	US	Pennsylvania	Philadelphia	59 3rd Parkway		
+750	Main	649.0	US	Pennsylvania	Wilkes Barre	9940 Welch Court		
+751	Main	650.0	US	Pennsylvania	Levittown	56856 La Follette Way		Room 1058
+752	Main	651.0	US	Pennsylvania	Philadelphia	6752 Badeau Park		
+753	Main	652.0	US	Pennsylvania	Pittsburgh	69 Farragut Way		Room 1070
+754	Secondary	653.0	US	Virginia	Richmond	0 Mallory Avenue		Room 624
+755	Main	653.0	US	Pennsylvania	Pittsburgh	53 Thompson Lane		
+756	Main	654.0	US	Pennsylvania	Philadelphia	6 Carpenter Road		
+757	Secondary	655.0	US	Missouri	Kansas City	74020 Riverside Park		Room 747
+758	Main	655.0	US	Pennsylvania	New Castle	046 Canary Lane		Apt 822
+759	Secondary	656.0	US	West Virginia	Charleston	92771 Laurel Court		Suite 72
+760	Main	656.0	US	Pennsylvania	Pittsburgh	94326 Anhalt Pass		
+761	Main	657.0	US	Rhode Island	Providence	6196 Hallows Avenue		
+762	Secondary	658.0	US	Texas	San Antonio	88193 Sachtjen Alley		Apt 1954
+763	Main	658.0	US	South Carolina	Columbia	25 Mandrake Place		
+764	Main	659.0	US	South Carolina	Columbia	5226 Kensington Trail		Apt 1818
+765	Main	660.0	US	South Carolina	Greenville	27238 Di Loreto Crossing		
+766	Main	661.0	US	South Carolina	Greenville	51 Coleman Place		
+767	Main	662.0	US	South Carolina	Spartanburg	33699 Artisan Pass		
+768	Main	663.0	US	South Carolina	Anderson	09 Maywood Lane		
+769	Main	664.0	US	South Carolina	Columbia	99155 North Point		
+770	Main	665.0	US	South Carolina	Florence	60000 Farmco Alley		Apt 849
+771	Secondary	666.0	US	Idaho	Boise	7 Nelson Plaza		Apt 1283
+772	Main	666.0	US	South Carolina	Columbia	95 Moland Street		
+773	Main	667.0	US	South Carolina	Florence	54287 Hudson Place		
+774	Main	668.0	US	South Dakota	Sioux Falls	5470 Oneill Way		
+775	Main	669.0	US	Tennessee	Memphis	74071 Waxwing Road		
+776	Main	670.0	US	Tennessee	Chattanooga	90 Riverside Junction		
+777	Main	671.0	US	Tennessee	Knoxville	20516 Mifflin Pass		
+779	Secondary	672.0	US	Washington	Olympia	30 Union Avenue		Apt 1155
+780	Main	672.0	US	Tennessee	Memphis	6 Schiller Alley		
+781	Main	673.0	US	Tennessee	Memphis	2362 Canary Center		
+782	Main	674.0	US	Tennessee	Knoxville	5995 Vermont Drive		
+783	Main	675.0	US	Tennessee	Nashville	23745 Knutson Court		
+784	Main	676.0	US	Tennessee	Memphis	533 Orin Road		
+785	Main	677.0	US	Tennessee	Memphis	7604 Autumn Leaf Parkway		Apt 287
+786	Main	678.0	US	Tennessee	Knoxville	83062 Bartillon Crossing		
+787	Secondary	679.0	US	New York	Buffalo	10515 Golf View Center		Suite 39
+788	Main	679.0	US	Tennessee	Knoxville	986 Troy Center		
+789	Main	680.0	US	Texas	Denton	23 Bunker Hill Circle		
+790	Secondary	681.0	US	Georgia	Marietta	500 Valley Edge Lane	6.0	
+791	Main	681.0	US	Texas	Fort Worth	36 Namekagon Plaza		
+792	Main	682.0	US	Texas	El Paso	962 Loeprich Lane		Apt 712
+793	Main	683.0	US	Texas	El Paso	136 Memorial Lane		
+794	Main	684.0	US	Texas	El Paso	3 Warner Plaza		
+795	Main	685.0	US	Texas	Denton	92596 Namekagon Road		Apt 1976
+796	Main	686.0	US	Texas	Corpus Christi	4429 Esker Trail		Apt 1795
+797	Main	687.0	US	Texas	Corpus Christi	27679 Arapahoe Pass		Room 1054
+798	Main	688.0	US	Texas	Houston	5 Butterfield Circle		
+799	Main	689.0	US	Texas	Houston	3984 Crownhardt Circle		Apt 1792
+800	Main	690.0	US	Texas	Lubbock	3190 Thierer Trail		Apt 559
+801	Main	691.0	US	Texas	Austin	1647 School Court		Apt 514
+802	Main	692.0	US	Texas	Houston	548 Parkside Avenue		Room 1107
+803	Main	693.0	US	Texas	Houston	8935 Sundown Parkway		
+804	Main	694.0	US	Texas	Austin	3815 Colorado Lane		Apt 888
+805	Main	695.0	US	Texas	Dallas	18 3rd Street		
+806	Main	696.0	US	Texas	El Paso	59415 Dapin Junction		
+807	Main	697.0	US	Texas	Dallas	65918 Delladonna Road		Room 1024
+808	Main	698.0	US	Texas	San Antonio	566 Thierer Street		
+809	Main	699.0	US	Texas	College Station	7054 Hoffman Way		
+810	Main	700.0	US	Texas	El Paso	3 Calypso Drive		Apt 674
+812	Secondary	701.0	US	Mississippi	Jackson	5919 Anthes Drive	13.0	
+813	Main	701.0	US	Texas	Amarillo	8404 Shelley Point		Apt 407
+814	Main	702.0	US	Texas	El Paso	328 Tennessee Terrace		Room 1038
+815	Main	703.0	US	Texas	El Paso	3 Waywood Alley		Apt 88
+816	Main	704.0	US	Texas	Austin	63000 Scoville Park		
+817	Secondary	705.0	US	Michigan	Dearborn	9020 Johnson Parkway		
+818	Main	705.0	US	Texas	Austin	8 Loeprich Center		
+819	Secondary	706.0	US	Oklahoma	Tulsa	63 Waxwing Point		Room 380
+820	Main	706.0	US	Texas	Houston	0657 Dayton Crossing		Apt 743
+821	Main	707.0	US	Texas	Denton	628 Emmet Crossing		Apt 463
+822	Secondary	708.0	US	Georgia	Atlanta	6 Butterfield Park		
+823	Main	708.0	US	Texas	Houston	0976 Shelley Drive		Apt 456
+824	Main	709.0	US	Texas	Arlington	880 Forest Run Crossing		
+825	Main	710.0	US	Texas	Dallas	8 Lunder Avenue		Apt 537
+826	Main	711.0	US	Texas	Corpus Christi	60650 Oak Valley Terrace		Apt 94
+827	Secondary	712.0	US	Georgia	Savannah	4858 Maple Circle		Apt 508
+828	Main	712.0	US	Texas	Houston	72241 Saint Paul Junction		
+829	Main	713.0	US	Texas	Arlington	106 Ridgeway Point		Apt 269
+830	Main	714.0	US	Texas	Lubbock	153 Chive Junction		Apt 52
+831	Main	715.0	US	Texas	Amarillo	99106 Alpine Avenue		
+832	Main	716.0	US	Texas	Houston	0 Marcy Crossing		Room 1181
+833	Main	717.0	US	Texas	Houston	2302 Claremont Lane		
+834	Main	718.0	US	Texas	San Antonio	4970 Clarendon Avenue		
+835	Main	719.0	US	Texas	Houston	839 Schurz Park		
+836	Secondary	720.0	US	California	Sacramento	79 Bonner Point		Apt 357
+837	Main	720.0	US	Texas	Abilene	62 Sommers Hill		Apt 1869
+838	Main	721.0	US	Texas	El Paso	26 Reinke Place		
+839	Main	722.0	US	Texas	Fort Worth	1957 John Wall Park		
+840	Main	723.0	US	Texas	Longview	6 Namekagon Court		
+841	Main	724.0	US	Texas	Corpus Christi	83162 Pearson Parkway		Apt 286
+842	Secondary	725.0	US	Maryland	Baltimore	06 Crescent Oaks Way	19.0	
+843	Main	725.0	US	Texas	Arlington	42 Autumn Leaf Lane		Apt 678
+844	Main	726.0	US	Texas	Austin	0736 Waxwing Crossing		
+845	Main	727.0	US	Texas	Houston	0 Arapahoe Crossing		Apt 650
+846	Main	728.0	US	Texas	San Antonio	4416 Fisk Plaza		Room 1127
+847	Main	729.0	US	Texas	Houston	02 Fremont Place		Apt 183
+848	Main	730.0	US	Texas	Fort Worth	41 American Ash Road		Apt 1826
+849	Main	731.0	US	Texas	Dallas	19		
+850	Main	732.0	US	Texas	Conroe	94481 Dawn Parkway		
+851	Main	733.0	US	Texas	Wichita Falls	7 Eliot Avenue		
+852	Main	734.0	US	Texas	San Antonio	831 Chinook Circle		Apt 723
+853	Main	735.0	US	Texas	Austin	1 Arizona Drive		
+854	Main	736.0	US	Texas	Houston	0925 Canary Hill		
+855	Secondary	737.0	US	Utah	Salt Lake City	9 Clarendon Hill	9.0	
+856	Main	737.0	US	Texas	Denton	5334 Park Meadow Circle		
+857	Main	738.0	US	Texas	Houston	03 Bobwhite Junction		Apt 1780
+858	Main	739.0	US	Texas	San Antonio	9 Waywood Plaza		
+859	Main	740.0	US	Texas	Dallas	8995 Eggendart Drive		Apt 9
+860	Main	741.0	US	Texas	Fort Worth	45 Steensland Court		
+861	Main	742.0	US	Texas	Houston	8198 High Crossing Court		Apt 83
+862	Main	743.0	US	Texas	Dallas	80 Colorado Junction		
+863	Main	744.0	US	Texas	Amarillo	8 Hoard Plaza		Room 1004
+864	Main	745.0	US	Texas	Abilene	5945 Orin Circle		Apt 202
+865	Main	746.0	US	Texas	Denton	06 Ryan Crossing		
+866	Main	747.0	US	Texas	El Paso	4 Buena Vista Park		Apt 616
+867	Main	748.0	US	Texas	Lubbock	372 Mcbride Center		
+868	Main	749.0	US	Texas	Houston	0 Springs Trail		
+869	Secondary	750.0	US	District of Columbia	Washington	693 Morningstar Plaza		
+870	Main	750.0	US	Texas	El Paso	3592 6th Way		Apt 660
+871	Main	751.0	US	Texas	Corpus Christi	3 Mcbride Hill		Apt 541
+872	Main	752.0	US	Texas	Arlington	3 Miller Street		Apt 284
+873	Main	753.0	US	Texas	Fort Worth	7448 Valley Edge Junction		Room 1064
+874	Main	754.0	US	Texas	Fort Worth	04 Garrison Place		
+875	Main	755.0	US	Texas	Houston	7409 Transport Parkway		
+876	Main	756.0	US	Texas	Fort Worth	73 Green Ridge Court		
+877	Main	757.0	US	Utah	Salt Lake City	7199 Judy Way		
+878	Secondary	758.0	US	Georgia	Atlanta	9 Thackeray Parkway	15.0	
+879	Main	758.0	US	Utah	Salt Lake City	8789 Di Loreto Parkway		Apt 255
+880	Main	759.0	US	Utah	Salt Lake City	66 Hermina Alley		
+881	Main	760.0	US	Utah	Salt Lake City	7008 Schmedeman Street		Apt 20
+882	Main	761.0	US	Utah	Sandy	6414 Straubel Road		
+883	Main	762.0	US	Utah	Salt Lake City	3 Muir Crossing		Apt 1772
+884	Main	763.0	US	Utah	Salt Lake City	2 School Way		Apt 1824
+885	Secondary	764.0	US	California	Oakland	1 Stone Corner Parkway		
+886	Main	764.0	US	Utah	Salt Lake City	697 Bay Pass		
+887	Main	765.0	US	Utah	Salt Lake City	67 Oxford Circle		
+888	Secondary	766.0	US	Michigan	Troy	41 Dawn Drive		
+889	Main	766.0	US	Virginia	Roanoke	1 Calypso Point		
+890	Main	767.0	US	Virginia	Richmond	77 Bobwhite Alley		
+891	Main	768.0	US	Virginia	Roanoke	3 Westridge Road		Room 1092
+892	Main	769.0	US	Virginia	Richmond	75882 Butternut Alley		Apt 853
+893	Main	770.0	US	Virginia	Charlottesville	07 Tony Road		Apt 1879
+894	Main	771.0	US	Virginia	Manassas	52 Petterle Alley		
+895	Main	772.0	US	Virginia	Fredericksburg	33 Bashford Plaza		
+896	Main	773.0	US	Virginia	Richmond	PO Box 42908		
+897	Main	774.0	US	Virginia	Norfolk	56 Crescent Oaks Park		
+898	Main	775.0	US	Virginia	Fairfax	0282 Dunning Hill		
+899	Secondary	776.0	US	California	Santa Rosa	1270 Stoughton Road		Room 1252
+900	Main	776.0	US	Virginia	Roanoke	6880 Barnett Pass		
+901	Main	777.0	US	Virginia	Norfolk	88 Badeau Park		
+902	Main	778.0	US	Virginia	Arlington	28 Troy Drive		
+903	Main	779.0	US	Virginia	Manassas	633 Westridge Street		
+904	Main	780.0	US	Virginia	Manassas	40588 Chinook Street		
+905	Main	781.0	US	Virginia	Dulles	12934 Sherman Terrace		
+906	Main	782.0	US	Virginia	Roanoke	7 Marcy Place		
+907	Main	783.0	US	Virginia	Roanoke	17 Blaine Circle		
+908	Main	784.0	US	Virginia	Chesapeake	00 Main Terrace		Apt 215
+909	Main	785.0	US	Virginia	Richmond	6160 Fallview Park		Apt 559
+910	Main	786.0	US	Virginia	Sterling	716 Coleman Parkway		
+911	Main	787.0	US	Virginia	Roanoke	7559 Spohn Alley		
+912	Main	788.0	US	Virginia	Richmond	70938 Muir Avenue		
+913	Main	789.0	US	Virginia	Richmond	6 Lukken Circle		
+914	Main	790.0	US	Virginia	Alexandria	377 Scott Terrace		
+915	Main	791.0	US	Virginia	Manassas	2 Dorton Court		
+916	Main	792.0	US	Virginia	Richmond	2277 Dottie Center		Apt 391
+917	Main	793.0	US	Virginia	Charlottesville	400 Miller Drive		Apt 1837
+918	Main	794.0	US	Virginia	Roanoke	321 Kim Avenue		Apt 691
+919	Main	795.0	US	Virginia	Roanoke	37 Clyde Gallagher Road		
+920	Main	796.0	US	Virginia	Fredericksburg	9921 Merry Park		Apt 963
+921	Main	797.0	US	Washington	Seattle	30494 Pankratz Center		
+922	Main	798.0	US	Washington	Seattle	2329 Schurz Junction		Apt 444
+923	Main	799.0	US	Washington	Tacoma	2690 Springs Court		
+924	Main	800.0	US	Washington	Tacoma	526 Cherokee Avenue		
+925	Main	801.0	US	Washington	Seattle	89169 Blaine Junction		Apt 846
+926	Main	802.0	US	Washington	Seattle	43541 Bultman Center		
+927	Main	803.0	US	Washington	Seattle	08359 Ruskin Crossing		Apt 425
+928	Main	804.0	US	Washington	Tacoma	668 Delaware Hill		
+929	Main	805.0	US	Washington	Spokane	30 Fairfield Alley		
+930	Secondary	806.0	US	California	Sacramento	1 International Point	1.0	
+931	Main	806.0	US	Washington	Seattle	9834 Shasta Terrace		Apt 654
+932	Main	807.0	US	Washington	Seattle	9 Lake View Crossing		
+933	Main	808.0	US	Washington	Spokane	16 Cascade Hill		Apt 274
+934	Main	809.0	US	West Virginia	Huntington	08 Helena Street		
+935	Main	810.0	US	West Virginia	Huntington	8 Nelson Avenue		
+936	Main	811.0	US	West Virginia	Charleston	46 Bluejay Terrace		
+937	Main	812.0	US	West Virginia	Huntington	47 Myrtle Drive		
+938	Main	813.0	US	West Virginia	Huntington	508 Dryden Park		
+939	Main	814.0	US	Wisconsin	Madison	349 Autumn Leaf Lane		Apt 673
+940	Main	815.0	US	Wisconsin	Madison	11 Sommers Avenue		
+941	Main	816.0	US	Wisconsin	Madison	2224 Mayfield Trail		
+942	Main	817.0	US	Wisconsin	Milwaukee	488 Melvin Crossing		
+943	Secondary	818.0	US	North Dakota	Fargo	801 Bartelt Avenue		Suite 64
+944	Main	818.0	US	Wisconsin	Green Bay	51 Heffernan Lane		Apt 631
+945	Main	819.0	US	Wisconsin	Green Bay	60625 Talisman Terrace		Apt 394
+946	Main	820.0	US	Wisconsin	Madison	97931 Scoville Court		
+947	Main	821.0	US	Wyoming	Cheyenne	155 Becker Hill		Apt 1804
+948	Main	822.0	US	Florida	Fort Myers	6996 Marcy Terrace		Room 981
+949	Main	823.0	US	Wisconsin	Green Bay	440 Coolidge Crossing	9.0	
+950	Main	824.0	US	Texas	Houston	2 Independence Avenue	20.0	
+951	Secondary	825.0	US	Washington	Spokane	8 Ridgeview Drive		Apt 1117
+952	Main	825.0	US	Michigan	Southfield	50845 Muir Pass		Room 1210
+953	Main	826.0	US	Tennessee	Nashville	33212 Mayfield Center		Room 36
+954	Main	827.0	US	District of Columbia	Washington	83 Helena Terrace		Suite 22
+955	Main	828.0	US	Ohio	Toledo	73 Gateway Pass	3.0	
+956	Main	829.0	US	Idaho	Boise	0 Canary Way	11.0	
+957	Main	830.0	US	California	Sacramento	1093 Parkside Center		Suite 43
+958	Secondary	831.0	US	Connecticut	Stamford	4188 Toban Crossing		Room 341
+959	Main	831.0	US	Massachusetts	Watertown	7 Valley Edge Hill		Room 815
+960	Main	832.0	US	Maryland	Baltimore	3 Vahlen Terrace		Suite 62
+961	Main	833.0	US	Florida	Melbourne	013 Fremont Street	11.0	
+962	Main	834.0	US	Maryland	Baltimore	6292 Sullivan Drive	14.0	
+963	Secondary	835.0	US	District of Columbia	Washington	433 Jenifer Lane		Suite 57
+964	Main	835.0	US	Kentucky	Louisville	2 Talmadge Street		Suite 43
+965	Secondary	836.0	US	Illinois	Chicago	75122 Bunker Hill Trail	6.0	
+966	Main	836.0	US	Florida	Miami	15020 Ludington Terrace		Suite 99
+967	Main	837.0	US	Minnesota	Saint Paul	00 Sloan Hill		Room 648
+968	Main	838.0	US	Washington	Seattle	2127 Katie Drive	19.0	
+969	Main	839.0	US	Colorado	Pueblo	6968 Morrow Pass	7.0	
+970	Secondary	840.0	US	Arizona	Gilbert	2 Maple Wood Street	12.0	
+971	Main	840.0	US	Georgia	Athens	586 Express Way		Apt 1526
+972	Main	841.0	US	New Jersey	Trenton	96 Meadow Ridge Alley		Apt 1423
+973	Main	842.0	US	Oregon	Eugene	0 Transport Pass	15.0	
+974	Main	843.0	US	New York	Rochester	63253 Garrison Point		Room 383
+975	Main	844.0	US	Ohio	Cincinnati	2 Fairview Junction	13.0	
+976	Main	845.0	US	Missouri	Lees Summit	987 Canary Park		Suite 52
+977	Main	846.0	US	South Carolina	Anderson	2595 Ilene Crossing	6.0	
+978	Main	847.0	US	Tennessee	Chattanooga	7960 Fairfield Way	2.0	
+979	Main	848.0	US	Virginia	Chesapeake	25331 Oxford Terrace		Suite 77
+980	Main	849.0	US	Montana	Bozeman	8 Cascade Pass		Suite 61
+981	Main	850.0	US	Michigan	Dearborn	00874 Melody Street		Suite 14
+982	Main	851.0	US	Kansas	Wichita	73690 Express Street		Suite 84
+983	Main	852.0	US	Florida	Panama City	087 Village Green Way		Room 229
+984	Main	853.0	US	Florida	Kissimmee	051 Banding Junction		Suite 48
+985	Main	854.0	US	Ohio	Canton	7507 Myrtle Lane	13.0	
+986	Main	855.0	US	West Virginia	Charleston	9476 Anniversary Hill		Suite 18
+987	Main	856.0	US	Kentucky	Lexington	905 Goodland Avenue		Room 671
+988	Main	857.0	US	District of Columbia	Washington	615 Claremont Drive		Apt 1576
+989	Main	858.0	US	Texas	El Paso	603 International Crossing	14.0	
+990	Main	859.0	US	New York	Brooklyn	52581 Michigan Hill	7.0	
+991	Main	860.0	US	Florida	Jacksonville	8662 Amoth Parkway	18.0	
+992	Main	861.0	US	Texas	El Paso	2 Schiller Terrace		Room 1781
+993	Main	862.0	US	Texas	Lubbock	1425 Grover Way	3.0	
+994	Main	863.0	US	Indiana	Crawfordsville	15164 Harper Drive		Room 575
+995	Main	864.0	US	Texas	Houston	59 Luster Lane		Room 1692
+996	Main	865.0	US	Florida	Saint Petersburg	512 Loomis Alley		Apt 1365
+997	Main	866.0	US	Massachusetts	Boston	643 Troy Junction		Room 185
+998	Main	867.0	US	California	Oxnard	531 Buell Avenue		Suite 94
+999	Main	868.0	US	Pennsylvania	Pittsburgh	62685 Del Sol Hill	15.0	
+1000	Secondary	869.0	US	Maryland	Frederick	7425 Dayton Junction		
+1001	Main	869.0	US	Ohio	Youngstown	9 Dixon Junction		Suite 44
+1002	Secondary	870.0	US	Tennessee	Knoxville	1 Holy Cross Street		Room 106
+1003	Main	870.0	US	North Carolina	Winston Salem	63 Monica Pass		Room 647
+1004	Secondary	871.0	US	Pennsylvania	Harrisburg	38 Cambridge Way		
+1005	Main	871.0	US	Maryland	Silver Spring	1 Pankratz Drive		Room 1797
+1006	Main	872.0	US	California	Concord	5 Butternut Center		Suite 79
+1007	Main	873.0	US	Florida	Tampa	02 Kinsman Court		Suite 25
+1008	Main	874.0	US	Florida	Pensacola	844 Oak Valley Crossing	12.0	
+1009	Main	875.0	US	Missouri	Kansas City	24 Holy Cross Lane	6.0	
+1010	Main	876.0	US	Texas	Longview	35537 Gateway Street	18.0	
+1011	Main	877.0	US	Missouri	Saint Louis	2354 Fremont Junction		Suite 74
+1012	Main	878.0	US	North Carolina	Wilmington	87943 Hazelcrest Park		Suite 88
+1013	Main	879.0	US	Iowa	Des Moines	48 Lerdahl Plaza		Apt 151
+1014	Main	880.0	US	Hawaii	Honolulu	0688 Pond Plaza		Suite 28
+1015	Main	881.0	US	Louisiana	Shreveport	047 Fallview Pass		Suite 38
+1016	Main	882.0	US	Florida	Daytona Beach	796 Rigney Crossing	1.0	
+1017	Main	883.0	US	Montana	Bozeman	6926 Gerald Court		Suite 64
+1018	Main	884.0	US	Texas	Corpus Christi	08841 Ruskin Trail		Room 12
+1019	Secondary	885.0	US	Texas	El Paso	43 Corry Alley		Suite 71
+1020	Main	885.0	US	California	Stockton	520 Glacier Hill Drive		Suite 52
+1021	Secondary	886.0	US	Alabama	Birmingham	8934 Lukken Point	15.0	
+1022	Main	886.0	US	Texas	Arlington	5 Lillian Way		Room 1700
+1023	Main	887.0	US	South Dakota	Sioux Falls	582 Hansons Park		Room 67
+1024	Main	888.0	US	Texas	Austin	204 Comanche Hill		Room 1889
+1025	Main	889.0	US	Florida	Naples	6 8th Terrace	10.0	
+1026	Main	890.0	US	Georgia	Atlanta	913 Hudson Center		Room 1805
+1027	Main	891.0	US	Ohio	Cleveland	200 5th Lane		Suite 57
+1028	Main	892.0	US	Florida	Gainesville	9963 Shasta Way	14.0	
+1029	Main	893.0	US	Connecticut	Waterbury	80338 Village Green Lane	10.0	
+1030	Main	894.0	US	New York	New York City	392 Emmet Plaza		Room 1357
+1031	Main	895.0	US	Virginia	Richmond	9888 Canary Court	11.0	
+1032	Main	896.0	US	Colorado	Littleton	4 Debs Avenue		Suite 85
+1033	Main	897.0	US	Alabama	Birmingham	8 Granby Park		Room 737
+1034	Main	898.0	US	Texas	Fort Worth	98628 Brown Parkway	2.0	
+1035	Main	899.0	US	California	Sacramento	4085 Acker Park	10.0	
+1036	Main	900.0	US	Texas	El Paso	8309 Redwing Park		Suite 77
+1037	Main	901.0	US	Florida	Orlando	96123 Bay Way		Room 1219
+1038	Main	902.0	US	New York	New York City	7253 Fisk Circle		Room 81
+1039	Main	903.0	US	New Mexico	Santa Fe	4 Cordelia Alley	13.0	
+1040	Main	904.0	US	Indiana	South Bend	27 Saint Paul Point		Apt 1407
+1041	Main	905.0	US	Arizona	Scottsdale	8476 Clove Avenue		Apt 104
+1042	Main	906.0	US	South Carolina	Charleston	02 Loftsgordon Plaza	18.0	
+1043	Main	907.0	US	Alabama	Mobile	9 Di Loreto Way		Room 1904
+1044	Secondary	908.0	US	Utah	Ogden	4 Melby Street	16.0	
+1045	Main	908.0	US	Oklahoma	Oklahoma City	8842 Vera Court		Suite 96
+1046	Main	909.0	US	California	Los Angeles	63 Tomscot Lane		Suite 58
+1047	Main	910.0	US	California	San Jose	36 Orin Alley	2.0	
+1048	Main	911.0	US	Arkansas	Hot Springs National Park	517 Del Mar Road		Suite 60
+1049	Main	912.0	US	Kansas	Kansas City	93 Dottie Lane	16.0	
+1050	Secondary	913.0	US	New York	Rochester	0018 Sullivan Hill		Room 1692
+1051	Main	913.0	US	Washington	Tacoma	41 Steensland Hill		Room 18
+1052	Main	914.0	US	Oregon	Portland	3125 Mifflin Plaza		Room 1669
+1053	Main	915.0	US	Michigan	Detroit	1055 Gina Center		Apt 1317
+1054	Main	916.0	US	Colorado	Littleton	773 Dexter Lane		Room 251
+1055	Main	917.0	US	Florida	Miami	1 Pankratz Crossing		Apt 1032
+1056	Main	918.0	US	Illinois	Chicago	305 Eagan Point		Suite 22
+1057	Main	919.0	US	New York	New York City	4 Judy Park		Suite 1
+1058	Main	920.0	US	Nevada	Las Vegas	3726 New Castle Park	9.0	
+1059	Main	921.0	US	Texas	San Antonio	3626 Village Plaza	17.0	
+1060	Main	922.0	US	Ohio	Canton	4 Dunning Street		Room 1765
+1061	Main	923.0	US	Nebraska	Omaha	686 Prairieview Pass		Room 168
+1062	Main	924.0	US	Mississippi	Jackson	6666 Hovde Drive		Apt 1609
+1063	Main	925.0	US	New York	Brooklyn	82 Cascade Park		Apt 1166
+1064	Main	926.0	US	Florida	Tallahassee	324 Mcbride Pass		Suite 5
+1065	Main	927.0	US	Michigan	Saginaw	69795 Farmco Circle		Apt 1430
+1066	Main	928.0	US	California	San Jose	3 Oak Valley Junction		Room 1930
+1067	Main	929.0	US	Maryland	Silver Spring	6492 Summerview Lane		Suite 88
+1068	Main	930.0	US	Missouri	Springfield	6 Mitchell Pass		Suite 71
+1069	Main	931.0	US	Texas	Abilene	9 Westport Alley	1.0	
+1070	Main	932.0	US	Kentucky	Lexington	4177 Logan Plaza	13.0	
+1071	Main	933.0	US	West Virginia	Huntington	40506 Pierstorff Lane	5.0	
+1072	Secondary	934.0	US	Tennessee	Knoxville	61 Schmedeman Plaza		
+1073	Main	934.0	US	Tennessee	Knoxville	931 Cascade Terrace		Room 318
+1074	Main	935.0	US	Oklahoma	Tulsa	0365 Florence Terrace		Apt 1044
+1075	Main	936.0	US	Pennsylvania	Philadelphia	81441 Stephen Plaza		Suite 88
+1076	Secondary	937.0	US	Texas	Austin	42605 Oakridge Place	8.0	
+1077	Main	937.0	US	California	Riverside	782 Leroy Place		Room 1550
+1078	Secondary	938.0	US	California	Santa Ana	0588 West Pass		Apt 1602
+1079	Main	938.0	US	Florida	Gainesville	2 Corben Crossing		Apt 1145
+1080	Main	939.0	US	Alaska	Anchorage	88 Summerview Trail		Suite 78
+1081	Main	940.0	US	Ohio	Dayton	540 Pepper Wood Terrace		Apt 1505
+1082	Main	941.0	US	Florida	Naples	4 Jenna Way	7.0	
+1083	Main	942.0	US	Minnesota	Duluth	6512 Kipling Drive		Apt 1540
+1084	Main	943.0	US	Arizona	Tucson	0 Arapahoe Crossing	13.0	
+1085	Main	944.0	US	California	Fullerton	55838 Granby Crossing		Apt 1014
+1086	Secondary	945.0	US	Texas	Amarillo	962 Basil Junction		
+1087	Main	945.0	US	Florida	Saint Petersburg	470 Lien Avenue		Suite 94
+1088	Main	946.0	US	Oklahoma	Oklahoma City	417 Hagan Court		Room 328
+1089	Main	947.0	US	California	Hayward	29 Johnson Alley		Suite 98
+1090	Main	948.0	US	Michigan	Grand Rapids	11 Pawling Junction	3.0	
+1091	Main	949.0	US	Maryland	Baltimore	234 Sachtjen Junction		Suite 61
+1092	Secondary	950.0	US	Texas	Fort Worth	4 Pierstorff Circle	18.0	
+1093	Main	950.0	US	Kentucky	Louisville	8 Grasskamp Plaza	1.0	
+1094	Secondary	951.0	US	Texas	El Paso	64861 Messerschmidt Street		
+1095	Main	951.0	US	North Carolina	Charlotte	37 Homewood Drive		Apt 1164
+1096	Main	952.0	US	Missouri	Saint Louis	2089 Maple Wood Street		Suite 63
+1097	Main	953.0	US	Pennsylvania	Pittsburgh	2187 Del Mar Avenue		Room 951
+1098	Main	954.0	US	New York	Yonkers	44095 Cascade Circle		Apt 1099
+1099	Main	955.0	US	California	Northridge	3081 Golf Hill	18.0	
+1100	Main	956.0	US	Virginia	Manassas	22 Merry Junction		Suite 1
+1101	Main	957.0	US	Texas	Houston	0187 Golf Pass	17.0	
+1102	Main	958.0	US	Ohio	Columbus	1 Cambridge Park		Suite 49
+1103	Main	959.0	US	California	Fresno	66 Carey Pass		Room 1970
+1104	Main	960.0	US	Oregon	Portland	3 Springs Road	20.0	
+1105	Secondary	961.0	US	Alabama	Birmingham	0522 Heath Alley	6.0	
+1106	Main	961.0	US	California	Van Nuys	179 Buhler Court		Suite 15
+1107	Main	962.0	US	Virginia	Roanoke	39 Emmet Plaza	20.0	
+1108	Main	963.0	US	California	Pasadena	9 Anzinger Place		Suite 82
+1109	Main	964.0	US	California	Sacramento	723 Calypso Point	8.0	
+1110	Main	965.0	US	Nevada	North Las Vegas	27 Rutledge Way	5.0	
+1111	Main	966.0	US	Ohio	Columbus	82 Logan Alley	17.0	
+1112	Main	967.0	US	Texas	El Paso	2121 Memorial Center		Suite 11
+1113	Main	968.0	US	Iowa	Des Moines	57248 Clarendon Place		Suite 41
+1114	Main	969.0	US	North Carolina	Charlotte	0 Scofield Avenue		Room 1503
+1115	Main	970.0	US	Mississippi	Gulfport	6 Linden Terrace		Room 465
+1116	Main	971.0	US	Florida	Homestead	995 Kennedy Place	4.0	
+1117	Main	972.0	US	Oklahoma	Oklahoma City	5159 Forster Court		Suite 91
+1118	Main	973.0	US	California	Orange	78 Surrey Court	2.0	
+1119	Main	974.0	US	Hawaii	Honolulu	62680 Charing Cross Way		Room 1668
+1120	Main	975.0	US	Missouri	Kansas City	23 Thompson Crossing	11.0	
+1121	Main	976.0	US	Illinois	Chicago	50 Roxbury Parkway	9.0	
+1122	Main	977.0	US	Tennessee	Nashville	7561 Hudson Junction		Room 718
+1123	Main	978.0	US	Ohio	Dayton	972 Eagle Crest Plaza		Suite 39
+1124	Main	979.0	US	California	San Francisco	0 Moose Road		Apt 1266
+1125	Main	980.0	US	Ohio	Toledo	07 Sunfield Parkway	10.0	
+1126	Main	981.0	US	Florida	Palm Bay	027 Buena Vista Avenue		Apt 1292
+1127	Main	982.0	US	Pennsylvania	Philadelphia	978 4th Alley		Suite 83
+1128	Secondary	983.0	US	Oklahoma	Oklahoma City	5702 Lotheville Road		Room 1229
+1129	Main	983.0	US	Ohio	Toledo	16 Dwight Way		Apt 138
+1130	Secondary	984.0	US	Missouri	Saint Louis	94 Fair Oaks Alley	7.0	
+1131	Main	984.0	US	Minnesota	Minneapolis	14 Ronald Regan Way	19.0	
+1132	Secondary	985.0	US	West Virginia	Charleston	89 Scott Park	14.0	
+1133	Main	985.0	US	Missouri	Kansas City	644 Loomis Place		Room 1552
+1134	Secondary	986.0	US	Tennessee	Knoxville	49 Riverside Trail		Suite 44
+1135	Main	986.0	US	Colorado	Colorado Springs	31 Hoepker Circle		Apt 1662
+1136	Main	987.0	US	California	Sunnyvale	73 Sachtjen Hill		Apt 1594
+1137	Main	988.0	US	Florida	Tallahassee	4297 Lerdahl Circle	17.0	
+1138	Main	989.0	US	Texas	Waco	948 Carey Point		Room 668
+1139	Main	990.0	US	Ohio	Cleveland	9 Ridgeway Hill	16.0	
+1140	Main	991.0	US	Iowa	Des Moines	18 Randy Avenue		Apt 1179
+1141	Main	992.0	US	Georgia	Atlanta	6 Vahlen Hill		Room 1450
+1142	Main	993.0	US	Virginia	Dulles	5881 Prairieview Circle	1.0	
+1143	Main	994.0	US	New Jersey	Camden	8 Arkansas Alley	6.0	
+1144	Main	995.0	US	Ohio	Toledo	7119 Rutledge Junction	20.0	
+1145	Secondary	996.0	US	Ohio	Columbus	69109 Hanson Terrace		
+1146	Main	996.0	US	Pennsylvania	Harrisburg	398 Logan Road		Suite 44
+1147	Main	997.0	US	Georgia	Norcross	17292 Morningstar Point		Suite 29
+1148	Main	998.0	US	Texas	Abilene	74821 Randy Park		Suite 97
+1149	Secondary	999.0	US	Mississippi	Hattiesburg	4495 Ilene Place		
+1150	Main	999.0	US	North Carolina	Charlotte	5 Service Avenue	1.0	
+1151	Main	1000.0	US	Alabama	Mobile	0790 Di Loreto Plaza	19.0	
+1152	Main	1001.0	US	Arkansas	Hot Springs National Park	532 Steensland Road		Apt 13
+1153	Main	1002.0	US	Indiana	Fort Wayne	07 Blackbird Trail		Room 590
+1154	Main	1003.0	US	Indiana	Bloomington	3217 Del Sol Circle	12.0	
+1155	Main	1004.0	US	Indiana	Fort Wayne	62 Oxford Center	2.0	
+1156	Main	1005.0	US	Florida	Fort Lauderdale	324 Hallows Parkway		Suite 73
+1157	Main	1006.0	US	Texas	Dallas	4534 Magdeline Hill		Apt 1299
+1158	Main	1007.0	US	South Carolina	Florence	0 Parkside Park	14.0	
+1159	Main	1008.0	US	California	Van Nuys	0094 Riverside Junction		Suite 40
+1160	Main	1009.0	US	North Carolina	Greensboro	5 Hanson Alley	10.0	
+1161	Main	1010.0	US	Oklahoma	Tulsa	8342 Huxley Way		Room 1447
+1162	Secondary	1011.0	US	California	Sacramento	0702 Garrison Circle		Suite 99
+1163	Main	1011.0	US	Nevada	Las Vegas	6187 Bartelt Court		Room 1514
+1164	Main	1012.0	US	Tennessee	Knoxville	8 Sugar Court		Room 1751
+1165	Secondary	1013.0	US	New Jersey	Trenton	86221 Graedel Crossing		
+1166	Main	1013.0	US	California	Long Beach	689 Duke Point		Room 131
+1167	Main	1014.0	US	Pennsylvania	Pittsburgh	1337 Londonderry Pass		Suite 71
+1168	Secondary	1015.0	US	New York	New York City	22 Tomscot Road		Apt 315
+1169	Main	1015.0	US	Idaho	Pocatello	57 Chive Way	19.0	
+1170	Main	1016.0	US	Arizona	Phoenix	166 Drewry Park		Apt 1494
+1171	Main	1017.0	US	California	Long Beach	0576 Dahle Place	12.0	
+1172	Main	1018.0	US	New York	New York City	3 Bay Circle		Suite 7
+1173	Main	1019.0	US	Texas	Austin	1 Scoville Alley	19.0	
+1174	Main	1020.0	US	Ohio	Akron	4950 Bartillon Place	11.0	
+1175	Main	1021.0	US	California	South Lake Tahoe	6502 Merchant Drive		Suite 9
+1176	Main	1022.0	US	Georgia	Marietta	2 Esker Junction		Room 497
+1177	Main	1023.0	US	Illinois	Chicago	6875 Parkside Hill	5.0	
+1178	Main	1024.0	US	Florida	Jacksonville	174 Coolidge Terrace		Suite 25
+1179	Main	1025.0	US	Michigan	Detroit	6302 Anderson Circle	1.0	
+1180	Main	1026.0	US	Alaska	Anchorage	5453 Westend Place	5.0	
+1181	Main	1027.0	US	Illinois	Chicago	4 Sunnyside Parkway	1.0	
+1182	Main	1028.0	US	Indiana	Fort Wayne	1 Bashford Point	19.0	
+1183	Main	1029.0	US	North Carolina	Winston Salem	03959 Pennsylvania Street	18.0	
+1184	Main	1030.0	US	Nevada	Las Vegas	2910 Ronald Regan Hill		Room 65
+1185	Main	1031.0	US	Oklahoma	Oklahoma City	1500 Arizona Place		Suite 25
+1186	Main	1032.0	US	Kansas	Shawnee Mission	8 Holy Cross Center	11.0	
+1187	Main	1033.0	US	Texas	El Paso	3 Green Point		Room 699
+1188	Main	1034.0	US	Texas	Arlington	95 Cascade Alley		Suite 40
+1189	Main	1035.0	US	California	Los Angeles	57 Anhalt Court	17.0	
+1190	Main	1036.0	US	Missouri	Kansas City	87 Badeau Lane		Room 560
+1191	Main	1037.0	US	New York	Buffalo	61 Reinke Crossing	7.0	
+1192	Main	1038.0	US	Pennsylvania	Pittsburgh	65977 West Alley		Apt 143
+1193	Main	1039.0	US	Montana	Helena	83 Buhler Point	7.0	
+1194	Main	1040.0	US	California	San Francisco	5954 Laurel Place	5.0	
+1195	Main	1041.0	US	Ohio	Canton	94401 Moland Lane		Room 1443
+1196	Main	1042.0	US	Minnesota	Monticello	06 Jenifer Terrace	8.0	
+1197	Secondary	1043.0	US	Wisconsin	Madison	6 Oak Crossing		
+1198	Main	1043.0	US	New York	Brooklyn	420 Dahle Court		Suite 98
+1199	Main	1044.0	US	Colorado	Boulder	5320 Melby Plaza		Suite 22
+1200	Main	1045.0	US	Texas	Abilene	8948 Clemons Park		Room 1680
+1201	Main	1046.0	US	Arizona	Tucson	09069 Hanson Crossing		Suite 69
+1202	Main	1047.0	US	Alabama	Birmingham	0 Old Shore Court		Suite 43
+1203	Main	1048.0	US	Texas	Fort Worth	8 Sherman Place		Room 428
+1204	Main	1049.0	US	California	Los Angeles	3542 Jenifer Point		Suite 34
+1205	Main	1050.0	US	Texas	Dallas	0 Graceland Point	10.0	
+1206	Main	1051.0	US	Washington	Spokane	657 Maple Wood Street		Apt 1261
+1207	Main	1052.0	US	Arizona	Scottsdale	790 Dorton Parkway	15.0	
+1208	Main	1053.0	US	North Carolina	Durham	87 Quincy Drive	5.0	
+1209	Main	1054.0	US	Iowa	Des Moines	969 Vermont Circle	5.0	
+1210	Main	1055.0	US	Ohio	Cincinnati	959 Anzinger Pass		Room 843
+1211	Main	1056.0	US	Texas	Austin	7 Acker Center		Apt 1266
+1212	Secondary	1057.0	US	California	Sunnyvale	5246 Fair Oaks Pass		
+1213	Main	1057.0	US	Iowa	Des Moines	59 Everett Trail		Suite 44
+1214	Main	1058.0	US	New York	Jamaica	01477 Delladonna Park		Suite 91
+1215	Main	1059.0	US	Iowa	Davenport	8003 Gulseth Lane		Room 442
+1216	Main	1060.0	US	Arizona	Phoenix	76294 Ridge Oak Terrace		Suite 96
+1217	Main	1061.0	US	Idaho	Boise	1358 Fair Oaks Junction		Room 356
+1218	Main	1062.0	US	Montana	Bozeman	793 Grover Terrace	17.0	
+1219	Main	1063.0	US	North Carolina	Raleigh	5897 Fordem Drive		Suite 55
+1220	Secondary	1064.0	US	Oregon	Portland	8 Eagle Crest Lane	9.0	
+1221	Main	1064.0	US	Alabama	Birmingham	3 Starling Junction		Suite 65
+1222	Main	1065.0	US	Nevada	Reno	8347 Pleasure Pass		Suite 47
+1223	Main	1066.0	US	Kansas	Wichita	4327 Moulton Plaza	12.0	
+1224	Main	1067.0	US	Massachusetts	Watertown	29389 Hazelcrest Trail		Suite 28
+1225	Main	1068.0	US	Kansas	Shawnee Mission	98972 Ronald Regan Terrace		Suite 17
+1226	Main	1069.0	US	California	Whittier	13959 Veith Alley		Suite 6
+1227	Main	1070.0	US	Texas	Lubbock	7825 Porter Place		Suite 91
+1228	Main	1071.0	US	California	Sacramento	78588 Sunbrook Pass	19.0	
+1229	Main	1072.0	US	Kentucky	Louisville	476 Southridge Hill	14.0	
+1230	Secondary	1073.0	US	Alabama	Mobile	13 Sloan Road		Room 106
+1231	Main	1073.0	US	New Jersey	Trenton	9 Green Ridge Avenue		Room 1371
+1232	Main	1074.0	US	Georgia	Atlanta	8 Springs Circle	18.0	
+1233	Main	1075.0	US	Virginia	Richmond	26298 Randy Pass		Room 1969
+1234	Main	1076.0	US	New York	New York City	6 Lindbergh Road	2.0	
+1235	Main	1077.0	US	Arizona	Tucson	7 Burrows Drive	6.0	
+1236	Main	1078.0	US	Nevada	North Las Vegas	57457 Magdeline Crossing	5.0	
+1237	Secondary	1079.0	US	Louisiana	Baton Rouge	3 Bay Park		Suite 47
+1238	Main	1079.0	US	Florida	Clearwater	667 Iowa Hill	10.0	
+1239	Main	1080.0	US	Texas	Houston	810 Sommers Road	10.0	
+1240	Main	1081.0	US	Louisiana	New Orleans	4308 Old Shore Avenue		Apt 1673
+1241	Main	1082.0	US	Texas	Houston	18383 Quincy Plaza		Suite 98
+1242	Main	1083.0	US	New York	New York City	36 Moland Point		Room 607
+1243	Main	1084.0	US	Texas	Houston	78 Springview Road		Room 1525
+1244	Secondary	1085.0	US	Florida	Saint Petersburg	96 Roth Junction		Room 825
+1245	Main	1085.0	US	Florida	Daytona Beach	640 Starling Drive		Suite 6
+1246	Main	1086.0	US	Texas	Amarillo	74 Briar Crest Center	11.0	
+1247	Main	1087.0	US	Massachusetts	Cambridge	18 Annamark Road		Apt 141
+1248	Main	1088.0	US	Ohio	Canton	37356 Dixon Drive	6.0	
+1249	Main	1089.0	US	Massachusetts	Brockton	894 Mariners Cove Center		Suite 33
+1250	Secondary	1090.0	US	Alabama	Montgomery	05 Ridge Oak Way		Apt 436
+1251	Main	1090.0	US	California	San Diego	1 Grim Street		Suite 1
+1252	Main	1091.0	US	Texas	San Antonio	7 Hanson Way		Room 622
+1253	Main	1092.0	US	Texas	Conroe	96691 Sachtjen Parkway		Apt 1660
+1254	Secondary	1093.0	US	Ohio	Akron	40 Clove Parkway		Suite 39
+1255	Main	1093.0	US	California	South Lake Tahoe	833 Corben Parkway		Room 273
+1256	Main	1094.0	US	Virginia	Roanoke	8 Russell Center		Suite 63
+1257	Main	1095.0	US	District of Columbia	Washington	5 Towne Avenue		Suite 54
+1258	Main	1096.0	US	Indiana	South Bend	0137 Morning Hill		Room 29
+1259	Main	1097.0	US	Florida	Lakeland	943 Blaine Trail		Apt 1351
+1260	Main	1098.0	US	District of Columbia	Washington	376 Comanche Alley		Suite 6
+1261	Main	1099.0	US	California	San Jose	92368 Farwell Avenue		Apt 1581
+1262	Main	1100.0	US	District of Columbia	Washington	44 Westerfield Crossing		Room 1913
+1263	Main	1101.0	US	Idaho	Boise	9161 Norway Maple Lane		Suite 86
+1264	Main	1102.0	US	Kansas	Shawnee Mission	2 Crest Line Crossing	20.0	
+1265	Main	1103.0	US	Wisconsin	Madison	06 Del Mar Terrace		Suite 6
+1266	Secondary	1104.0	US	Texas	Laredo	76 Eastlawn Street		Room 1371
+1267	Main	1104.0	US	New York	New York City	11 Moland Drive	3.0	
+1268	Main	1105.0	US	Florida	Bradenton	0 Dryden Pass	19.0	
+1269	Secondary	1106.0	US	California	Sacramento	76590 Forest Dale Plaza	19.0	
+1270	Main	1106.0	US	California	San Bernardino	411 Rockefeller Way		Suite 43
+1271	Secondary	1107.0	US	Alabama	Mobile	37277 Thompson Court		Suite 27
+1272	Main	1107.0	US	Maryland	Baltimore	80196 Pankratz Street		Suite 72
+1273	Main	1108.0	US	California	San Jose	27 Oak Valley Alley		Suite 94
+1274	Main	1109.0	US	North Carolina	Greensboro	80 Amoth Lane		Room 579
+1275	Main	1110.0	US	Nevada	Las Vegas	87986 Merrick Lane	18.0	
+1276	Secondary	1111.0	US	Maryland	Gaithersburg	1954 Vidon Street		Suite 23
+1277	Main	1111.0	US	California	Santa Cruz	3211 Duke Plaza	10.0	
+1278	Main	1112.0	US	Georgia	Augusta	6519 Fisk Circle		Room 1269
+1279	Secondary	1113.0	US	New York	Albany	02 Toban Parkway	3.0	
+1280	Main	1113.0	US	Texas	Fort Worth	8594 Graedel Hill	7.0	
+1281	Main	1114.0	US	Maryland	Gaithersburg	92123 Di Loreto Trail		Room 299
+1282	Main	1115.0	US	North Carolina	Winston Salem	8 Farwell Alley		Suite 41
+1283	Secondary	1116.0	US	Indiana	Muncie	075 David Pass		Room 708
+1284	Main	1116.0	US	North Carolina	Gastonia	85197 Prairieview Alley	5.0	
+1285	Main	1117.0	US	California	Sacramento	7182 Randy Circle		Room 1819
+1286	Main	1118.0	US	North Carolina	Charlotte	62 Superior Pass	1.0	
+1287	Main	1119.0	US	Idaho	Idaho Falls	35176 Onsgard Road		Suite 24
+1288	Main	1120.0	US	California	Glendale	84 Fairview Circle		Room 654
+1289	Main	1121.0	US	Texas	El Paso	292 1st Court		Room 1849
+1290	Main	1122.0	US	Texas	El Paso	799 Hovde Parkway		Room 716
+1291	Secondary	1123.0	US	Texas	Conroe	1004 Commercial Road		Suite 69
+1292	Main	1123.0	US	Virginia	Roanoke	60705 Sunnyside Avenue		Room 1607
+1293	Main	1124.0	US	Illinois	Chicago	0 Delaware Lane	13.0	
+1294	Main	1125.0	US	District of Columbia	Washington	07 Autumn Leaf Way		Room 239
+1295	Secondary	1126.0	US	Texas	Austin	1 Hoffman Crossing		Apt 421
+1296	Main	1126.0	US	Oklahoma	Oklahoma City	4440 Iowa Alley		Suite 80
+1297	Main	1127.0	US	New York	New York City	1 Coolidge Place		Room 356
+1298	Main	1128.0	US	Idaho	Pocatello	150 Meadow Vale Center		Room 868
+1299	Main	1129.0	US	Nebraska	Lincoln	5 Paget Drive		Room 372
+1300	Main	1130.0	US	California	San Diego	27831 Crowley Road	1.0	
+1301	Main	1131.0	US	Texas	Fort Worth	30 Green Ridge Circle	3.0	
+1302	Main	1132.0	US	North Carolina	Greensboro	36 Mallard Court	18.0	
+1303	Main	1133.0	US	Arkansas	Little Rock	097 Sunbrook Road		Room 1950
+1304	Main	1134.0	US	Arizona	Tucson	4 Knutson Pass		Suite 29
+1305	Main	1135.0	US	Pennsylvania	Pittsburgh	503 Debs Center		Room 1950
+1306	Main	1136.0	US	Louisiana	Lake Charles	4819 Rutledge Park	19.0	
+1307	Main	1137.0	US	California	North Hollywood	793 Steensland Avenue		Apt 133
+1308	Main	1138.0	US	South Carolina	Beaufort	3563 Sloan Circle	10.0	
+1309	Main	1139.0	US	Illinois	Springfield	76 Basil Crossing		Suite 96
+1310	Main	1140.0	US	Virginia	Newport News	6176 Green Alley		Room 1612
+1311	Main	1141.0	US	Utah	Salt Lake City	2134 Scoville Plaza		Room 1248
+1312	Secondary	1142.0	US	Louisiana	Baton Rouge	79992 Mcguire Lane		
+1313	Main	1142.0	US	Texas	Dallas	23431 Straubel Terrace		Room 1211
+1314	Main	1143.0	US	Ohio	Columbus	45 Loeprich Center		Apt 1397
+1315	Main	1144.0	US	Utah	Salt Lake City	4162 Lake View Plaza		Room 1728
+1316	Main	1145.0	US	Michigan	Flint	3539 Bluestem Road		Suite 45
+1317	Main	1146.0	US	Florida	Miami	2 Roth Drive	8.0	
+1318	Main	1147.0	US	Colorado	Littleton	68165 Erie Way	5.0	
+1319	Secondary	1148.0	US	Ohio	Dayton	398 Ridgeway Hill		Suite 17
+1320	Main	1148.0	US	Missouri	Jefferson City	4864 Spohn Hill	16.0	
+1321	Main	1149.0	US	California	Berkeley	57 Commercial Circle		Apt 1691
+1322	Main	1150.0	US	Illinois	Peoria	524 Macpherson Junction	20.0	
+1323	Main	1151.0	US	Florida	Hollywood	8011 Manufacturers Drive	10.0	
+1324	Main	1152.0	US	Tennessee	Nashville	51 Village Green Hill		Suite 31
+1325	Main	1153.0	US	New York	Syracuse	5852 Randy Road		Room 90
+1326	Main	1154.0	US	Arkansas	North Little Rock	691 Prairieview Plaza	20.0	
+1327	Main	1155.0	US	Illinois	Chicago	135 Truax Court	15.0	
+1328	Main	1156.0	US	California	San Bernardino	4752 Haas Plaza	7.0	
+1329	Main	1157.0	US	Washington	Tacoma	20 Jackson Lane		Room 1438
+1330	Secondary	1158.0	US	Wisconsin	Milwaukee	5914 Goodland Lane		Room 11
+1331	Main	1158.0	US	Washington	Spokane	9322 Fairfield Point	11.0	
+1332	Secondary	1159.0	US	Texas	Amarillo	64801 Warner Plaza		Suite 10
+1333	Main	1159.0	US	New York	Albany	847 Becker Parkway		Room 558
+1334	Secondary	1160.0	US	Connecticut	Stamford	09 Del Mar Street		
+1335	Main	1160.0	US	Texas	Houston	10 Fairview Drive		Suite 13
+1336	Main	1161.0	US	Ohio	Toledo	683 Upham Place		Room 438
+1337	Main	1162.0	US	West Virginia	Charleston	57476 Hudson Avenue		Room 1208
+1338	Main	1163.0	US	Texas	Irving	5108 Commercial Plaza		Room 1928
+1339	Secondary	1164.0	US	Illinois	Carol Stream	71 Graedel Way		Room 959
+1340	Main	1164.0	US	Virginia	Sterling	0 Alpine Lane		Suite 88
+1341	Main	1165.0	US	Texas	El Paso	625 Fairfield Circle	1.0	
+1342	Main	1166.0	US	Georgia	Macon	338 Moulton Circle		Room 1193
+1343	Main	1167.0	US	Illinois	Chicago	43638 Bayside Court		Suite 83
+1344	Main	1168.0	US	New York	Yonkers	4277 Drewry Pass		Room 1926
+1345	Main	1169.0	US	Indiana	Indianapolis	39424 Dottie Point		Room 58
+1346	Main	1170.0	US	Georgia	Atlanta	659 Shasta Place		Suite 13
+1347	Main	1171.0	US	New Mexico	Santa Fe	21 Kim Street	4.0	
+1348	Secondary	1172.0	US	Alaska	Anchorage	742 Lighthouse Bay Circle	8.0	
+1349	Main	1172.0	US	New York	Flushing	2008 Blue Bill Park Parkway		Room 709
+1350	Main	1173.0	US	New Mexico	Albuquerque	05 Sycamore Terrace		Suite 55
+1351	Main	1174.0	US	Texas	Austin	83 Esker Court		Suite 91
+1352	Secondary	1175.0	US	District of Columbia	Washington	967 Forest Run Terrace		
+1353	Main	1175.0	US	California	Orange	19876 Sauthoff Alley	8.0	
+1354	Main	1176.0	US	Missouri	Kansas City	56516 Ridge Oak Pass		Apt 1242
+1355	Main	1177.0	US	Ohio	Canton	6 Heath Lane	11.0	
+1356	Main	1178.0	US	Illinois	Chicago	7 Warbler Parkway	6.0	
+1357	Main	1179.0	US	District of Columbia	Washington	31 Maywood Parkway		Room 1512
+1358	Main	1180.0	US	Nevada	Las Vegas	816 Bellgrove Park		Suite 98
+1359	Main	1181.0	US	Minnesota	Minneapolis	6859 Buell Way		Room 1853
+1360	Main	1182.0	US	Texas	El Paso	0 Center Parkway	6.0	
+1361	Secondary	1183.0	US	North Carolina	Greensboro	45344 Cherokee Trail		Room 699
+1362	Main	1183.0	US	Florida	Tallahassee	83 Fisk Junction		Apt 1507
+1363	Main	1184.0	US	Alabama	Mobile	78 Schiller Junction		Suite 48
+1364	Main	1185.0	US	Minnesota	Minneapolis	01 Blackbird Point	19.0	
+1365	Main	1186.0	US	North Dakota	Fargo	91937 Declaration Terrace	13.0	
+1366	Main	1187.0	US	Michigan	Southfield	73 Charing Cross Park	5.0	
+1367	Main	1188.0	US	Virginia	Richmond	6212 Towne Hill	10.0	
+1368	Main	1189.0	US	Arizona	Phoenix	36 Browning Court		Suite 94
+1369	Main	1190.0	US	Minnesota	Saint Paul	3 Shelley Avenue	2.0	
+1370	Main	1191.0	US	District of Columbia	Washington	79 Darwin Center	15.0	
+1371	Secondary	1192.0	US	West Virginia	Charleston	372 Corscot Crossing		Apt 1745
+1372	Main	1192.0	US	Maryland	Baltimore	090 Quincy Way	19.0	
+1373	Main	1193.0	US	New York	Brooklyn	2018 Pond Drive		Room 211
+1374	Secondary	1194.0	US	Colorado	Denver	1034 Crescent Oaks Alley	11.0	
+1375	Main	1194.0	US	Washington	Yakima	32621 Grasskamp Parkway		Suite 9
+1376	Main	1195.0	US	California	Oakland	38059 Mariners Cove Court	18.0	
+1377	Main	1196.0	US	New York	Buffalo	8412 Spaight Terrace	8.0	
+1378	Main	1197.0	US	Florida	Miami	217 Bluestem Lane		Room 450
+1379	Main	1198.0	US	South Carolina	Florence	0983 Stuart Trail		Suite 60
+1380	Main	1199.0	US	New Jersey	Trenton	59 Lotheville Place		Suite 28
+1381	Main	1200.0	US	New York	Syracuse	00 Ridge Oak Plaza		Room 813
+1382	Main	1201.0	US	Washington	Spokane	4239 Drewry Junction		Room 179
+1383	Main	1202.0	US	Missouri	Saint Louis	272 Tennessee Way		Room 917
+1384	Main	1203.0	US	Colorado	Colorado Springs	61123 Moose Avenue		Room 628
+1385	Main	1204.0	US	Michigan	Flint	61781 Summit Drive		Suite 92
+1386	Main	1205.0	US	Florida	Tampa	81 Washington Hill		Suite 77
+1387	Main	1206.0	US	Florida	Homestead	9 Myrtle Parkway		Room 1850
+1388	Main	1207.0	US	California	Whittier	1921 Coleman Court	3.0	
+1389	Secondary	1208.0	US	Georgia	Atlanta	7 Badeau Hill	18.0	
+1390	Main	1208.0	US	Florida	Miami	783 Porter Avenue		Room 956
+1391	Main	1209.0	US	Georgia	Atlanta	6 Eliot Place		Suite 54
+1392	Main	1210.0	US	Georgia	Alpharetta	06606 Corben Terrace		Suite 60
+1393	Main	1211.0	US	Connecticut	Norwalk	951 La Follette Alley	19.0	
+1394	Main	1212.0	US	Florida	Sarasota	00557 Derek Park	7.0	
+1395	Main	1213.0	US	Michigan	Kalamazoo	23171 Redwing Pass	13.0	
+1396	Main	1214.0	US	Illinois	Chicago	015 Kipling Street	12.0	
+1397	Main	1215.0	US	Alabama	Birmingham	53906 Briar Crest Street		Room 789
+1398	Main	1216.0	US	California	Santa Barbara	9397 4th Court		Room 1663
+1399	Secondary	1217.0	US	Alabama	Birmingham	965 Miller Drive	14.0	
+1400	Main	1217.0	US	Virginia	Richmond	08826 Northwestern Parkway		Suite 89
+1401	Secondary	1218.0	US	California	Inglewood	8 Village Green Drive		
+1402	Main	1218.0	US	Texas	Houston	391 Lakeland Point		Room 1373
+1403	Main	1219.0	US	Oklahoma	Tulsa	770 Roxbury Point	7.0	
+1404	Main	1220.0	US	Iowa	Des Moines	2484 Spaight Alley	3.0	
+1405	Main	1221.0	US	Washington	Yakima	6315 Evergreen Drive		Suite 19
+1406	Main	1222.0	US	New Jersey	Newark	0832 Roxbury Drive		Suite 53
+1407	Main	1223.0	US	Wisconsin	Milwaukee	9 Doe Crossing Center	5.0	
+1408	Main	1224.0	US	Texas	Pasadena	7022 Hazelcrest Point		Room 20
+1409	Main	1225.0	US	Colorado	Grand Junction	7760 Sunnyside Trail		Suite 82
+1410	Secondary	1226.0	US	Mississippi	Hattiesburg	24620 Haas Avenue	7.0	
+1411	Main	1226.0	US	New York	Jamaica	978 Fairview Place		Suite 71
+1412	Main	1227.0	US	New York	Elmira	1942 Farwell Circle	5.0	
+1413	Main	1228.0	US	Missouri	Kansas City	7 Hoard Crossing		Apt 1477
+1414	Main	1229.0	US	Florida	Pensacola	66 Crest Line Street		Room 1537
+1415	Main	1230.0	US	Alabama	Tuscaloosa	8 Havey Plaza		Room 550
+1416	Main	1231.0	US	Pennsylvania	Wilkes Barre	26449 Eagan Court	14.0	
+1417	Main	1232.0	US	New Jersey	Jersey City	444 Carpenter Road		Room 1974
+1418	Main	1233.0	US	Texas	Beaumont	6810 Dottie Drive		Room 1649
+1419	Main	1234.0	US	California	Chula Vista	684 Prairieview Drive		Apt 1584
+1420	Main	1235.0	US	Indiana	Bloomington	1641 Arizona Road	18.0	
+1421	Main	1236.0	US	California	Sacramento	720 Utah Pass		Room 1490
+1422	Main	1237.0	US	Arizona	Tucson	57061 Meadow Valley Center		Room 170
+1423	Main	1238.0	US	District of Columbia	Washington	66762 5th Hill		Suite 69
+1424	Main	1239.0	US	Alabama	Birmingham	28448 Twin Pines Lane		Suite 23
+1425	Main	1240.0	US	Texas	Dallas	6386 Mayer Crossing		Suite 29
+1426	Main	1241.0	US	District of Columbia	Washington	8958 Orin Lane		Suite 91
+1427	Main	1242.0	US	Nevada	Las Vegas	1 Summer Ridge Lane		Suite 6
+1428	Main	1243.0	US	Illinois	Peoria	03 Debs Circle		Suite 71
+1429	Main	1244.0	US	Tennessee	Chattanooga	81 Londonderry Street		Suite 44
+1430	Secondary	1245.0	US	Arizona	Phoenix	2848 Shasta Way		Apt 1421
+1431	Main	1245.0	US	Florida	Orlando	8894 Schurz Park	15.0	
+1432	Secondary	1246.0	US	Alaska	Fairbanks	6 Talisman Park		Room 320
+1433	Main	1246.0	US	Alabama	Birmingham	9648 Farragut Place		Room 943
+1434	Main	1247.0	US	Virginia	Roanoke	7 Carpenter Street		Suite 17
+1435	Secondary	1248.0	US	Alabama	Anniston	1 Moland Place		
+1436	Main	1248.0	US	Texas	Conroe	56616 Golf Course Avenue	13.0	
+1437	Main	1249.0	US	Virginia	Norfolk	98 Bashford Trail	5.0	
+1438	Main	1250.0	US	Texas	Wichita Falls	4 Dexter Junction	16.0	
+1439	Main	1251.0	US	Florida	Lakeland	15 Hanson Crossing		Suite 60
+1440	Main	1252.0	US	Kansas	Shawnee Mission	0506 Barby Avenue		Apt 1519
+1441	Secondary	1253.0	US	California	Los Angeles	8 Del Sol Lane		Apt 1187
+1442	Main	1253.0	US	Alabama	Montgomery	25 Union Hill		Room 605
+1443	Main	1254.0	US	New York	Jamaica	0 Blue Bill Park Point		Suite 83
+1444	Secondary	1255.0	US	Georgia	Cumming	3 Transport Alley	20.0	
+1445	Main	1255.0	US	Washington	Everett	48742 Larry Place		Suite 68
+1446	Main	1256.0	US	Massachusetts	Newton	846 Wayridge Street	14.0	
+1447	Main	1257.0	US	New York	Albany	6 Crownhardt Pass	11.0	
+1448	Main	1258.0	US	Pennsylvania	Allentown	02902 Oak Street	5.0	
+1449	Main	1259.0	US	Florida	Fort Pierce	21 Washington Drive		Apt 1165
+1450	Main	1260.0	US	Washington	Tacoma	39 Eliot Lane	18.0	
+1451	Main	1261.0	US	California	Sacramento	2118 Eagan Hill		Suite 68
+1452	Main	1262.0	US	Illinois	Chicago	01 Sherman Plaza		Room 1317
+1453	Main	1263.0	US	North Carolina	Greensboro	9519 Northport Street		Room 982
+1454	Main	1264.0	US	District of Columbia	Washington	38 Sutherland Crossing		Room 1289
+1455	Secondary	1265.0	US	Delaware	Newark	21 Ridgeway Hill		Suite 49
+1456	Main	1265.0	US	Missouri	Kansas City	879 Oxford Court		Suite 17
+1457	Main	1266.0	US	Nebraska	Omaha	36 Messerschmidt Road		Apt 1637
+1458	Secondary	1267.0	US	Wisconsin	Milwaukee	1 Hooker Pass	3.0	
+1459	Main	1267.0	US	Pennsylvania	Lancaster	64 Mcguire Way		Room 385
+1460	Main	1268.0	US	New York	Jamaica	8528 Londonderry Drive		Suite 36
+1461	Main	1269.0	US	Illinois	Rockford	82 Hagan Way	9.0	
+1462	Main	1270.0	US	California	Santa Ana	9 South Point		Suite 36
+1463	Main	1271.0	US	Florida	Miami	54541 Erie Avenue	20.0	
+1464	Main	1272.0	US	Missouri	Saint Louis	7509 Fieldstone Point	14.0	
+1465	Secondary	1273.0	US	Pennsylvania	Harrisburg	4 Oneill Junction	3.0	
+1466	Main	1273.0	US	Louisiana	Shreveport	8 Elka Plaza		Suite 95
+1467	Main	1274.0	US	Illinois	Springfield	23105 Westport Point		Room 1627
+1468	Secondary	1275.0	US	Tennessee	Nashville	4744 Golf Plaza		Suite 7
+1469	Main	1275.0	US	Florida	Jacksonville	77 Hayes Trail		Suite 56
+1470	Main	1276.0	US	Maryland	Gaithersburg	5 Westridge Road		Suite 70
+1471	Main	1277.0	US	Virginia	Norfolk	5513 Upham Drive		Room 1882
+1472	Main	1278.0	US	Florida	Lakeland	49715 Sullivan Court		Apt 1602
+1473	Secondary	1279.0	US	Virginia	Arlington	3447 Swallow Drive		Room 391
+1474	Main	1279.0	US	Colorado	Pueblo	420 Granby Circle	5.0	
+1475	Main	1280.0	US	Colorado	Denver	5 Bartelt Crossing	7.0	
+1476	Main	1281.0	US	Michigan	Lansing	080 Trailsway Alley		Room 1997
+1477	Secondary	1282.0	US	Illinois	Chicago	3622 Loeprich Terrace	11.0	
+1478	Main	1282.0	US	Missouri	Kansas City	317 Arkansas Drive		Room 976
+1479	Main	1283.0	US	Georgia	Macon	7152 Transport Parkway	8.0	
+1480	Secondary	1284.0	US	Arkansas	North Little Rock	203 Bunker Hill Junction		Room 1375
+1481	Main	1284.0	US	Ohio	Cincinnati	6445 Clarendon Place		Apt 1572
+1482	Main	1285.0	US	Colorado	Denver	0982 Grayhawk Park	8.0	
+1483	Main	1286.0	US	Kansas	Kansas City	2 Reinke Point		Room 1617
+1484	Main	1287.0	US	California	Los Angeles	28 Marquette Pass		Suite 27
+1485	Main	1288.0	US	Washington	Bellevue	57153 Delaware Terrace		Apt 1018
+1486	Main	1289.0	US	California	Sacramento	237 Golf Course Street		Suite 100
+1487	Main	1290.0	US	Ohio	Akron	973 Nova Place		Room 960
+1488	Main	1291.0	US	California	Santa Monica	2107 Bashford Point		Room 146
+1489	Main	1292.0	US	South Dakota	Sioux Falls	42733 Dryden Circle		Room 1416
+1490	Main	1293.0	US	California	Los Angeles	2 Summer Ridge Avenue	6.0	
+1491	Main	1294.0	US	Florida	Miami	3 Amoth Point	19.0	
+1492	Main	1295.0	US	Kansas	Shawnee Mission	48 Scoville Point		Suite 62
+1493	Main	1296.0	US	Texas	Dallas	792 Scoville Center		Suite 90
+1494	Main	1297.0	US	Pennsylvania	Pittsburgh	60 Starling Parkway		Apt 1640
+1495	Main	1298.0	US	Texas	San Antonio	642 Pierstorff Way	8.0	
+1496	Main	1299.0	US	Wisconsin	Racine	1 Artisan Circle	1.0	
+1497	Secondary	1300.0	US	California	Sacramento	78 Mesta Trail	12.0	
+1498	Main	1300.0	US	Tennessee	Memphis	14326 Ramsey Lane	16.0	
+1499	Main	1301.0	US	Georgia	Decatur	2446 Prairie Rose Trail		Suite 88
+1501	Secondary	1302.0	US	Oklahoma	Oklahoma City	34227 Mcbride Pass	6.0	
+1502	Main	1302.0	US	Missouri	Saint Louis	90 Tennessee Plaza		Room 1432
+1503	Main	1303.0	US	California	San Diego	2030 Saint Paul Avenue		Apt 1677
+1504	Main	1304.0	US	Kentucky	Louisville	43 Lindbergh Hill	12.0	
+1505	Main	1305.0	US	Indiana	Indianapolis	60433 Maple Wood Park		Suite 6
+1506	Main	1306.0	US	North Carolina	Charlotte	1079 Cottonwood Drive	3.0	
+1507	Main	1307.0	US	Ohio	Hamilton	50 Commercial Avenue		Room 459
+1508	Main	1308.0	US	Hawaii	Honolulu	207 Drewry Center	5.0	
+1509	Main	1309.0	US	Nevada	Reno	2 Starling Point		Suite 16
+1510	Main	1310.0	US	Virginia	Alexandria	62 Russell Pass		Apt 1559
+1511	Main	1311.0	US	Michigan	Lansing	2 Dapin Court	10.0	
+1512	Main	1312.0	US	California	Sunnyvale	32 Pierstorff Way		Room 713
+1513	Main	1313.0	US	Texas	Dallas	2 Cordelia Trail	8.0	
+1514	Main	1314.0	US	California	Pasadena	9 Eagle Crest Terrace	6.0	
+1515	Main	1315.0	US	Kentucky	Lexington	209 Cody Plaza		Suite 6
+1516	Main	1316.0	US	New Mexico	Santa Fe	7 Prairie Rose Avenue	10.0	
+1517	Main	1317.0	US	New York	New York City	908 Eagle Crest Alley		Suite 82
+1518	Main	1318.0	US	Florida	Bradenton	750 Chinook Center		Suite 41
+1519	Main	1319.0	US	Texas	Fort Worth	913 Loftsgordon Terrace		Room 203
+1520	Main	1320.0	US	District of Columbia	Washington	43 Hauk Drive		Room 310
+1521	Main	1321.0	US	Florida	Naples	6633 Erie Way	12.0	
+1522	Main	1322.0	US	Washington	Everett	6207 Marcy Way		Room 890
+1523	Main	1323.0	US	Texas	San Antonio	48 Weeping Birch Place	14.0	
+1524	Main	1324.0	US	Texas	Houston	0081 3rd Drive		Suite 4
+1525	Main	1325.0	US	Pennsylvania	York	6674 Westend Pass		Suite 50
+1526	Main	1326.0	US	Florida	Lakeland	24726 Crest Line Way		Room 186
+1527	Secondary	1327.0	US	Oklahoma	Tulsa	13199 Blaine Junction		Room 1882
+1528	Main	1327.0	US	New York	Bronx	7 Fairview Plaza		Suite 18
+1529	Main	1328.0	US	Connecticut	Norwalk	5 Lighthouse Bay Road		Room 547
+1530	Main	1329.0	US	Kentucky	London	6 Stephen Street	3.0	
+1531	Main	1330.0	US	Florida	Jacksonville	44 Morningstar Street	15.0	
+1532	Secondary	1331.0	US	Maryland	Baltimore	451 Vernon Place		
+1533	Main	1331.0	US	Florida	Fort Lauderdale	779 Lien Park		Room 130
+1534	Main	1332.0	US	Massachusetts	Watertown	6 Clove Way		Suite 11
+1535	Main	1333.0	US	Missouri	Kansas City	13643 Susan Drive	2.0	
+1536	Main	1334.0	US	Kansas	Topeka	4 Doe Crossing Parkway		Room 1877
+1537	Main	1335.0	US	Florida	Bradenton	195 Autumn Leaf Point		Suite 98
+1538	Main	1336.0	US	California	Pasadena	09 Coleman Plaza		Room 959
+1539	Main	1337.0	US	Pennsylvania	Wilkes Barre	12083 Stuart Plaza	5.0	
+1540	Main	1338.0	US	Florida	Gainesville	8441 Coolidge Pass		Room 360
+1541	Main	1339.0	US	Tennessee	Nashville	5471 Blackbird Center		Suite 17
+1542	Main	1340.0	US	California	Chico	3 Sunnyside Alley	15.0	
+1543	Main	1341.0	US	California	Los Angeles	71 Artisan Parkway		Room 1482
+1544	Main	1342.0	US	Texas	San Antonio	541 Bellgrove Alley		Room 28
+1545	Secondary	1343.0	US	Kentucky	Lexington	8430 Bartelt Way		Apt 1012
+1546	Main	1343.0	US	Georgia	Atlanta	516 Ryan Circle		Suite 95
+1547	Main	1344.0	US	Florida	Lake Worth	94 Homewood Point		Suite 2
+1548	Secondary	1345.0	US	Idaho	Boise	19 Pepper Wood Court		Suite 94
+1549	Main	1345.0	US	North Carolina	Raleigh	1 Del Mar Hill		Room 192
+1550	Main	1346.0	US	Indiana	Jeffersonville	6605 Green Drive	6.0	
+1551	Main	1347.0	US	Nebraska	Lincoln	1 Jay Drive	3.0	
+1552	Main	1348.0	US	Virginia	Fairfax	27 Mallory Way		Suite 36
+1553	Main	1349.0	US	Arizona	Phoenix	688 Elgar Way	9.0	
+1554	Main	1350.0	US	Kentucky	Lexington	288 1st Park		Suite 52
+1555	Secondary	1351.0	US	Virginia	Merrifield	1231 Marquette Court		Suite 44
+1556	Main	1351.0	US	Indiana	Indianapolis	71 Larry Avenue		Room 677
+1557	Main	1352.0	US	Texas	Dallas	671 Cherokee Trail		Suite 100
+1558	Main	1353.0	US	Utah	Salt Lake City	8851 Tennessee Plaza	19.0	
+1559	Main	1354.0	US	California	San Francisco	6358 Carberry Place		Room 981
+1560	Main	1355.0	US	Minnesota	Minneapolis	5960 Continental Road	9.0	
+1561	Secondary	1356.0	US	California	San Francisco	9 Pawling Road		Suite 60
+1562	Main	1356.0	US	Arizona	Phoenix	20 Bluestem Trail		Room 70
+1563	Main	1357.0	US	Oklahoma	Edmond	45 Fairview Road	11.0	
+1564	Main	1358.0	US	Missouri	Saint Louis	2651 Kipling Place		Suite 51
+1565	Main	1359.0	US	Missouri	Saint Louis	7 Main Point	10.0	
+1566	Main	1360.0	US	Mississippi	Jackson	3 Prairieview Place	8.0	
+1567	Secondary	1361.0	US	Texas	Fort Worth	138 Village Center		Room 1145
+1568	Main	1361.0	US	Nebraska	Omaha	6 Sutherland Trail	14.0	
+1569	Main	1362.0	US	Florida	Brooksville	65421 American Way	5.0	
+1570	Main	1363.0	US	California	San Diego	5221 Hollow Ridge Lane		Room 1967
+1571	Secondary	1364.0	US	Colorado	Colorado Springs	8 Vermont Court		
+1572	Main	1364.0	US	Missouri	Saint Louis	69927 Sachs Street		Suite 15
+1573	Main	1365.0	US	New York	Staten Island	97669 Emmet Drive	18.0	
+1574	Main	1366.0	US	Florida	Miami Beach	5696 Roxbury Crossing		Apt 1644
+1575	Main	1367.0	US	Texas	Gatesville	642 Bluestem Alley		Suite 77
+1576	Main	1368.0	US	Indiana	Evansville	88719 Sunfield Alley	7.0	
+1577	Main	1369.0	US	Georgia	Decatur	99481 Schlimgen Avenue		Apt 1187
+1578	Main	1370.0	US	Nebraska	Omaha	01392 Barnett Parkway	18.0	
+1579	Secondary	1371.0	US	Florida	Saint Petersburg	868 Nevada Pass		Room 1215
+1580	Main	1371.0	US	Louisiana	New Orleans	5 Scott Lane	5.0	
+1581	Main	1372.0	US	Michigan	Grand Rapids	1079 Lerdahl Park		Suite 98
+1582	Main	1373.0	US	Montana	Billings	7191 Longview Center		Room 96
+1583	Main	1374.0	US	Virginia	Virginia Beach	67 Sachtjen Drive	19.0	
+1584	Main	1375.0	US	Kansas	Topeka	43774 Debs Place		Room 844
+1585	Secondary	1376.0	US	Florida	Sarasota	342 Westend Court	8.0	
+1586	Main	1376.0	US	Washington	Spokane	48 Rigney Road	8.0	
+1587	Main	1377.0	US	Georgia	Alpharetta	6778 Melrose Trail		Suite 71
+1588	Main	1378.0	US	Oklahoma	Tulsa	8 Cottonwood Center		Room 1293
+1589	Secondary	1379.0	US	Florida	Pensacola	85223 Burning Wood Terrace		
+1590	Main	1379.0	US	New York	Staten Island	174 Eastwood Drive	11.0	
+1591	Main	1380.0	US	New York	New York City	608 Victoria Plaza		Room 74
+1592	Main	1381.0	US	Massachusetts	Newton	57 Barnett Hill		Room 888
+1593	Main	1382.0	US	Texas	Houston	216 Northwestern Trail		Room 92
+1594	Main	1383.0	US	Pennsylvania	Philadelphia	03082 Warrior Street		Apt 1023
+1595	Main	1384.0	US	New York	Brooklyn	85 Sullivan Alley		Room 483
+1596	Main	1385.0	US	Georgia	Lawrenceville	080 Gateway Avenue		Suite 88
+1597	Main	1386.0	US	West Virginia	Morgantown	114 Fairview Lane		Suite 20
+1598	Secondary	1387.0	US	Georgia	Columbus	3 American Crossing		
+1599	Main	1387.0	US	Texas	Amarillo	4 Pawling Park		Apt 1475
+1600	Main	1388.0	US	Louisiana	Baton Rouge	332 Portage Road	9.0	
+1601	Main	1389.0	US	Mississippi	Gulfport	2 Fallview Hill		Room 1212
+1602	Main	1390.0	US	Ohio	Columbus	1838 Meadow Vale Junction	9.0	
+1603	Main	1391.0	US	Colorado	Pueblo	6389 Dennis Plaza	16.0	
+1604	Main	1392.0	US	Washington	Tacoma	9 East Place		Suite 65
+1605	Main	1393.0	US	District of Columbia	Washington	57529 Di Loreto Place	10.0	
+1606	Main	1394.0	US	Texas	Austin	46273 Eagan Parkway	3.0	
+1607	Main	1395.0	US	Florida	Miami	2494 Hallows Alley		Room 1698
+1608	Main	1396.0	US	New York	New York City	24360 David Drive	10.0	
+1609	Main	1397.0	US	District of Columbia	Washington	8 Dawn Court		Room 724
+1610	Secondary	1398.0	US	Idaho	Boise	075 Old Gate Lane		
+1611	Main	1398.0	US	West Virginia	Charleston	4 Montana Court	19.0	
+1612	Main	1399.0	US	Texas	Fort Worth	1862 Aberg Junction		Room 477
+1613	Main	1400.0	US	Kentucky	Louisville	84 Hermina Point	13.0	
+1614	Main	1401.0	US	Washington	Seattle	52181 Jay Center		Apt 1332
+1615	Main	1402.0	US	Texas	El Paso	115 North Court		Room 20
+1616	Main	1403.0	US	California	Sacramento	9 Fairview Pass	18.0	
+1617	Main	1404.0	US	Illinois	Peoria	56 Claremont Alley		Room 1216
+1618	Main	1405.0	US	District of Columbia	Washington	60396 Twin Pines Crossing	10.0	
+1619	Main	1406.0	US	Minnesota	Minneapolis	351 Dapin Street		Room 366
+1620	Main	1407.0	US	Ohio	Dayton	6 Garrison Point	20.0	
+1621	Main	1408.0	US	California	San Bernardino	3764 Raven Center		Apt 1631
+1622	Main	1409.0	US	Texas	Lubbock	915 Oak Valley Lane	9.0	
+1623	Main	1410.0	US	New Mexico	Albuquerque	4 Sommers Crossing		Room 200
+1624	Main	1411.0	US	Pennsylvania	Pittsburgh	6461 Morning Point	12.0	
+1625	Main	1412.0	US	Hawaii	Honolulu	44 Cordelia Avenue	7.0	
+1626	Secondary	1413.0	US	Kansas	Shawnee Mission	59302 Merry Court		Room 1294
+1627	Main	1413.0	US	New York	Jamaica	8973 Mosinee Junction		Room 1600
+1628	Main	1414.0	US	Florida	Pensacola	215 Judy Road		Room 1324
+1629	Main	1415.0	US	District of Columbia	Washington	01955 Crescent Oaks Circle		Room 484
+1630	Main	1416.0	US	Texas	Houston	3 Wayridge Center		Apt 1714
+1631	Main	1417.0	US	Missouri	Saint Louis	826 Service Road	14.0	
+1632	Main	1418.0	US	Florida	Miami	194 Namekagon Parkway	13.0	
+1633	Main	1419.0	US	Indiana	Fort Wayne	89806 Sachs Drive		Suite 17
+1634	Main	1420.0	US	Texas	Houston	22300 Spohn Park		Suite 14
+1635	Main	1421.0	US	New York	New York City	7595 Maple Wood Pass	4.0	
+1636	Main	1422.0	US	Connecticut	Waterbury	2832 Blackbird Circle		Suite 94
+1637	Main	1423.0	US	Georgia	Columbus	9 Moland Terrace		Suite 48
+1638	Main	1424.0	US	Utah	Salt Lake City	928 Browning Park		Suite 90
+1639	Main	1425.0	US	Arizona	Scottsdale	090 Fair Oaks Street	1.0	
+1640	Main	1426.0	US	Mississippi	Columbus	5716 Utah Terrace		Room 744
+1641	Main	1427.0	US	Maryland	Baltimore	39 Aberg Lane		Suite 8
+1642	Secondary	1428.0	US	Texas	Houston	1 Eagle Crest Place	10.0	
+1643	Main	1428.0	US	Florida	Miami	1 Grayhawk Point		Room 678
+1644	Secondary	1429.0	US	Pennsylvania	Pittsburgh	6365 Redwing Circle	14.0	
+1645	Main	1429.0	US	Kansas	Shawnee Mission	36 Rigney Lane	14.0	
+1646	Main	1430.0	US	Nevada	Las Vegas	52637 Dryden Pass	8.0	
+1647	Main	1431.0	US	Florida	Orlando	560 Red Cloud Point	7.0	
+1648	Main	1432.0	US	New Mexico	Las Cruces	1 Crownhardt Street	1.0	
+1649	Main	1433.0	US	California	San Diego	067 Reindahl Court		Apt 1182
+1650	Main	1434.0	US	Maryland	Bethesda	7 Dexter Hill		Apt 145
+1651	Secondary	1435.0	US	Virginia	Charlottesville	11 Pawling Avenue		Room 226
+1652	Main	1435.0	US	Texas	Corpus Christi	3410 Anthes Way		Suite 76
+1653	Main	1436.0	US	Arizona	Phoenix	8944 Oak Center		Room 773
+1654	Main	1437.0	US	New York	New York City	4795 Reinke Crossing		Room 491
+1655	Main	1438.0	US	California	Los Angeles	24 Mifflin Hill		Room 1525
+1656	Main	1439.0	US	Texas	Dallas	12773 Raven Terrace	4.0	
+1657	Main	1440.0	US	Iowa	Des Moines	8 Kim Place		Room 351
+1658	Main	1441.0	US	Ohio	Akron	404 Drewry Alley	10.0	
+1659	Main	1442.0	US	Nevada	Las Vegas	1 Hansons Circle		Room 260
+1660	Main	1443.0	US	Arizona	Mesa	9055 Bunting Park		Suite 29
+1661	Main	1444.0	US	Alabama	Birmingham	08358 Jackson Alley		Suite 29
+1662	Main	1445.0	US	South Carolina	Columbia	780 Forster Hill	5.0	
+1663	Main	1446.0	US	Florida	Orlando	83 Dryden Terrace		Suite 35
+1664	Main	1447.0	US	Mississippi	Hattiesburg	0259 John Wall Drive	1.0	
+1665	Main	1448.0	US	Florida	Orlando	2812 Logan Terrace		Suite 62
+1666	Main	1449.0	US	California	Carlsbad	211 Moland Pass	16.0	
+1667	Secondary	1450.0	US	Texas	El Paso	34964 American Ash Point		
+1668	Main	1450.0	US	Minnesota	Minneapolis	28 Dennis Park	10.0	
+1669	Main	1451.0	US	West Virginia	Charleston	87 Autumn Leaf Park		Suite 82
+1670	Main	1452.0	US	Illinois	Palatine	9 Luster Parkway	19.0	
+1671	Main	1453.0	US	Virginia	Roanoke	423 Havey Place	14.0	
+1672	Main	1454.0	US	Arizona	Phoenix	2 Nelson Terrace		Room 1987
+1673	Main	1455.0	US	Ohio	Cincinnati	5549 Trailsway Center	11.0	
+1674	Main	1456.0	US	Texas	Houston	0664 Sommers Street		Room 445
+1675	Main	1457.0	US	Delaware	Wilmington	63 South Crossing		Apt 1134
+1676	Main	1458.0	US	Florida	Pompano Beach	6 Memorial Point	4.0	
+1677	Main	1459.0	US	New Jersey	Newark	13 Buell Place	12.0	
+1678	Main	1460.0	US	Pennsylvania	Pittsburgh	81660 Ryan Street		Apt 1051
+1679	Main	1461.0	US	Arizona	Tucson	2303 Golf Circle		Suite 56
+1680	Main	1462.0	US	Kansas	Topeka	0 Nova Point		Suite 59
+1681	Main	1463.0	US	California	Fresno	96 Northview Point	15.0	
+1682	Main	1464.0	US	Hawaii	Honolulu	554 Dorton Place		Apt 1354
+1683	Main	1465.0	US	California	Corona	0166 Sherman Drive		Room 883
+1684	Main	1466.0	US	Texas	Houston	265 Homewood Alley	12.0	
+1685	Main	1467.0	US	Michigan	Grand Rapids	61137 Arrowood Terrace		Room 1802
+1686	Main	1468.0	US	Washington	Seattle	15262 Talmadge Road		Apt 1688
+1687	Main	1469.0	US	Indiana	Fort Wayne	3443 Welch Court		Suite 4
+1688	Secondary	1470.0	US	Texas	Waco	1 Grover Terrace		Apt 2
+1689	Main	1470.0	US	North Carolina	High Point	33026 Kingsford Road		Suite 69
+1690	Main	1471.0	US	California	San Francisco	78 Armistice Avenue		Room 1361
+1691	Main	1472.0	US	Texas	Dallas	312 Morningstar Center	9.0	
+1692	Main	1473.0	US	Pennsylvania	Pittsburgh	31 Londonderry Crossing		Room 752
+1693	Main	1474.0	US	New York	Buffalo	03 Dixon Way		Room 529
+1694	Main	1475.0	US	Minnesota	Rochester	8899 Nelson Crossing	2.0	
+1695	Main	1476.0	US	Missouri	Kansas City	6 Debs Junction		Room 837
+1696	Main	1477.0	US	Georgia	Atlanta	652 Sachtjen Place		Room 885
+1697	Main	1478.0	US	Texas	San Antonio	16 Straubel Avenue	2.0	
+1698	Main	1479.0	US	New York	Great Neck	706 Nova Trail		Suite 91
+1699	Secondary	1480.0	US	Pennsylvania	Pittsburgh	1 Warrior Crossing		Apt 1146
+1700	Main	1480.0	US	California	Fresno	542 Cherokee Park		Room 1818
+1701	Secondary	1481.0	US	Texas	Austin	2331 Westridge Plaza	11.0	
+1702	Main	1481.0	US	Kentucky	Lexington	6445 Golf Place		Suite 14
+1703	Main	1482.0	US	Oklahoma	Tulsa	6521 Birchwood Point		Room 1381
+1704	Main	1483.0	US	Minnesota	Monticello	2591 Dexter Lane		Room 1980
+1705	Main	1484.0	US	Arizona	Tempe	24315 Superior Junction		Apt 1545
+1706	Main	1485.0	US	Missouri	Kansas City	77 Stang Drive	9.0	
+1707	Secondary	1486.0	US	Illinois	Springfield	6583 Basil Street		Apt 1929
+1708	Main	1486.0	US	Florida	Fort Lauderdale	049 Sunbrook Plaza	3.0	
+1709	Main	1487.0	US	Louisiana	New Orleans	081 Fieldstone Crossing	13.0	
+1710	Main	1488.0	US	Florida	Miami	0 Pennsylvania Alley	6.0	
+1711	Main	1489.0	US	Washington	Seattle	97009 Blue Bill Park Drive		Apt 1369
+1712	Main	1490.0	US	Virginia	Richmond	576 Monument Court		Apt 1760
+1713	Main	1491.0	US	New Jersey	Trenton	5431 Sommers Lane		Suite 96
+1714	Secondary	1492.0	US	Pennsylvania	Pittsburgh	039 Trailsway Street		Room 1207
+1715	Main	1492.0	US	Oregon	Eugene	413 Susan Trail		Room 308
+1716	Main	1493.0	US	Ohio	Cincinnati	72 Lotheville Way		Apt 1425
+1717	Main	1494.0	US	Florida	Homestead	256 Marquette Point		Room 1348
+1718	Secondary	1495.0	US	North Carolina	Greensboro	7339 Lindbergh Lane		
+1719	Main	1495.0	US	Michigan	Detroit	8814 Manitowish Park	4.0	
+1720	Main	1496.0	US	District of Columbia	Washington	7 Charing Cross Parkway	6.0	
+1721	Main	1497.0	US	Tennessee	Nashville	24696 Commercial Alley		Suite 94
+1722	Main	1498.0	US	North Carolina	Wilmington	0 Bashford Junction		Apt 1173
+1723	Main	1499.0	US	Texas	Houston	413 Eliot Pass		Room 526
+1724	Main	1500.0	US	Florida	Miami	537 Claremont Center		Room 76
+1725	Main	1501.0	US	West Virginia	Huntington	5 Lillian Pass	13.0	
+1726	Main	1502.0	US	Texas	Abilene	84 Ruskin Avenue	1.0	
+1727	Secondary	1503.0	US	Arkansas	North Little Rock	61 Esker Parkway		Apt 604
+1728	Main	1503.0	US	California	Northridge	41 Troy Terrace		Room 1278
+1729	Main	1504.0	US	Texas	El Paso	87377 Beilfuss Avenue	1.0	
+1730	Main	1505.0	US	California	San Jose	9 Forest Run Center		Room 1535
+1731	Secondary	1506.0	US	Arkansas	Little Rock	786 Forster Plaza	11.0	
+1732	Main	1506.0	US	Iowa	Davenport	00964 Marcy Road	6.0	
+1733	Main	1507.0	US	California	Orange	49 Sugar Court		Apt 1230
+1734	Main	1508.0	US	Minnesota	Minneapolis	5215 Corben Road	11.0	
+1735	Main	1509.0	US	Massachusetts	Boston	2438 Spohn Place		Room 894
+1736	Main	1510.0	US	California	San Francisco	016 Rockefeller Lane		Apt 1062
+1737	Main	1511.0	US	Ohio	Toledo	58343 Division Point	1.0	
+1738	Main	1512.0	US	Florida	Palm Bay	61597 Northview Lane	11.0	
+1739	Main	1513.0	US	Minnesota	Minneapolis	2424 Haas Court		Suite 20
+1740	Main	1514.0	US	Arizona	Glendale	113 Little Fleur Avenue		Suite 59
+1741	Main	1515.0	US	Colorado	Colorado Springs	72102 Oneill Plaza		Suite 41
+1742	Main	1516.0	US	New Jersey	Camden	4665 Hintze Pass		Suite 82
+1743	Main	1517.0	US	Pennsylvania	Harrisburg	3474 Judy Lane	15.0	
+1744	Main	1518.0	US	Georgia	Norcross	2641 Hazelcrest Lane		Apt 1748
+1745	Main	1519.0	US	California	Santa Barbara	36 Twin Pines Street		Apt 1457
+1746	Main	1520.0	US	Florida	Fort Myers	218 Ramsey Terrace		Room 303
+1747	Main	1521.0	US	Pennsylvania	Harrisburg	051 Bashford Place		Room 1643
+1748	Main	1522.0	US	California	Sacramento	9 Armistice Trail		Suite 38
+1749	Main	1523.0	US	Texas	El Paso	971 Merrick Street	4.0	
+1750	Main	1524.0	US	Virginia	Richmond	88 Ridgeview Court		Suite 26
+1751	Main	1525.0	US	Florida	Orlando	11 Roth Crossing	18.0	
+1752	Main	1526.0	US	New York	New York City	0011 Aberg Plaza	8.0	
+1753	Main	1527.0	US	New York	New York City	76054 Luster Hill		Room 579
+1754	Main	1528.0	US	Illinois	Chicago	7 Sycamore Way		Apt 1593
+1755	Main	1529.0	US	South Carolina	Charleston	6383 Dapin Junction		Apt 1355
+1756	Main	1530.0	US	South Carolina	Columbia	5926 Northfield Point		Suite 91
+1757	Main	1531.0	US	Alabama	Mobile	2328 Dawn Point	20.0	
+1758	Main	1532.0	US	Kansas	Kansas City	6243 Moland Road		Suite 10
+1759	Main	1533.0	US	Washington	Tacoma	1 Bayside Crossing		Room 1208
+1760	Main	1534.0	US	Illinois	Chicago	9 Calypso Street		Room 636
+1761	Main	1535.0	US	Nevada	Las Vegas	50811 Oak Pass		Suite 20
+1762	Main	1536.0	US	Texas	El Paso	6616 Lien Center		Suite 38
+1763	Main	1537.0	US	Nebraska	Omaha	40310 Anhalt Junction		Suite 97
+1764	Main	1538.0	US	Texas	Denton	04475 Cordelia Crossing	6.0	
+1765	Main	1539.0	US	Pennsylvania	Philadelphia	4 Tomscot Lane		Suite 18
+1766	Main	1540.0	US	Virginia	Charlottesville	56199 Atwood Road		Suite 58
+1767	Main	1541.0	US	Mississippi	Jackson	81 Jackson Alley		Suite 36
+1768	Secondary	1542.0	US	New Hampshire	Portsmouth	9337 Karstens Road	20.0	
+1769	Main	1542.0	US	New York	Brooklyn	8 Crownhardt Center	8.0	
+1770	Main	1543.0	US	Florida	Tallahassee	41660 Lunder Alley		Suite 73
+1771	Main	1544.0	US	Florida	Sarasota	63 Larry Lane	17.0	
+1772	Secondary	1545.0	US	California	Sacramento	6 Melvin Way		Suite 35
+1773	Main	1545.0	US	Tennessee	Knoxville	8608 Farmco Way	14.0	
+1774	Main	1546.0	US	Pennsylvania	Philadelphia	0 Waxwing Road		Room 1623
+1775	Main	1547.0	US	Florida	Gainesville	434 Schlimgen Road	16.0	
+1776	Main	1548.0	US	Alaska	Anchorage	9 Sutteridge Drive		Room 96
+1777	Secondary	1549.0	US	Texas	Lubbock	97 Fordem Drive		Room 35
+1778	Main	1549.0	US	Florida	Pensacola	89 Onsgard Road		Suite 73
+1779	Main	1550.0	US	Minnesota	Duluth	1619 Welch Hill		Room 725
+1780	Main	1551.0	US	Florida	Saint Petersburg	1 Johnson Court	13.0	
+1781	Main	1552.0	US	Oklahoma	Oklahoma City	2718 Continental Center		Room 1545
+1782	Main	1553.0	US	California	Hayward	59366 Straubel Point		Suite 44
+1783	Main	1554.0	US	Maryland	Baltimore	9337 Forster Street		Room 815
+1784	Main	1555.0	US	Kentucky	Louisville	0 Artisan Point	4.0	
+1785	Main	1556.0	US	North Carolina	Charlotte	148 Stang Hill		Suite 33
+1786	Main	1557.0	US	Missouri	Saint Louis	00858 Crowley Terrace	11.0	
+1787	Main	1558.0	US	Pennsylvania	Philadelphia	15646 Washington Street		Suite 81
+1788	Main	1559.0	US	Georgia	Marietta	9 Park Meadow Park		Apt 1268
+1789	Main	1560.0	US	New York	Yonkers	34436 Havey Center		Apt 1445
+1790	Main	1561.0	US	Florida	Gainesville	2644 Shasta Center	1.0	
+1791	Main	1562.0	US	West Virginia	Huntington	8472 Stephen Parkway	8.0	
+1792	Main	1563.0	US	Ohio	Columbus	208 Dryden Plaza	7.0	
+1793	Main	1564.0	US	California	Petaluma	9025 Sachs Terrace		Room 190
+1794	Main	1565.0	US	North Carolina	Charlotte	1060 Butterfield Crossing		Room 1302
+1795	Main	1566.0	US	Mississippi	Gulfport	79 Mallory Pass		Apt 1166
+1796	Main	1567.0	US	Washington	Seattle	30 Esker Court		Room 1837
+1798	Secondary	1568.0	US	Florida	Pensacola	5725 Monterey Drive		
+1799	Main	1568.0	US	Hawaii	Honolulu	35352 John Wall Street	13.0	
+1800	Main	1569.0	US	Ohio	Dayton	45 Oriole Court		Suite 27
+1801	Secondary	1570.0	US	Nebraska	Lincoln	99 Stone Corner Avenue		
+1802	Main	1570.0	US	Texas	Waco	717 Chive Court	9.0	
+1803	Secondary	1571.0	US	Pennsylvania	Pittsburgh	33 Cottonwood Junction		Suite 15
+1804	Main	1571.0	US	Ohio	Cleveland	267 Portage Hill	20.0	
+1805	Main	1572.0	US	Iowa	Des Moines	98393 Gateway Center	13.0	
+1806	Secondary	1573.0	US	California	San Diego	4724 Kipling Avenue		Apt 501
+1807	Main	1573.0	US	Ohio	Cincinnati	880 Maple Alley		Suite 27
+1808	Main	1574.0	US	Ohio	Toledo	7 Russell Lane	13.0	
+1809	Main	1575.0	US	Maryland	Silver Spring	2621 Ramsey Crossing		Room 370
+1810	Main	1576.0	US	California	Riverside	01 Eagle Crest Park		Apt 156
+1811	Main	1577.0	US	California	San Jose	9765 Hanson Junction	6.0	
+1812	Main	1578.0	US	California	Pasadena	80778 Upham Street		Apt 1155
+1813	Main	1579.0	US	Tennessee	Nashville	0685 Oxford Place		Room 934
+1814	Main	1580.0	US	Florida	Port Saint Lucie	87 Shelley Circle	14.0	
+1815	Main	1581.0	US	Texas	Corpus Christi	2265 Daystar Circle	9.0	
+1816	Secondary	1582.0	US	North Carolina	Greensboro	85 Monument Road		Apt 363
+1817	Main	1582.0	US	California	Oakland	672 Maywood Trail		Room 564
+1818	Main	1583.0	US	Nevada	North Las Vegas	4326 Northwestern Parkway	20.0	
+1819	Main	1584.0	US	Colorado	Littleton	627 Mcguire Parkway		Room 1609
+1820	Main	1585.0	US	Georgia	Atlanta	27 Pepper Wood Lane	11.0	
+1821	Main	1586.0	US	Ohio	Toledo	96050 Summerview Drive		Suite 41
+1822	Main	1587.0	US	Idaho	Boise	9604 Waubesa Park	7.0	
+1823	Main	1588.0	US	Massachusetts	Watertown	23384 Bunting Place		Suite 6
+1824	Main	1589.0	US	Indiana	Fort Wayne	5 Northland Parkway		Suite 15
+1825	Main	1590.0	US	Florida	Melbourne	0429 Pepper Wood Alley		Suite 45
+1826	Main	1591.0	US	Texas	Denton	3886 Luster Crossing		Room 1800
+1827	Main	1592.0	US	Pennsylvania	New Castle	94 Eliot Terrace		Room 128
+1828	Secondary	1593.0	US	Missouri	Jefferson City	614 Washington Avenue		
+1829	Main	1593.0	US	Ohio	Cleveland	457 Nova Circle		Suite 59
+1830	Main	1594.0	US	Wisconsin	Madison	63 Mifflin Place	16.0	
+1831	Main	1595.0	US	California	San Bernardino	7 Declaration Point		Suite 94
+1832	Main	1596.0	US	Kentucky	Louisville	7 Grim Lane		Room 1350
+1833	Main	1597.0	US	Indiana	Bloomington	9652 Mendota Trail	2.0	
+1834	Main	1598.0	US	Minnesota	Saint Paul	5764 West Parkway		Suite 82
+1835	Main	1599.0	US	Georgia	Athens	907 Cottonwood Center	4.0	
+1836	Main	1600.0	US	New York	Rochester	43880 Haas Terrace		Suite 78
+1837	Main	1601.0	US	North Carolina	Charlotte	94 Northwestern Place		Suite 39
+1838	Main	1602.0	US	Missouri	Lees Summit	55081 Lotheville Road		Room 990
+1839	Main	1603.0	US	Tennessee	Chattanooga	75771 Beilfuss Alley		Apt 1062
+1840	Main	1604.0	US	Indiana	Evansville	02241 4th Hill	11.0	
+1841	Main	1605.0	US	Kansas	Wichita	5347 Fieldstone Terrace		Suite 20
+1842	Secondary	1606.0	US	Oregon	Portland	4244 Carioca Parkway		Suite 35
+1843	Main	1606.0	US	Louisiana	Lafayette	7430 8th Lane		Room 1588
+1844	Main	1607.0	US	West Virginia	Charleston	79264 Hollow Ridge Terrace		Suite 54
+1845	Main	1608.0	US	District of Columbia	Washington	471 Village Junction		Apt 1566
+1846	Main	1609.0	US	Texas	El Paso	39 Holmberg Lane	2.0	
+1847	Secondary	1610.0	US	Louisiana	New Orleans	7 Brown Junction		Suite 91
+1848	Main	1610.0	US	New York	Brooklyn	9223 Acker Center	18.0	
+1849	Main	1611.0	US	Florida	Jacksonville	21326 Steensland Center		Apt 1329
+1850	Secondary	1612.0	US	Texas	El Paso	78 Sage Crossing		Suite 96
+1851	Main	1612.0	US	California	San Bernardino	1 Homewood Avenue		Suite 54
+1852	Main	1613.0	US	Tennessee	Memphis	38 Bay Drive		Suite 67
+1853	Main	1614.0	US	Texas	El Paso	202 Wayridge Court	20.0	
+1854	Secondary	1615.0	US	Virginia	Arlington	46874 Vera Street		Suite 43
+1855	Main	1615.0	US	Texas	Lubbock	618 Milwaukee Drive	19.0	
+1856	Secondary	1616.0	US	Tennessee	Memphis	9339 Pond Plaza		
+1857	Main	1616.0	US	Texas	Houston	4955 Onsgard Hill	12.0	
+1858	Main	1617.0	US	Florida	Saint Petersburg	4 Waxwing Court		Apt 1393
+1859	Main	1618.0	US	Kansas	Topeka	0018 Green Ridge Parkway		Room 357
+1860	Main	1619.0	US	California	Oxnard	1925 Fordem Court		Suite 100
+1861	Main	1620.0	US	Ohio	Youngstown	8092 Kensington Drive		Suite 63
+1862	Main	1621.0	US	North Carolina	Winston Salem	36 Portage Parkway		Room 1594
+1863	Main	1622.0	US	California	Concord	6 Utah Trail		Apt 1312
+1864	Main	1623.0	US	Louisiana	New Orleans	60 Spaight Crossing	12.0	
+1865	Main	1624.0	US	Florida	Tampa	1678 Dottie Road		Suite 6
+1866	Main	1625.0	US	New York	Rochester	3 Buhler Terrace	1.0	
+1867	Secondary	1626.0	US	Kansas	Wichita	2382 Sycamore Circle	14.0	
+1868	Main	1626.0	US	Florida	Pensacola	28615 Hooker Parkway		Suite 100
+1869	Main	1627.0	US	Florida	Pensacola	9015 Onsgard Way		Suite 84
+1870	Main	1628.0	US	Missouri	Kansas City	67 Ridgeview Road		Apt 1070
+1871	Main	1629.0	US	Georgia	Atlanta	919 Lillian Point	19.0	
+1872	Main	1630.0	US	Ohio	Columbus	2485 Surrey Parkway		Room 450
+1873	Main	1631.0	US	District of Columbia	Washington	8859 Talisman Road		Room 688
+1874	Main	1632.0	US	Idaho	Idaho Falls	3 Village Road		Apt 135
+1875	Main	1633.0	US	Florida	Daytona Beach	96 Grim Street		Room 255
+1876	Secondary	1634.0	US	Texas	Corpus Christi	88175 Brown Circle		Suite 83
+1877	Main	1634.0	US	Texas	El Paso	42392 Myrtle Center		Suite 88
+1878	Main	1635.0	US	California	Stockton	6969 Hintze Road		Room 593
+1879	Main	1636.0	US	Texas	Arlington	8116 Merchant Avenue	2.0	
+1880	Main	1637.0	US	South Dakota	Sioux Falls	6 Nova Drive		Room 898
+1881	Secondary	1638.0	US	California	Fresno	7 Hoffman Avenue		
+1882	Main	1638.0	US	Louisiana	New Orleans	1 Scoville Way		Room 972
+1883	Main	1639.0	US	Texas	Austin	6 Sullivan Parkway		Apt 1247
+1884	Main	1640.0	US	Florida	Naples	142 Toban Place		Suite 79
+1885	Main	1641.0	US	Ohio	Cleveland	28375 Cascade Point		Room 866
+1886	Main	1642.0	US	Florida	Gainesville	753 Kipling Lane	15.0	
+1887	Main	1643.0	US	Connecticut	Waterbury	2156 Dawn Crossing		Apt 1715
+1888	Main	1644.0	US	New York	New York City	95 Pawling Trail		Room 865
+1889	Main	1645.0	US	Virginia	Richmond	6 Arrowood Park		Room 141
+1890	Main	1646.0	US	Colorado	Littleton	2927 Gale Point		Suite 47
+1891	Main	1647.0	US	Florida	Gainesville	50 Loomis Terrace		Room 729
+1892	Main	1648.0	US	Alabama	Birmingham	1559 Ruskin Way		Suite 64
+1893	Main	1649.0	US	Texas	Fort Worth	1196 Lake View Road	18.0	
+1894	Main	1650.0	US	Virginia	Roanoke	Suite 18		
+1895	Main	1651.0	US	Oklahoma	Oklahoma City	27 Memorial Way		Room 1968
+1896	Main	1652.0	US	California	Los Angeles	45 Pankratz Court	5.0	
+1897	Secondary	1653.0	US	Texas	San Angelo	7931 Meadow Ridge Road		Apt 1298
+1898	Main	1653.0	US	Florida	Clearwater	05 Dayton Junction		Suite 9
+1899	Main	1654.0	US	Kentucky	Lexington	39 Talisman Plaza		Room 780
+1901	Secondary	1655.0	US	Iowa	Cedar Rapids	0032 Reinke Place	2.0	
+1902	Main	1655.0	US	Oklahoma	Tulsa	67202 4th Trail	2.0	
+1903	Main	1656.0	US	Ohio	Dayton	4884 Michigan Parkway	9.0	
+1904	Main	1657.0	US	Florida	Naples	975 8th Hill		Suite 54
+1905	Main	1658.0	US	Missouri	Saint Louis	633 Mesta Drive		Room 602
+1906	Main	1659.0	US	Florida	Miami	43604 Lakewood Parkway		Suite 13
+1907	Main	1660.0	US	Texas	Corpus Christi	1 Bunker Hill Hill		Suite 89
+1908	Secondary	1661.0	US	Colorado	Colorado Springs	1 Onsgard Hill	7.0	
+1909	Main	1661.0	US	North Carolina	Charlotte	109 Gerald Parkway		Room 1647
+1910	Main	1662.0	US	Connecticut	West Hartford	8 Service Crossing		Apt 1741
+1911	Main	1663.0	US	Indiana	Fort Wayne	1556 Gerald Point		Room 990
+1912	Main	1664.0	US	California	San Francisco	24667 Cottonwood Crossing		Suite 21
+1913	Main	1665.0	US	Indiana	Bloomington	2 Coleman Trail		Suite 95
+1914	Main	1666.0	US	Delaware	Wilmington	2 Fremont Road	15.0	
+1915	Main	1667.0	US	Illinois	Peoria	74708 Cambridge Terrace		Apt 1554
+1916	Main	1668.0	US	South Carolina	Greenville	35 Schmedeman Point	20.0	
+1917	Main	1669.0	US	Texas	Dallas	483 Pond Terrace	18.0	
+1918	Main	1670.0	US	South Carolina	Florence	4114 Shopko Alley		Room 577
+1919	Main	1671.0	US	Florida	Fort Pierce	3167 Center Road		Suite 28
+1920	Main	1672.0	US	California	Van Nuys	614 Homewood Parkway		Room 247
+1921	Main	1673.0	US	North Carolina	Greensboro	5839 Springview Court	11.0	
+1922	Secondary	1674.0	US	Louisiana	Shreveport	92370 Fallview Terrace		Suite 7
+1923	Main	1674.0	US	Nevada	Las Vegas	897 Granby Crossing		Room 1267
+1924	Main	1675.0	US	California	Sacramento	8 Kedzie Plaza		Room 1535
+1925	Main	1676.0	US	Pennsylvania	Pittsburgh	827 Mallory Pass		Apt 1635
+1926	Secondary	1677.0	US	Florida	Vero Beach	4 Crescent Oaks Junction	3.0	
+1927	Main	1677.0	US	Idaho	Pocatello	8865 Mifflin Plaza		Room 1264
+1928	Main	1678.0	US	California	Long Beach	1 Anderson Road		Room 1339
+1929	Main	1679.0	US	New York	New York City	1183 Briar Crest Road		Room 830
+1930	Main	1680.0	US	Texas	Austin	2 David Way		Room 1770
+1931	Main	1681.0	US	Ohio	Akron	95 Mendota Pass	13.0	
+1932	Main	1682.0	US	Georgia	Marietta	7 Graceland Lane	5.0	
+1933	Main	1683.0	US	Florida	Jacksonville	55833 Warbler Avenue	18.0	
+1934	Main	1684.0	US	Michigan	Detroit	4 Towne Park	19.0	
+1935	Main	1685.0	US	Illinois	Chicago	5 Bartelt Hill		Suite 56
+1936	Main	1686.0	US	Indiana	Fort Wayne	06445 Shelley Trail		Room 1689
+1937	Secondary	1687.0	US	Texas	Austin	9875 Cardinal Court		Apt 413
+1938	Main	1687.0	US	Rhode Island	Providence	12 Steensland Hill	2.0	
+1939	Main	1688.0	US	Tennessee	Chattanooga	3 Northview Lane		Suite 42
+1940	Main	1689.0	US	Georgia	Atlanta	00 Mayfield Avenue	6.0	
+1941	Main	1690.0	US	Virginia	Fredericksburg	391 Mayer Trail		Room 1996
+1942	Main	1691.0	US	Michigan	Kalamazoo	71 Becker Plaza		Suite 90
+1943	Main	1692.0	US	Kansas	Shawnee Mission	2455 Meadow Valley Trail		Suite 18
+1944	Main	1693.0	US	Texas	El Paso	3 Bultman Junction	13.0	
+1945	Main	1694.0	US	California	Los Angeles	575 Sutherland Drive	6.0	
+1946	Main	1695.0	US	Missouri	Kansas City	428 Victoria Pass	19.0	
+1947	Main	1696.0	US	Montana	Helena	13150 Hermina Junction	10.0	
+1948	Main	1697.0	US	California	San Francisco	63 Derek Crossing	16.0	
+1949	Secondary	1698.0	US	Virginia	Roanoke	01 Blackbird Street		Room 1459
+1950	Main	1698.0	US	Ohio	Canton	4276 Monterey Pass		Suite 52
+1951	Main	1699.0	US	North Carolina	Charlotte	9149 Charing Cross Court		Suite 51
+1952	Secondary	1700.0	US	New York	Albany	54 Armistice Park		
+1953	Main	1700.0	US	Texas	Abilene	0138 Oak Valley Alley		Suite 17
+1954	Main	1701.0	US	Arizona	Tucson	87 Badeau Point	19.0	
+1955	Main	1702.0	US	Washington	Seattle	4286 Glacier Hill Alley		Room 863
+1956	Main	1703.0	US	Washington	Tacoma	9 Schlimgen Street		Apt 1324
+1957	Main	1704.0	US	Florida	Tampa	97358 Holy Cross Place		Apt 1313
+1958	Main	1705.0	US	Texas	Fort Worth	1651 Springs Place	15.0	
+1959	Secondary	1706.0	US	Connecticut	Stamford	41 Monterey Hill		Apt 650
+1960	Main	1706.0	US	Wisconsin	Madison	50815 Acker Center		Apt 167
+1961	Secondary	1707.0	US	California	Bakersfield	033 Little Fleur Place	9.0	
+1962	Main	1707.0	US	Illinois	Chicago	5 Clove Place		Suite 11
+1963	Main	1708.0	US	Arizona	Scottsdale	053 Dennis Way		Room 30
+1964	Main	1709.0	US	Texas	Dallas	57136 Texas Alley		Suite 19
+1965	Main	1710.0	US	Louisiana	Lafayette	69192 Eagan Street	12.0	
+1966	Main	1711.0	US	Pennsylvania	Philadelphia	7 Summerview Way		Suite 37
+1967	Main	1712.0	US	Texas	Houston	409 Westridge Avenue	9.0	
+1968	Main	1713.0	US	Washington	Spokane	43 Clemons Avenue		Suite 16
+1969	Main	1714.0	US	Indiana	Muncie	76 Kinsman Pass		Suite 88
+1970	Main	1715.0	US	North Carolina	Durham	7 Roxbury Park		Room 1915
+1971	Main	1716.0	US	Iowa	Des Moines	091 Steensland Junction		Room 17
+1972	Main	1717.0	US	Ohio	Cincinnati	57 Thierer Point		Room 199
+1973	Main	1718.0	US	Texas	Austin	5 Mosinee Way		Room 904
+1974	Main	1719.0	US	Virginia	Norfolk	03430 Sommers Alley		Suite 93
+1975	Main	1720.0	US	Iowa	Des Moines	37 Debs Way		Room 1997
+1976	Main	1721.0	US	Arizona	Phoenix	743 Anhalt Road		Apt 1076
+1977	Main	1722.0	US	Montana	Bozeman	198 Di Loreto Center		Suite 67
+1978	Main	1723.0	US	North Carolina	Raleigh	0534 Carioca Court		Suite 35
+1979	Main	1724.0	US	Alabama	Birmingham	5218 Killdeer Circle		Suite 29
+1980	Main	1725.0	US	Texas	Lubbock	2090 Granby Point		Suite 52
+1981	Main	1726.0	US	Nevada	Reno	9129 Amoth Hill	1.0	
+1982	Main	1727.0	US	Massachusetts	Watertown	5160 Sundown Road		Suite 84
+1983	Main	1728.0	US	California	Whittier	90770 Novick Hill		Room 1857
+1984	Main	1729.0	US	Alabama	Mobile	3313 Elmside Circle	19.0	
+1985	Main	1730.0	US	Texas	Lubbock	96 Loomis Center		Room 1666
+1986	Main	1731.0	US	California	Sacramento	2 Spohn Pass		Suite 93
+1987	Secondary	1732.0	US	Nevada	Las Vegas	80 Kings Plaza		Room 1968
+1988	Main	1732.0	US	Kentucky	Louisville	51353 Little Fleur Way		Room 233
+1989	Main	1733.0	US	New Jersey	Trenton	770 Ryan Terrace		Apt 1720
+1990	Main	1734.0	US	Massachusetts	Boston	7 Thierer Court		Room 617
+1991	Main	1735.0	US	Georgia	Atlanta	592 Myrtle Hill	17.0	
+1992	Main	1736.0	US	North Carolina	Charlotte	991 Amoth Court	5.0	
+1993	Main	1737.0	US	Colorado	Denver	3 Eagan Court		Room 50
+1994	Main	1738.0	US	Virginia	Richmond	5 Warner Hill		Suite 56
+1995	Main	1739.0	US	Louisiana	New Orleans	586 Vidon Road	9.0	
+1996	Main	1740.0	US	Texas	Houston	012 Elgar Center		Room 1575
+1997	Main	1741.0	US	Tennessee	Knoxville	60246 2nd Place		Room 1620
+1998	Secondary	1742.0	US	Florida	Miami	8 Gateway Parkway		Apt 1043
+1999	Main	1742.0	US	New York	New York City	30 Del Sol Junction		Apt 1002
+2000	Main	1743.0	US	Wisconsin	Madison	6098 Goodland Hill		Apt 1049
+2001	Secondary	1744.0	US	California	San Diego	453 Ridge Oak Way		Apt 139
+2002	Main	1744.0	US	Texas	Houston	86505 Stone Corner Place		Suite 28
+2003	Main	1745.0	US	Georgia	Valdosta	02845 Bultman Trail		Suite 67
+2004	Secondary	1746.0	US	Nebraska	Lincoln	18259 Judy Hill		Suite 30
+2005	Main	1746.0	US	Florida	Daytona Beach	054 Autumn Leaf Parkway		Suite 55
+2006	Main	1747.0	US	Texas	Amarillo	41992 Golden Leaf Street	10.0	
+2007	Main	1748.0	US	Ohio	Canton	2 Schmedeman Center		Room 50
+2008	Main	1749.0	US	California	San Diego	41 Norway Maple Circle		Suite 83
+2009	Secondary	1750.0	US	Missouri	Kansas City	1010 Springview Pass		
+2010	Main	1750.0	US	Texas	Conroe	01 Onsgard Circle		Apt 1690
+2011	Main	1751.0	US	California	South Lake Tahoe	3 Hauk Alley		Apt 1455
+2012	Secondary	1752.0	US	Illinois	Champaign	6 Tennessee Street		
+2013	Main	1752.0	US	Virginia	Roanoke	272 Reinke Plaza	16.0	
+2014	Main	1753.0	US	Florida	Lakeland	256 Drewry Alley		Suite 25
+2015	Main	1754.0	US	District of Columbia	Washington	23 Mifflin Plaza		Suite 23
+2016	Main	1755.0	US	California	San Jose	913 Nobel Circle		Room 1328
+2017	Main	1756.0	US	District of Columbia	Washington	69346 Stephen Lane		Apt 1059
+2018	Main	1757.0	US	Michigan	Battle Creek	262 Dennis Trail		Apt 1695
+2019	Main	1758.0	US	Wisconsin	Madison	708 Crescent Oaks Park	4.0	
+2020	Main	1759.0	US	New York	New York City	27 Park Meadow Street	16.0	
+2021	Main	1760.0	US	Texas	Houston	34537 Summerview Road		Apt 1699
+2022	Main	1761.0	US	Pennsylvania	Philadelphia	48 Heath Park		Suite 89
+2023	Main	1762.0	US	Maryland	Baltimore	32411 Ruskin Pass		Apt 134
+2024	Secondary	1763.0	US	New York	New York City	238 Sauthoff Plaza		Suite 3
+2025	Main	1763.0	US	California	San Jose	507 Redwing Center		Suite 25
+2026	Main	1764.0	US	California	Santa Cruz	5 Utah Hill		Apt 1701
+2027	Main	1765.0	US	Georgia	Augusta	55 Shelley Terrace	4.0	
+2028	Main	1766.0	US	Texas	Fort Worth	25 Granby Alley	9.0	
+2029	Main	1767.0	US	Maryland	Gaithersburg	07385 Pearson Park		Suite 33
+2030	Main	1768.0	US	North Carolina	Winston Salem	1483 Pankratz Parkway		Apt 1551
+2031	Secondary	1769.0	US	Minnesota	Saint Paul	84418 Magdeline Plaza		Apt 419
+2032	Main	1769.0	US	North Carolina	Gastonia	28109 Corben Center		Apt 1659
+2033	Main	1770.0	US	California	Sacramento	62 John Wall Pass	1.0	
+2034	Secondary	1771.0	US	Wisconsin	Milwaukee	22985 Hintze Hill		Room 1973
+2035	Main	1771.0	US	North Carolina	Charlotte	5259 Bellgrove Parkway		Room 587
+2036	Secondary	1772.0	US	Indiana	Indianapolis	4210 Hagan Center	10.0	
+2037	Main	1772.0	US	Texas	El Paso	0 Jackson Plaza	4.0	
+2038	Main	1773.0	US	New York	New York City	7899 Prentice Alley		Suite 82
+2040	Secondary	1774.0	US	New York	Bronx	44 Service Plaza	16.0	
+2041	Main	1774.0	US	Texas	El Paso	8 Onsgard Alley	11.0	
+2042	Main	1775.0	US	Virginia	Roanoke	99 Kropf Center		Suite 50
+2043	Secondary	1776.0	US	North Carolina	Winston Salem	5 Forest Circle		Suite 82
+2044	Main	1776.0	US	District of Columbia	Washington	131 Russell Way	17.0	
+2045	Main	1777.0	US	New York	New York City	99 Oriole Hill	12.0	
+2046	Main	1778.0	US	Idaho	Pocatello	7 Buena Vista Hill		Room 1434
+2047	Secondary	1779.0	US	Louisiana	New Orleans	8847 Manley Road	6.0	
+2048	Main	1779.0	US	New Jersey	Trenton	747 Reinke Junction		Suite 5
+2049	Main	1780.0	US	Texas	Austin	45864 Jenifer Plaza	2.0	
+2050	Main	1781.0	US	Massachusetts	Boston	247 Northfield Plaza	14.0	
+2051	Main	1782.0	US	Nebraska	Lincoln	389 Thierer Lane	4.0	
+2052	Main	1783.0	US	California	San Diego	1128 Commercial Park		Room 969
+2053	Main	1784.0	US	Pennsylvania	Philadelphia	54556 Little Fleur Parkway		Suite 55
+2054	Main	1785.0	US	Wisconsin	Milwaukee	0 Green Crossing		Room 1795
+2055	Main	1786.0	US	California	North Hollywood	63 Algoma Junction		Room 1287
+2056	Main	1787.0	US	South Carolina	Beaufort	5581 Dapin Street	13.0	
+2057	Main	1788.0	US	Texas	Dallas	2 Truax Alley		Suite 75
+2058	Main	1789.0	US	Illinois	Springfield	22950 Tony Crossing		Suite 87
+2059	Secondary	1790.0	US	District of Columbia	Washington	0 Truax Point		Apt 1777
+2060	Main	1790.0	US	Virginia	Newport News	5036 Meadow Ridge Point	19.0	
+2061	Main	1791.0	US	California	Long Beach	712 Reindahl Avenue		Suite 86
+2062	Main	1792.0	US	Utah	Salt Lake City	5 Brown Place		Room 1998
+2063	Main	1793.0	US	Ohio	Columbus	09 Elka Avenue		Suite 59
+2064	Main	1794.0	US	Michigan	Farmington	58667 Chive Park	2.0	
+2065	Secondary	1795.0	US	South Dakota	Sioux Falls	183 Stang Junction		Room 157
+2066	Main	1795.0	US	Oklahoma	Tulsa	8 Walton Court		Apt 1501
+2067	Secondary	1796.0	US	Colorado	Littleton	1949 Sugar Trail	16.0	
+2068	Main	1796.0	US	Michigan	Flint	2 Longview Hill	18.0	
+2069	Main	1797.0	US	Florida	Miami	497 Moulton Hill	7.0	
+2070	Main	1798.0	US	Colorado	Littleton	519 Butterfield Lane		Room 1589
+2071	Main	1799.0	US	California	Berkeley	5509 Hanover Avenue		Suite 73
+2072	Main	1800.0	US	Illinois	Peoria	0 Grim Pass	20.0	
+2073	Secondary	1801.0	US	Georgia	Augusta	69 Roxbury Crossing		Suite 74
+2074	Main	1801.0	US	Texas	El Paso	9904 Oneill Road		Apt 1346
+2075	Main	1802.0	US	California	Los Angeles	642 Prairieview Court		Suite 52
+2076	Main	1803.0	US	Florida	Hollywood	432 Rowland Terrace		Apt 1103
+2077	Main	1804.0	US	Utah	Salt Lake City	05 John Wall Lane	2.0	
+2078	Main	1805.0	US	New York	Syracuse	4 David Hill	16.0	
+2079	Secondary	1806.0	US	Maryland	Baltimore	0 Talisman Lane		Room 1957
+2080	Main	1806.0	US	Arkansas	North Little Rock	2 Oneill Plaza	19.0	
+2081	Main	1807.0	US	Nevada	Henderson	7 Eggendart Trail		Apt 1736
+2082	Main	1808.0	US	Washington	Spokane	04 Northview Place	17.0	
+2083	Secondary	1809.0	US	South Carolina	Aiken	442 Dexter Pass		Suite 71
+2084	Main	1809.0	US	New York	Albany	58262 Vidon Way		Apt 1235
+2085	Secondary	1810.0	US	Iowa	Des Moines	630 Arrowood Hill	2.0	
+2086	Main	1810.0	US	Texas	Houston	7 Elmside Place		Room 1812
+2087	Main	1811.0	US	Ohio	Toledo	8175 Melrose Way		Apt 1633
+2088	Main	1812.0	US	West Virginia	Charleston	22 Pond Avenue	17.0	
+2089	Main	1813.0	US	Texas	Irving	91093 Beilfuss Road		Suite 100
+2090	Main	1814.0	US	Texas	El Paso	51743 Anderson Crossing	1.0	
+2091	Main	1815.0	US	New York	Yonkers	1975 Loomis Hill		Suite 12
+2092	Main	1816.0	US	Georgia	Atlanta	92 Lotheville Center	5.0	
+2093	Main	1817.0	US	Virginia	Fairfax	08 Granby Crossing		Suite 87
+2094	Main	1818.0	US	New Mexico	Santa Fe	0 Larry Alley		Room 1233
+2095	Main	1819.0	US	Arizona	Tucson	2 Armistice Drive		Room 1497
+2096	Main	1820.0	US	New York	Flushing	00380 Union Street		Room 1377
+2097	Main	1821.0	US	California	Los Angeles	0258 Talisman Plaza		Room 556
+2098	Main	1822.0	US	New Mexico	Albuquerque	986 Lukken Parkway		Apt 1703
+2099	Main	1823.0	US	Texas	Austin	7740 Carpenter Plaza	15.0	
+2100	Main	1824.0	US	Texas	Dallas	16329 Waywood Plaza	11.0	
+2101	Main	1825.0	US	Ohio	Canton	179 Washington Parkway		Apt 1523
+2102	Main	1826.0	US	District of Columbia	Washington	8 Ramsey Junction		Apt 1746
+2103	Main	1827.0	US	Nevada	Las Vegas	228 Erie Alley	18.0	
+2104	Secondary	1828.0	US	Missouri	Saint Louis	007 Bunker Hill Road	9.0	
+2105	Main	1828.0	US	Minnesota	Minneapolis	1045 Shelley Junction	10.0	
+2106	Main	1829.0	US	Florida	Panama City	287 Clyde Gallagher Lane		Apt 1222
+2107	Main	1830.0	US	Arizona	Tucson	8 Caliangt Place		Suite 83
+2108	Main	1831.0	US	Texas	El Paso	952 Express Street		Room 1447
+2109	Main	1832.0	US	Texas	San Antonio	4964 Vera Trail		Room 371
+2110	Main	1833.0	US	Alabama	Mobile	44120 Hanover Drive		Room 281
+2111	Main	1834.0	US	Minnesota	Minneapolis	74397 Bowman Lane	7.0	
+2112	Main	1835.0	US	Michigan	Southfield	933 Lindbergh Center		Room 41
+2113	Secondary	1836.0	US	Texas	Waco	18 Swallow Point	15.0	
+2114	Main	1836.0	US	Texas	College Station	26 Forest Dale Road		Room 1601
+2115	Main	1837.0	US	Minnesota	Saint Paul	9480 Meadow Vale Crossing	19.0	
+2116	Secondary	1838.0	US	California	San Diego	298 Judy Circle	11.0	
+2117	Main	1838.0	US	District of Columbia	Washington	913 Tennyson Terrace		Suite 55
+2119	Secondary	1839.0	US	Georgia	Atlanta	60 Mendota Court		
+2120	Main	1839.0	US	Maryland	Baltimore	9600 Arrowood Place		Room 1212
+2121	Main	1840.0	US	Washington	Yakima	12220 Eastlawn Drive	1.0	
+2122	Main	1841.0	US	California	Oakland	1 Village Green Drive		Suite 15
+2123	Secondary	1842.0	US	Kentucky	Lexington	25 Merrick Park		Room 1817
+2124	Main	1842.0	US	New York	Buffalo	7970 Rusk Pass		Room 49
+2125	Main	1843.0	US	Florida	Miami	763 Glacier Hill Crossing	12.0	
+2126	Secondary	1844.0	US	Massachusetts	Waltham	29 Eastwood Parkway		Apt 449
+2127	Main	1844.0	US	Texas	El Paso	9 4th Street		Room 1584
+2128	Main	1845.0	US	Georgia	Atlanta	1 Coolidge Crossing		Suite 56
+2129	Secondary	1846.0	US	Texas	Corpus Christi	1142 Riverside Street		Suite 5
+2130	Main	1846.0	US	Texas	Amarillo	84980 Golden Leaf Avenue		Room 1522
+2131	Main	1847.0	US	New Jersey	Trenton	6 Independence Road	5.0	
+2132	Main	1848.0	US	New York	Syracuse	71 Sachs Plaza		Room 344
+2133	Main	1849.0	US	Colorado	Colorado Springs	47028 Crescent Oaks Pass		Suite 94
+2134	Main	1850.0	US	New Jersey	Elizabeth	2 Village Green Street		Room 47
+2135	Main	1851.0	US	Florida	Tampa	6592 Loeprich Circle	20.0	
+2136	Main	1852.0	US	Florida	Homestead	824 Butterfield Pass		Room 1820
+2137	Main	1853.0	US	California	Whittier	1 Pond Way		Apt 1492
+2138	Main	1854.0	US	Florida	Miami	4584 Homewood Trail		Suite 22
+2139	Main	1855.0	US	Georgia	Alpharetta	794 Farwell Center		Suite 31
+2140	Main	1856.0	US	Connecticut	Norwalk	906 Fuller Place		Suite 17
+2141	Main	1857.0	US	Florida	Sarasota	16 Hallows Way		Apt 1473
+2142	Main	1858.0	US	Michigan	Kalamazoo	83850 Burrows Avenue		Suite 21
+2143	Secondary	1859.0	US	Florida	Naples	947 Jay Road		Apt 993
+2144	Main	1859.0	US	Illinois	Chicago	45949 Manitowish Court	7.0	
+2145	Main	1860.0	US	Missouri	Lees Summit	81737 Meadow Valley Avenue		Room 562
+2146	Main	1861.0	US	Texas	Houston	6 Harper Avenue		Room 50
+2147	Main	1862.0	US	Tennessee	Memphis	7 Arapahoe Parkway		Suite 95
+2148	Main	1863.0	US	Iowa	Des Moines	973 Clyde Gallagher Way	1.0	
+2149	Main	1864.0	US	Washington	Yakima	1558 Old Gate Center		Suite 2
+2150	Secondary	1865.0	US	Oregon	Portland	94 Lillian Pass		
+2151	Main	1865.0	US	New Jersey	Newark	46434 Mcbride Drive		Suite 69
+2152	Main	1866.0	US	West Virginia	Huntington	4 Ridgeway Way	3.0	
+2153	Main	1867.0	US	Wisconsin	Milwaukee	04548 Utah Court		Suite 99
+2155	Secondary	1868.0	US	Florida	Tampa	7 Park Meadow Alley		
+2156	Main	1868.0	US	Texas	Pasadena	036 Anhalt Hill		Room 1878
+2157	Main	1869.0	US	Colorado	Grand Junction	50104 Riverside Terrace	8.0	
+2158	Main	1870.0	US	Minnesota	Monticello	155 Village Pass	5.0	
+2159	Main	1871.0	US	New York	Jamaica	0664 2nd Avenue	5.0	
+2160	Main	1872.0	US	New York	Elmira	1867 Myrtle Court		Suite 52
+2161	Main	1873.0	US	Missouri	Kansas City	75002 Nova Plaza		Room 128
+2162	Main	1874.0	US	Alabama	Tuscaloosa	437 Gerald Trail	6.0	
+2163	Main	1875.0	US	Minnesota	Minneapolis	13 Comanche Circle		Room 487
+2164	Main	1876.0	US	Georgia	Savannah	060 Dunning Court	3.0	
+2165	Main	1877.0	US	New Jersey	Jersey City	7 Stang Alley	18.0	
+2166	Main	1878.0	US	Kansas	Shawnee Mission	3383 Arizona Park	18.0	
+2167	Main	1879.0	US	Texas	Beaumont	8932 Ridgeview Trail		Suite 92
+2168	Main	1880.0	US	Idaho	Boise	75 Sugar Lane	15.0	
+2169	Main	1881.0	US	Louisiana	Shreveport	3496 Jenna Parkway		Suite 4
+2170	Main	1882.0	US	California	Chula Vista	085 Hagan Alley	9.0	
+2171	Main	1883.0	US	Ohio	Columbus	03 7th Way		Suite 11
+2172	Main	1884.0	US	California	Sacramento	9 Ludington Hill	16.0	
+2173	Main	1885.0	US	Texas	El Paso	9319 Bartelt Way		Room 1709
+2174	Main	1886.0	US	Arizona	Tucson	7452 Sheridan Place		Suite 77
+2175	Main	1887.0	US	District of Columbia	Washington	6 Melby Parkway		Room 581
+2176	Main	1888.0	US	Texas	Dallas	8 Golf Terrace	5.0	
+2177	Main	1889.0	US	District of Columbia	Washington	3 Laurel Park		Suite 28
+2178	Main	1890.0	US	Tennessee	Chattanooga	30 Mesta Plaza		Suite 99
+2179	Main	1891.0	US	Florida	Orlando	14478 Dawn Place		Suite 91
+2180	Main	1892.0	US	Alabama	Birmingham	965 Anhalt Trail		Suite 93
+2181	Main	1893.0	US	Missouri	Kansas City	5 Golf Trail		Suite 28
+2182	Main	1894.0	US	Texas	El Paso	43128 Arapahoe Junction		Room 1363
+2183	Main	1895.0	US	Virginia	Roanoke	5151 Milwaukee Terrace	3.0	
+2184	Main	1896.0	US	Virginia	Norfolk	8431 Victoria Road		Room 1415
+2185	Main	1897.0	US	Ohio	Cleveland	4 Birchwood Alley		Suite 97
+2186	Secondary	1898.0	US	District of Columbia	Washington	24163 Fieldstone Court		Room 991
+2187	Main	1898.0	US	Florida	Lakeland	8499 Debs Park		Room 135
+2188	Main	1899.0	US	Kansas	Shawnee Mission	29772 Goodland Point	17.0	
+2189	Main	1900.0	US	Alabama	Montgomery	50755 Luster Point		Suite 92
+2190	Main	1901.0	US	New York	Jamaica	854 Spaight Trail		Suite 97
+2191	Main	1902.0	US	Washington	Everett	512 5th Park	17.0	
+2192	Main	1903.0	US	Massachusetts	Newton	349 Cody Plaza	16.0	
+2193	Main	1904.0	US	California	San Jose	22 Kensington Hill	19.0	
+2194	Main	1905.0	US	Louisiana	Lafayette	1 Maple Wood Park	15.0	
+2195	Main	1906.0	US	Florida	Lakeland	4 Bunting Terrace	10.0	
+2196	Main	1907.0	US	Pennsylvania	Allentown	31 Packers Plaza		Room 245
+2197	Main	1908.0	US	Washington	Tacoma	08 Sundown Pass		Suite 51
+2198	Main	1909.0	US	Illinois	Chicago	88913 Ramsey Trail		Suite 93
+2199	Main	1910.0	US	North Carolina	Greensboro	05764 Quincy Way		Room 212
+2200	Secondary	1911.0	US	District of Columbia	Washington	5 Talisman Road		Apt 1813
+2201	Main	1911.0	US	District of Columbia	Washington	062 Forest Dale Alley		Suite 37
+2202	Main	1912.0	US	Arizona	Tucson	01 Village Green Center		Suite 54
+2203	Main	1913.0	US	Missouri	Kansas City	73810 Eagle Crest Terrace		Apt 1045
+2204	Secondary	1914.0	US	Colorado	Fort Collins	6 Lakewood Avenue		Suite 29
+2205	Main	1914.0	US	Nebraska	Omaha	90102 Macpherson Center		Suite 67
+2206	Main	1915.0	US	New York	Jamaica	13 Vera Park		Suite 49
+2207	Main	1916.0	US	Florida	Vero Beach	3 Sheridan Plaza		Room 1983
+2209	Secondary	1917.0	US	California	Salinas	284 Hauk Plaza	7.0	
+2210	Main	1917.0	US	Georgia	Atlanta	365 Victoria Pass		Room 334
+2211	Main	1918.0	US	Illinois	Rockford	43 Northport Way		Room 754
+2212	Main	1919.0	US	California	Santa Ana	17347 Jay Center		Suite 74
+2213	Main	1920.0	US	Texas	Austin	99 Messerschmidt Avenue		Room 1942
+2214	Secondary	1921.0	US	Kentucky	Louisville	21155 Pond Crossing		
+2215	Main	1921.0	US	Missouri	Saint Louis	99 Granby Avenue		Room 164
+2216	Main	1922.0	US	District of Columbia	Washington	3253 Heffernan Street		Apt 156
+2217	Main	1923.0	US	Louisiana	Shreveport	8 Sunfield Drive	15.0	
+2218	Main	1924.0	US	Florida	Jacksonville	6 Sauthoff Terrace		Apt 1071
+2219	Main	1925.0	US	Virginia	Norfolk	9733 Vermont Alley	4.0	
+2220	Main	1926.0	US	California	Burbank	90 Monument Parkway		Room 325
+2222	Secondary	1927.0	US	Massachusetts	Boston	58 Spenser Lane		Apt 812
+2223	Main	1927.0	US	Washington	Tacoma	1 Everett Pass	17.0	
+2224	Main	1928.0	US	South Carolina	Greenville	4566 4th Plaza		Apt 1060
+2225	Secondary	1929.0	US	Colorado	Grand Junction	19480 Caliangt Lane		Apt 298
+2226	Main	1929.0	US	Colorado	Denver	4 Butterfield Park		Room 1588
+2227	Main	1930.0	US	Michigan	Lansing	3917 Main Junction		Suite 18
+2228	Main	1931.0	US	Georgia	Macon	511 Pleasure Avenue	19.0	
+2229	Main	1932.0	US	Ohio	Cincinnati	43011 Talmadge Alley		Apt 1709
+2230	Main	1933.0	US	Colorado	Denver	15412 Bowman Drive		Suite 44
+2231	Main	1934.0	US	Kansas	Kansas City	22 Sage Avenue		Apt 1434
+2232	Main	1935.0	US	California	Los Angeles	88 Warrior Way		Room 198
+2233	Main	1936.0	US	Washington	Bellevue	08915 Farragut Place	14.0	
+2234	Main	1937.0	US	California	Anaheim	9578 1st Drive		Suite 10
+2235	Secondary	1938.0	US	Pennsylvania	Pittsburgh	04427 Dexter Pass		Suite 23
+2236	Main	1938.0	US	California	Sacramento	5 Bayside Place		Room 994
+2237	Secondary	1939.0	US	New York	Albany	37 Lerdahl Terrace	10.0	
+2238	Main	1939.0	US	District of Columbia	Washington	7 Browning Point	9.0	
+2239	Main	1940.0	US	Ohio	Akron	4538 Evergreen Circle		Room 1319
+2240	Secondary	1941.0	US	New York	New York City	46028 Fremont Plaza		Suite 31
+2241	Main	1941.0	US	California	Santa Monica	791 Ryan Street		Suite 29
+2242	Main	1942.0	US	Florida	Miami	7716 Washington Way		Room 343
+2243	Main	1943.0	US	Illinois	Naperville	66 Darwin Center	18.0	
+2244	Main	1944.0	US	Texas	Dallas	4201 La Follette Road		Room 175
+2245	Main	1945.0	US	Pennsylvania	Pittsburgh	40552 Summit Parkway		Room 1624
+2246	Main	1946.0	US	Georgia	Atlanta	0327 Grayhawk Park		Room 591
+2247	Main	1947.0	US	Florida	Tampa	5 Hayes Center	19.0	
+2248	Main	1948.0	US	Wisconsin	Racine	1948 Southridge Alley		Apt 1661
+2249	Main	1949.0	US	Missouri	Saint Louis	219 Golf Course Circle		Room 1607
+2250	Main	1950.0	US	Ohio	Dayton	199 Veith Plaza		Room 224
+2251	Main	1951.0	US	California	San Diego	90 Sutherland Court		Apt 1700
+2252	Main	1952.0	US	Kentucky	Louisville	969 Drewry Junction		Suite 56
+2253	Main	1953.0	US	New York	New York City	35690 Welch Pass		Suite 24
+2254	Main	1954.0	US	Ohio	Hamilton	5592 Lyons Plaza		Suite 43
+2255	Main	1955.0	US	Hawaii	Honolulu	70 Bay Junction		Room 1545
+2256	Secondary	1956.0	US	Illinois	Chicago	2 Sugar Drive		
+2257	Main	1956.0	US	Georgia	Lawrenceville	53023 Erie Pass	12.0	
+2258	Main	1957.0	US	Virginia	Norfolk	69 Clarendon Alley		Suite 23
+2259	Main	1958.0	US	Michigan	Lansing	4 Mayer Point		Room 1449
+2260	Secondary	1959.0	US	Ohio	Dayton	11139 Coolidge Court		
+2261	Main	1959.0	US	California	Sunnyvale	45826 Tennessee Trail		Suite 73
+2262	Main	1960.0	US	Texas	Dallas	38 Moulton Crossing	14.0	
+2263	Main	1961.0	US	Kentucky	Lexington	3 Buena Vista Terrace	8.0	
+2264	Main	1962.0	US	Florida	Bradenton	685 Lindbergh Circle		Room 361
+2265	Main	1963.0	US	Texas	Fort Worth	915 Scoville Crossing		Apt 1725
+2266	Main	1964.0	US	District of Columbia	Washington	32706 Knutson Drive	15.0	
+2267	Main	1965.0	US	Florida	Naples	26453 Glacier Hill Park	8.0	
+2268	Main	1966.0	US	Washington	Everett	5427 Grasskamp Avenue	12.0	
+2269	Main	1967.0	US	Florida	Sarasota	605 Mallory Plaza		Room 825
+2270	Main	1968.0	US	Texas	San Antonio	1 3rd Crossing		Apt 1013
+2271	Main	1969.0	US	Washington	Seattle	38945 Upham Crossing		Room 1962
+2272	Secondary	1970.0	US	California	San Francisco	0687 Tomscot Court		Room 825
+2273	Main	1970.0	US	Texas	Houston	11 Waxwing Street	9.0	
+2274	Main	1971.0	US	Ohio	Columbus	07939 Charing Cross Street	2.0	
+2275	Main	1972.0	US	Florida	Pompano Beach	3599 Gulseth Place	11.0	
+2276	Main	1973.0	US	Kentucky	Louisville	30 Gateway Parkway	17.0	
+2277	Main	1974.0	US	Pennsylvania	York	6024 Shopko Parkway		Suite 55
+2278	Main	1975.0	US	Alabama	Mobile	52792 Fallview Junction		Room 1218
+2279	Main	1976.0	US	Florida	Lakeland	598 Northview Way		Room 493
+2280	Main	1977.0	US	Connecticut	Norwalk	0756 Artisan Circle		Suite 90
+2281	Main	1978.0	US	Kentucky	London	08 Paget Parkway		Room 420
+2282	Secondary	1979.0	US	District of Columbia	Washington	480 Cody Place	9.0	
+2283	Main	1979.0	US	Florida	Jacksonville	829 Chinook Parkway		Suite 72
+2284	Main	1980.0	US	Illinois	Springfield	0 Susan Center		Suite 14
+2285	Main	1981.0	US	Massachusetts	Watertown	4 Beilfuss Circle		Suite 42
+2286	Main	1982.0	US	District of Columbia	Washington	3 Springview Court		Apt 1341
+2287	Main	1983.0	US	Ohio	Dayton	8710 Maple Plaza		Room 753
+2288	Main	1984.0	US	Delaware	Wilmington	1341 Stoughton Place		Room 1692
+2289	Main	1985.0	US	Kansas	Topeka	2 Sommers Street	9.0	
+2290	Main	1986.0	US	Florida	Fort Pierce	2 Riverside Terrace		Room 981
+2291	Main	1987.0	US	Florida	Bradenton	77 Thompson Terrace		Apt 1182
+2292	Main	1988.0	US	Utah	Salt Lake City	7468 Thackeray Pass		Room 1198
+2293	Secondary	1989.0	US	Washington	Tacoma	63 International Road		
+2294	Main	1989.0	US	District of Columbia	Washington	1 Gerald Pass		Apt 1417
+2296	Secondary	1990.0	US	Illinois	Peoria	3811 Forest Dale Trail		Room 1076
+2297	Main	1990.0	US	California	Pasadena	05 Gateway Alley	17.0	
+2298	Main	1991.0	US	California	Long Beach	30 Lakewood Gardens Parkway	18.0	
+2299	Main	1992.0	US	Florida	Boynton Beach	07870 Knutson Center		Suite 41
+2300	Main	1993.0	US	Florida	Gainesville	26 Butterfield Avenue		Suite 59
+2301	Main	1994.0	US	California	Sacramento	48 American Alley	14.0	
+2302	Main	1995.0	US	Tennessee	Nashville	48958 Oakridge Parkway	7.0	
+2303	Main	1996.0	US	California	Chico	2954 Summer Ridge Drive		Room 802
+2304	Main	1997.0	US	Florida	West Palm Beach	4456 Lillian Drive	7.0	
+2305	Main	1998.0	US	Michigan	Detroit	664 Norway Maple Road		Room 936
+2306	Main	1999.0	US	California	Santa Cruz	4986 Elmside Point		Apt 1554
+2307	Main	2000.0	US	Washington	Seattle	4 Vahlen Court		Suite 86
+2308	Main	2001.0	US	Iowa	Des Moines	1834 Cody Lane	3.0	
+2309	Main	2002.0	US	Georgia	Atlanta	22647 Roxbury Place		Room 92
+2310	Main	2003.0	US	Florida	Lake Worth	3234 Prairie Rose Plaza	2.0	
+2311	Main	2004.0	US	North Carolina	Raleigh	85 Rutledge Drive		Room 814
+2312	Secondary	2005.0	US	Texas	Austin	3 Parkside Court		Room 658
+2313	Main	2005.0	US	Indiana	Jeffersonville	131 Hollow Ridge Park	12.0	
+2314	Main	2006.0	US	Wyoming	Cheyenne	047 Lukken Terrace		Room 355
+2315	Main	2007.0	US	Nebraska	Lincoln	62 Troy Center		Suite 92
+2316	Main	2008.0	US	Texas	Arlington	86 Warbler Parkway		Suite 23
+2317	Main	2009.0	US	Virginia	Fairfax	8414 Melody Crossing	13.0	
+2318	Main	2010.0	US	Arizona	Phoenix	7463 David Junction	9.0	
+2319	Main	2011.0	US	Indiana	Indianapolis	8624 Karstens Street		Room 143
+2320	Main	2012.0	US	New York	Syracuse	6222 Hallows Center		Room 1570
+2321	Main	2013.0	US	Alaska	Anchorage	0 Schmedeman Road	9.0	
+2322	Main	2014.0	US	Virginia	Arlington	29 Hooker Way		Room 1234
+2323	Secondary	2015.0	US	Texas	Houston	570 Del Mar Plaza		
+2324	Main	2015.0	US	California	San Jose	4 Calypso Road	11.0	
+2325	Main	2016.0	US	Arizona	Prescott	79330 Dryden Terrace		Suite 88
+2326	Main	2017.0	US	Texas	Dallas	21 Stephen Park		Suite 2
+2327	Main	2018.0	US	Utah	Salt Lake City	8029 Waubesa Pass		Suite 54
+2328	Main	2019.0	US	Alabama	Montgomery	3958 Talisman Point		Suite 90
+2329	Main	2020.0	US	Alaska	Anchorage	11 Fuller Junction		Room 1952
+2330	Main	2021.0	US	Minnesota	Minneapolis	4143 David Street		Suite 26
+2331	Main	2022.0	US	Oklahoma	Edmond	033 Utah Parkway	18.0	
+2332	Main	2023.0	US	Ohio	Cincinnati	701 Prairie Rose Circle	17.0	
+2333	Main	2024.0	US	Texas	Corpus Christi	2 High Crossing Park		Room 712
+2334	Secondary	2025.0	US	Pennsylvania	Pittsburgh	834 Tennessee Center		Apt 1182
+2335	Main	2025.0	US	Minnesota	Saint Paul	424 Coolidge Parkway	9.0	
+2337	Secondary	2026.0	US	Texas	Amarillo	9 Bunker Hill Crossing		Apt 1324
+2338	Main	2026.0	US	Missouri	Saint Louis	20 Killdeer Hill	11.0	
+2339	Secondary	2027.0	US	California	Fresno	671 5th Street	15.0	
+2340	Main	2027.0	US	Missouri	Saint Louis	45 Buena Vista Court		Room 843
+2341	Main	2028.0	US	Tennessee	Memphis	0965 Riverside Court	14.0	
+2342	Main	2029.0	US	Nebraska	Omaha	7 Talisman Place		Room 914
+2343	Main	2030.0	US	California	San Diego	3 Brown Court	16.0	
+2344	Main	2031.0	US	Missouri	Saint Louis	15 Monterey Place		Room 1509
+2345	Main	2032.0	US	Alabama	Birmingham	5 Macpherson Circle		Suite 8
+2346	Main	2033.0	US	Florida	Miami Beach	37739 Manley Point	2.0	
+2347	Main	2034.0	US	Texas	Gatesville	3 Thierer Center		Room 545
+2348	Main	2035.0	US	Indiana	Evansville	27 Schiller Pass	11.0	
+2349	Main	2036.0	US	Texas	Houston	71 Hanover Lane		Room 1844
+2350	Main	2037.0	US	New York	Brooklyn	12 Stephen Circle		Suite 75
+2351	Main	2038.0	US	Georgia	Decatur	88 Forest Dale Junction		Suite 30
+2352	Main	2039.0	US	Nebraska	Omaha	04105 Westport Lane		Suite 45
+2353	Main	2040.0	US	Louisiana	New Orleans	84 6th Place		Suite 40
+2354	Main	2041.0	US	Montana	Billings	6272 Darwin Street	8.0	
+2355	Main	2042.0	US	Virginia	Virginia Beach	841 Esch Drive		Room 826
+2356	Main	2043.0	US	Kansas	Topeka	23364 Hauk Pass		Apt 1390
+2357	Main	2044.0	US	Washington	Spokane	70195 Dennis Avenue		Room 1701
+2358	Main	2045.0	US	New York	Staten Island	85273 Sloan Pass		Suite 66
+2359	Main	2046.0	US	New York	New York City	892 Valley Edge Way		Apt 1115
+2360	Main	2047.0	US	Texas	Houston	35514 Tomscot Trail		Suite 56
+2361	Main	2048.0	US	Florida	Panama City	54734 Prairie Rose Court		Room 1216
+2362	Main	2049.0	US	New Mexico	Albuquerque	307 Bluestem Terrace		Room 335
+2363	Main	2050.0	US	California	Salinas	73 Bunker Hill Alley		Suite 55
+2364	Main	2051.0	US	Florida	Saint Petersburg	9 Golden Leaf Pass	14.0	
+2365	Main	2052.0	US	Indiana	Indianapolis	796 Kim Hill	13.0	
+2366	Main	2053.0	US	Pennsylvania	Philadelphia	8 Northview Lane		Room 1300
+2367	Main	2054.0	US	Ohio	Columbus	88 Troy Way		Suite 4
+2368	Main	2055.0	US	West Virginia	Morgantown	52205 South Road		Apt 1201
+2369	Main	2056.0	US	Texas	Amarillo	93965 Golf Plaza		Suite 20
+2370	Main	2057.0	US	Louisiana	Baton Rouge	2876 Meadow Vale Terrace		Suite 3
+2371	Secondary	2058.0	US	Illinois	Rockford	37 Fordem Trail		Suite 20
+2372	Main	2058.0	US	Mississippi	Gulfport	8484 Tomscot Avenue		Suite 94
+2373	Main	2059.0	US	Ohio	Columbus	811 Dawn Circle		Room 1421
+2374	Main	2060.0	US	Colorado	Pueblo	3 Jenifer Parkway	20.0	
+2375	Main	2061.0	US	Washington	Tacoma	6504 Bultman Pass		Room 1467
+2376	Main	2062.0	US	District of Columbia	Washington	4 Bay Plaza		Apt 1722
+2377	Main	2063.0	US	Texas	Austin	16282 West Way		Suite 91
+2378	Main	2064.0	US	Florida	Miami	31484 Nancy Way		Suite 26
+2379	Main	2065.0	US	New York	New York City	66873 Bartelt Trail		Room 516
+2380	Main	2066.0	US	District of Columbia	Washington	091 Westridge Plaza		Room 198
+2381	Main	2067.0	US	West Virginia	Charleston	751 Cascade Pass		Suite 66
+2382	Main	2068.0	US	Florida	Kissimmee	5257 Thompson Drive	8.0	
+2383	Main	2069.0	US	Washington	Seattle	14 Lakeland Way	17.0	
+2384	Main	2070.0	US	Texas	El Paso	2491 Fairfield Center	8.0	
+2385	Main	2071.0	US	District of Columbia	Washington	48212 Crescent Oaks Junction		Room 881
+2386	Main	2072.0	US	Texas	Arlington	25 Columbus Terrace	10.0	
+2387	Main	2073.0	US	New York	Jamaica	865 Briar Crest Center		Suite 74
+2388	Main	2074.0	US	Michigan	Detroit	262 Hoepker Street		Room 97
+2389	Main	2075.0	US	Minnesota	Minneapolis	54643 Donald Way	19.0	
+2390	Main	2076.0	US	Ohio	Dayton	484 Esker Crossing	14.0	
+2391	Main	2077.0	US	California	San Bernardino	8510 Hazelcrest Pass	16.0	
+2392	Main	2078.0	US	Texas	Lubbock	582 Utah Street		Suite 16
+2393	Main	2079.0	US	New Mexico	Albuquerque	861 Talisman Point		Suite 36
+2394	Main	2080.0	US	Missouri	Saint Louis	4 Clarendon Lane		Room 308
+2395	Main	2081.0	US	Hawaii	Honolulu	95 Donald Way		Room 539
+2396	Main	2082.0	US	New York	Jamaica	2 Hazelcrest Way		Suite 83
+2397	Main	2083.0	US	Iowa	Des Moines	664 Pearson Circle		Apt 1670
+2398	Main	2084.0	US	Florida	Pensacola	9854 Brickson Park Way		Room 1953
+2399	Main	2085.0	US	District of Columbia	Washington	7 Lunder Crossing		Suite 20
+2400	Main	2086.0	US	Texas	Houston	9 Sloan Junction	8.0	
+2401	Main	2087.0	US	New York	New York City	058 Kropf Pass		Apt 1412
+2402	Main	2088.0	US	Connecticut	Waterbury	0 Monica Street	17.0	
+2403	Main	2089.0	US	Georgia	Columbus	13 Westridge Alley		Room 394
+2404	Secondary	2090.0	US	California	San Jose	5106 Di Loreto Pass		Apt 865
+2405	Main	2090.0	US	Maryland	Baltimore	59523 Acker Center	16.0	
+2406	Main	2091.0	US	Florida	Miami	458 Hazelcrest Way	2.0	
+2407	Main	2092.0	US	Nebraska	Omaha	7 Kingsford Junction		Room 33
+2408	Main	2093.0	US	Nevada	Las Vegas	50 Kipling Park		Room 202
+2409	Main	2094.0	US	Florida	Orlando	42401 Eastwood Park	4.0	
+2410	Main	2095.0	US	New Mexico	Las Cruces	80409 Annamark Avenue		Room 813
+2411	Secondary	2096.0	US	Virginia	Norfolk	227 Veith Point		Apt 1248
+2412	Main	2096.0	US	Maryland	Bethesda	47 West Parkway	6.0	
+2413	Main	2097.0	US	Texas	Corpus Christi	2190 Rowland Crossing	19.0	
+2414	Main	2098.0	US	Indiana	Indianapolis	2 Sullivan Drive		Suite 90
+2415	Main	2099.0	US	Michigan	Ann Arbor	4 Basil Crossing	10.0	
+2416	Main	2100.0	US	Arizona	Phoenix	4 Lukken Court		Apt 169
+2417	Main	2101.0	US	New York	New York City	564 Dayton Point		Room 1866
+2418	Main	2102.0	US	Colorado	Pueblo	9 Almo Center		Apt 101
+2419	Main	2103.0	US	California	Los Angeles	478 Division Street		Suite 47
+2420	Main	2104.0	US	California	Los Angeles	584 Golf Course Alley		Apt 1333
+2421	Main	2105.0	US	South Carolina	Spartanburg	23 Anderson Crossing		Suite 72
+2422	Main	2106.0	US	Florida	Tampa	3000 Shopko Hill	20.0	
+2423	Main	2107.0	US	Nevada	Las Vegas	1046 Lindbergh Circle	11.0	
+2424	Main	2108.0	US	Arizona	Mesa	9 Meadow Valley Plaza		Room 1641
+2425	Main	2109.0	US	Alabama	Birmingham	718 Waubesa Street		Suite 77
+2426	Main	2110.0	US	Florida	Orlando	08186 Superior Pass	8.0	
+2427	Main	2111.0	US	Florida	Orlando	7 Susan Park		Room 60
+2428	Secondary	2112.0	US	Minnesota	Young America	0 Lakewood Gardens Alley		Suite 64
+2429	Main	2112.0	US	California	Carlsbad	1606 Vahlen Circle	15.0	
+2430	Main	2113.0	US	Minnesota	Minneapolis	462 Rigney Parkway		Room 739
+2431	Main	2114.0	US	New York	New York City	0 Moose Center		Suite 84
+2432	Secondary	2115.0	US	Arizona	Scottsdale	16433 Stone Corner Drive		Suite 18
+2433	Main	2115.0	US	Virginia	Roanoke	5 Havey Road	6.0	
+2434	Main	2116.0	US	Georgia	Atlanta	1 New Castle Alley		Room 846
+2435	Main	2117.0	US	Texas	Houston	8 Weeping Birch Pass		Apt 1310
+2436	Main	2118.0	US	Florida	Daytona Beach	64 Barby Circle		Suite 16
+2437	Secondary	2119.0	US	Florida	Naples	8900 Waxwing Park		Apt 200
+2438	Main	2119.0	US	Florida	Pompano Beach	38839 Sutteridge Crossing		Room 1751
+2440	Secondary	2120.0	US	Nevada	Reno	83206 Transport Place	12.0	
+2441	Main	2120.0	US	New Jersey	Newark	28 Scott Point		Apt 1049
+2442	Main	2121.0	US	Texas	Lubbock	170 Ronald Regan Center		Suite 1
+2443	Main	2122.0	US	Pennsylvania	Pittsburgh	94 Brentwood Plaza		Suite 85
+2444	Main	2123.0	US	California	Newport Beach	7302 Prentice Hill	17.0	
+2445	Main	2124.0	US	Kansas	Topeka	5 Porter Junction		Suite 69
+2446	Main	2125.0	US	Hawaii	Honolulu	84 Roth Pass		Room 1490
+2447	Main	2126.0	US	Texas	Houston	5540 Bowman Hill	16.0	
+2448	Main	2127.0	US	Michigan	Grand Rapids	311 Clove Alley	15.0	
+2449	Main	2128.0	US	Washington	Seattle	3142 Petterle Park		Room 984
+2450	Secondary	2129.0	US	Florida	Miami	0 Starling Hill	2.0	
+2451	Main	2129.0	US	Indiana	Fort Wayne	279 Moulton Park		Suite 39
+2452	Main	2130.0	US	Utah	Sandy	4 South Court		Room 1681
+2453	Main	2131.0	US	Texas	Houston	4342 Wayridge Way		Suite 57
+2454	Main	2132.0	US	California	San Francisco	0 Buhler Way		Suite 64
+2455	Main	2133.0	US	Texas	Dallas	22351 Bunker Hill Way		Apt 1053
+2456	Main	2134.0	US	Missouri	Kansas City	535 Esch Park	2.0	
+2457	Main	2135.0	US	Georgia	Atlanta	3018 Canary Road		Apt 1176
+2458	Main	2136.0	US	California	Moreno Valley	1 Tennyson Circle		Suite 72
+2459	Main	2137.0	US	Texas	San Antonio	31093 Johnson Place		Room 949
+2460	Main	2138.0	US	California	Fresno	2 Kinsman Parkway		Suite 63
+2461	Main	2139.0	US	Kentucky	Lexington	99979 Jenifer Trail		Room 46
+2462	Main	2140.0	US	New York	New York City	7195 Delladonna Alley	13.0	
+2463	Main	2141.0	US	Minnesota	Monticello	07221 High Crossing Parkway		Suite 94
+2464	Main	2142.0	US	California	Salinas	0 Village Green Parkway		Suite 22
+2465	Main	2143.0	US	Missouri	Kansas City	01897 Gerald Avenue		Apt 1321
+2466	Secondary	2144.0	US	Missouri	Saint Louis	3313 Butterfield Circle		Apt 1084
+2467	Main	2144.0	US	Louisiana	New Orleans	4702 Drewry Place	15.0	
+2468	Main	2145.0	US	District of Columbia	Washington	5221 Merrick Way		Room 811
+2469	Secondary	2146.0	US	Louisiana	Baton Rouge	5 Grim Lane	10.0	
+2470	Main	2146.0	US	Florida	Miami	0 Blaine Drive		Room 1665
+2471	Main	2147.0	US	Virginia	Richmond	05175 Hoard Trail		Suite 3
+2472	Secondary	2148.0	US	Florida	Saint Petersburg	0177 Melrose Way		
+2473	Main	2148.0	US	New Jersey	Trenton	4592 Ramsey Terrace		Room 83
+2474	Main	2149.0	US	Ohio	Cincinnati	71695 Dunning Hill		Suite 46
+2475	Main	2150.0	US	South Carolina	Anderson	558 North Drive		Suite 28
+2477	Secondary	2151.0	US	Oregon	Portland	88 Arizona Center	10.0	
+2478	Main	2151.0	US	Florida	Panama City	5 Westerfield Pass		Room 197
+2479	Main	2152.0	US	Florida	Homestead	3065 Waxwing Court		Room 312
+2480	Secondary	2153.0	US	Texas	Bryan	15132 Westend Park		
+2481	Main	2153.0	US	Michigan	Detroit	8344 Grim Junction		Room 1711
+2482	Main	2154.0	US	Nebraska	Omaha	31 Larry Crossing		Room 328
+2483	Main	2155.0	US	California	Sacramento	3212 Northview Street		Room 184
+2484	Main	2156.0	US	Tennessee	Nashville	65930 Hallows Crossing		Suite 80
+2485	Main	2157.0	US	Texas	Houston	015 Larry Way	3.0	
+2486	Main	2158.0	US	Florida	Miami	40 Northridge Lane	18.0	
+2487	Main	2159.0	US	Arizona	Tucson	536 Cody Street		Room 1515
+2488	Main	2160.0	US	Texas	El Paso	58047 New Castle Plaza	11.0	
+2489	Main	2161.0	US	California	San Jose	8560 Colorado Place		Suite 66
+2490	Main	2162.0	US	Iowa	Davenport	6 Melby Crossing		Room 940
+2491	Main	2163.0	US	Arizona	Prescott	45793 Londonderry Road		Suite 91
+2492	Main	2164.0	US	California	Orange	25 Parkside Road	6.0	
+2493	Main	2165.0	US	Georgia	Atlanta	52 Spaight Court		Room 1464
+2494	Main	2166.0	US	Minnesota	Minneapolis	8132 Ohio Center		Room 325
+2495	Main	2167.0	US	Massachusetts	Boston	2 Red Cloud Terrace	19.0	
+2496	Main	2168.0	US	California	San Francisco	932 Fulton Street		Room 1421
+2498	Secondary	2169.0	US	Ohio	Youngstown	070 Vahlen Court		
+2499	Main	2169.0	US	Ohio	Toledo	43807 Debra Circle	18.0	
+2500	Main	2170.0	US	Texas	Houston	53858 Golf View Circle		Suite 41
+2501	Secondary	2171.0	US	Nebraska	Omaha	8104 Continental Park		Room 1777
+2502	Main	2171.0	US	Virginia	Manassas	2272 Donald Center	1.0	
+2503	Main	2172.0	US	Florida	Palm Bay	95220 Logan Circle		Apt 1549
+2504	Main	2173.0	US	Pennsylvania	Philadelphia	03 Goodland Crossing		Room 1622
+2505	Main	2174.0	US	Ohio	Toledo	651 Welch Drive	3.0	
+2506	Main	2175.0	US	Colorado	Colorado Springs	58 Melvin Junction		Room 1937
+2507	Main	2176.0	US	Alabama	Gadsden	9127 Shoshone Street		Room 1788
+2508	Main	2177.0	US	Virginia	Dulles	0200 Clemons Plaza		Apt 144
+2509	Main	2178.0	US	New Jersey	Camden	79123 Chinook Court		Suite 13
+2510	Main	2179.0	US	Pennsylvania	Harrisburg	09269 Dakota Avenue		Apt 1724
+2511	Main	2180.0	US	Georgia	Norcross	65 Jana Point		Suite 1
+2512	Main	2181.0	US	California	Santa Barbara	95684 Corben Trail		Suite 56
+2513	Main	2182.0	US	Florida	Fort Myers	96 Sloan Street		Suite 80
+2514	Main	2183.0	US	Pennsylvania	Harrisburg	20967 Morningstar Parkway		Suite 80
+2515	Main	2184.0	US	Texas	El Paso	266 Main Pass		Room 736
+2516	Main	2185.0	US	Florida	Orlando	941 7th Avenue		Room 1989
+2517	Main	2186.0	US	New York	New York City	218 Trailsway Parkway		Room 1435
+2518	Main	2187.0	US	New Mexico	Santa Fe	258 Lakewood Gardens Parkway		Suite 95
+2519	Main	2188.0	US	Indiana	South Bend	5668 Loomis Plaza		Apt 1047
+2520	Main	2189.0	US	New York	New York City	03 Bellgrove Pass		Apt 1293
+2521	Main	2190.0	US	Arizona	Scottsdale	6 Bay Lane		Apt 1661
+2522	Secondary	2191.0	US	Texas	Houston	992 Golf Course Lane	9.0	
+2523	Main	2191.0	US	South Carolina	Charleston	9 Bayside Street	4.0	
+2524	Main	2192.0	US	South Carolina	Columbia	9 Cody Trail		Apt 1615
+2525	Main	2193.0	US	California	San Jose	5719 Farwell Junction		Room 1671
+2526	Main	2194.0	US	Kansas	Kansas City	824 Russell Terrace	20.0	
+2527	Secondary	2195.0	US	Ohio	Akron	094 Brickson Park Parkway		Suite 99
+2528	Main	2195.0	US	Washington	Tacoma	17608 Eliot Hill		Apt 1239
+2529	Secondary	2196.0	US	Georgia	Duluth	94 8th Hill		
+2530	Main	2196.0	US	Illinois	Chicago	483 Mcbride Park		Apt 1109
+2531	Main	2197.0	US	Texas	El Paso	8 Raven Parkway		Room 1630
+2532	Main	2198.0	US	Texas	San Antonio	340 Stoughton Street		Room 1842
+2533	Main	2199.0	US	Ohio	Canton	130 Cherokee Junction	15.0	
+2534	Main	2200.0	US	Nebraska	Omaha	6466 Emmet Parkway		Room 683
+2535	Secondary	2201.0	US	Pennsylvania	Philadelphia	07260 Homewood Place		Room 940
+2536	Main	2201.0	US	Mississippi	Jackson	03660 Hallows Plaza		Room 96
+2537	Main	2202.0	US	Florida	Tallahassee	2 Quincy Lane		Suite 57
+2538	Main	2203.0	US	Florida	Sarasota	81798 Westport Parkway		Suite 24
+2539	Main	2204.0	US	Minnesota	Minneapolis	805 Swallow Street		Apt 1272
+2540	Main	2205.0	US	Tennessee	Knoxville	4456 Russell Avenue	5.0	
+2541	Main	2206.0	US	Pennsylvania	Philadelphia	542 Moose Terrace	15.0	
+2542	Main	2207.0	US	Missouri	Kansas City	4 Doe Crossing Place		Suite 11
+2543	Main	2208.0	US	Oklahoma	Oklahoma City	9711 Burrows Alley		Room 1972
+2544	Main	2209.0	US	Florida	Pensacola	90 Muir Crossing		Apt 1559
+2545	Main	2210.0	US	Pennsylvania	Lancaster	3932 Brentwood Way		Suite 59
+2546	Main	2211.0	US	California	Hayward	03 Mcbride Pass		Suite 6
+2547	Main	2212.0	US	Michigan	Grand Rapids	1 Anniversary Lane		Suite 73
+2548	Main	2213.0	US	Maryland	Baltimore	404 Forster Parkway		Suite 80
+2549	Main	2214.0	US	Kentucky	Louisville	4391 Spaight Terrace	2.0	
+2550	Main	2215.0	US	North Carolina	Charlotte	06 Old Gate Point		Suite 33
+2551	Main	2216.0	US	South Carolina	Columbia	434 Lake View Street		Apt 1527
+2552	Main	2217.0	US	Missouri	Saint Louis	8 American Ash Parkway		Suite 18
+2553	Main	2218.0	US	Pennsylvania	Philadelphia	0 Moland Circle		Apt 17
+2554	Main	2219.0	US	Pennsylvania	Pittsburgh	21 Springs Hill		Suite 65
+2555	Secondary	2220.0	US	Iowa	Iowa City	254 School Junction		Apt 93
+2556	Main	2220.0	US	Georgia	Marietta	4 Ramsey Terrace		Room 221
+2557	Main	2221.0	US	New York	Yonkers	6374 Luster Road	6.0	
+2558	Main	2222.0	US	Florida	Gainesville	225 Stoughton Street		Room 1554
+2559	Main	2223.0	US	Texas	Houston	16924 Luster Place	11.0	
+2560	Main	2224.0	US	Ohio	Columbus	56 Hazelcrest Place	17.0	
+2561	Main	2225.0	US	California	Petaluma	903 Golf Course Point		Room 527
+2562	Main	2226.0	US	Oregon	Portland	6 Glendale Alley		Apt 1691
+2563	Secondary	2227.0	US	New York	New York City	6 Lien Plaza		
+2564	Main	2227.0	US	Iowa	Des Moines	6638 Gateway Crossing		Suite 62
+2565	Secondary	2228.0	US	Texas	El Paso	595 Sullivan Place		Apt 77
+2566	Main	2228.0	US	New York	Elmira	5 Montana Drive	15.0	
+2567	Main	2229.0	US	Indiana	Fort Wayne	405 Heath Lane		Room 1197
+2568	Main	2230.0	US	Washington	Seattle	7 Rutledge Park		Suite 43
+2569	Main	2231.0	US	Hawaii	Honolulu	0 Village Trail	19.0	
+2570	Main	2232.0	US	New Jersey	Jersey City	95288 Ohio Parkway	18.0	
+2571	Main	2233.0	US	Alabama	Birmingham	5530 Johnson Street	7.0	
+2572	Main	2234.0	US	New York	Syracuse	92 Becker Way	1.0	
+2573	Main	2235.0	US	California	Sunnyvale	11545 Pond Junction	14.0	
+2574	Secondary	2236.0	US	Texas	Bryan	41247 High Crossing Parkway		Room 1690
+2575	Main	2236.0	US	Texas	Waco	8 Kenwood Street	16.0	
+2576	Main	2237.0	US	Ohio	Cleveland	9366 Sherman Drive		Apt 1261
+2577	Main	2238.0	US	Iowa	Des Moines	61098 Maple Wood Park		Apt 1063
+2578	Main	2239.0	US	Ohio	Cincinnati	7 Dennis Crossing		Apt 1093
+2579	Main	2240.0	US	California	Riverside	617 Wayridge Parkway	11.0	
+2580	Main	2241.0	US	California	Fullerton	58629 Karstens Point		Suite 48
+2581	Main	2242.0	US	Virginia	Roanoke	48859 Annamark Hill		Room 1413
+2582	Main	2243.0	US	California	San Jose	48269 Gerald Alley	13.0	
+2583	Main	2244.0	US	California	Pasadena	791 Mitchell Terrace		Room 1995
+2584	Main	2245.0	US	Tennessee	Nashville	1 Dahle Crossing		Apt 1336
+2585	Secondary	2246.0	US	Texas	Amarillo	49 Tennyson Center		Apt 1626
+2586	Main	2246.0	US	Florida	Port Saint Lucie	94 Farwell Place	19.0	
+2587	Secondary	2247.0	US	Iowa	Des Moines	11 Warner Parkway		Apt 1815
+2588	Main	2247.0	US	Michigan	Saginaw	44087 Waxwing Crossing	19.0	
+2589	Main	2248.0	US	Texas	Corpus Christi	5 Grover Terrace		Apt 1154
+2590	Main	2249.0	US	Texas	Abilene	180 Warrior Alley		Room 459
+2591	Main	2250.0	US	Nevada	North Las Vegas	97442 Maywood Drive	2.0	
+2592	Main	2251.0	US	Colorado	Littleton	25725 Hooker Road	17.0	
+2593	Main	2252.0	US	Texas	El Paso	03644 Morningstar Court		Room 878
+2594	Secondary	2253.0	US	Kentucky	Louisville	742 Katie Point		Apt 1298
+2595	Main	2253.0	US	Georgia	Atlanta	67214 Surrey Terrace		Suite 91
+2596	Secondary	2254.0	US	District of Columbia	Washington	35 Fallview Street	3.0	
+2597	Main	2254.0	US	Arkansas	Hot Springs National Park	7 Rigney Center	16.0	
+2598	Main	2255.0	US	Michigan	Southfield	04 Esker Alley		Suite 24
+2599	Main	2256.0	US	Ohio	Toledo	9728 Dawn Road		Room 43
+2600	Secondary	2257.0	US	Florida	Jacksonville	79805 Coleman Point		Apt 1707
+2601	Main	2257.0	US	Idaho	Boise	7409 Glendale Place		Suite 30
+2602	Secondary	2258.0	US	Pennsylvania	Pittsburgh	5 Bultman Parkway		Apt 305
+2603	Main	2258.0	US	California	Sacramento	016 Talisman Drive	20.0	
+2604	Secondary	2259.0	US	Missouri	Saint Louis	95 Sloan Way		Suite 35
+2605	Main	2259.0	US	Massachusetts	Watertown	70839 Montana Crossing	9.0	
+2606	Main	2260.0	US	Maryland	Baltimore	25 Morrow Circle		Room 302
+2607	Main	2261.0	US	Texas	Denton	86 Brown Center		Suite 32
+2608	Secondary	2262.0	US	Illinois	Carol Stream	84290 Summer Ridge Trail		Apt 1872
+2609	Main	2262.0	US	Ohio	Cleveland	35910 Mendota Road		Room 824
+2610	Main	2263.0	US	California	San Bernardino	0532 Kipling Circle		Room 1358
+2611	Secondary	2264.0	US	District of Columbia	Washington	13 Fuller Trail		Suite 57
+2612	Main	2264.0	US	Kentucky	Louisville	1 Del Sol Center		Suite 36
+2613	Main	2265.0	US	Indiana	Bloomington	59880 Novick Place		Room 746
+2614	Secondary	2266.0	US	Arizona	Phoenix	413 Crescent Oaks Terrace		
+2615	Main	2266.0	US	Colorado	Pueblo	46970 Grasskamp Way		Suite 78
+2616	Main	2267.0	US	District of Columbia	Washington	439 Vermont Terrace	11.0	
+2617	Main	2268.0	US	New York	Rochester	72 Shoshone Hill	8.0	
+2618	Main	2269.0	US	California	Moreno Valley	72309 Fulton Hill		Room 1751
+2619	Secondary	2270.0	US	Idaho	Boise	459 Linden Junction		
+2620	Main	2270.0	US	North Carolina	Charlotte	34 Acker Crossing		Suite 69
+2621	Main	2271.0	US	Missouri	Lees Summit	341 Warbler Court		Suite 58
+2622	Main	2272.0	US	Tennessee	Chattanooga	518 Oxford Circle		Room 152
+2623	Main	2273.0	US	Virginia	Chesapeake	1448 Melody Park	4.0	
+2624	Main	2274.0	US	Kansas	Wichita	0683 Garrison Point		Room 1663
+2625	Main	2275.0	US	Florida	Kissimmee	09688 Grayhawk Lane	15.0	
+2626	Main	2276.0	US	Ohio	Canton	48257 Weeping Birch Crossing		Suite 34
+2627	Main	2277.0	US	West Virginia	Charleston	202 Northwestern Park		Room 247
+2628	Main	2278.0	US	Florida	Jacksonville	9064 Forster Court	1.0	
+2629	Main	2279.0	US	California	San Bernardino	4 Spohn Terrace		Suite 71
+2630	Main	2280.0	US	Utah	Salt Lake City	9 Kropf Drive		Suite 98
+2631	Main	2281.0	US	Texas	El Paso	1340 Clemons Parkway		Suite 87
+2632	Main	2282.0	US	Florida	Saint Petersburg	280 Declaration Pass		Suite 41
+2633	Main	2283.0	US	Kansas	Topeka	204 Armistice Place	12.0	
+2634	Main	2284.0	US	Illinois	Palatine	2674 Melvin Plaza		Suite 96
+2635	Main	2285.0	US	California	Oxnard	831 Algoma Alley		Room 1766
+2636	Main	2286.0	US	Ohio	Youngstown	869 North Park		Suite 50
+2637	Main	2287.0	US	Texas	Fort Worth	9 Packers Terrace		Room 603
+2638	Main	2288.0	US	Maryland	Silver Spring	3220 Granby Road		Suite 46
+2639	Secondary	2289.0	US	Florida	Pensacola	39860 Bayside Alley		Apt 543
+2640	Main	2289.0	US	California	Concord	483 Messerschmidt Park		Room 351
+2641	Main	2290.0	US	Florida	Tampa	320 Muir Junction	10.0	
+2642	Secondary	2291.0	US	West Virginia	Huntington	43929 Blue Bill Park Terrace		Suite 35
+2643	Main	2291.0	US	Connecticut	Hartford	090 Stoughton Plaza		Suite 17
+2644	Main	2292.0	US	New York	Bronx	9 Buena Vista Crossing		Room 219
+2645	Main	2293.0	US	Florida	Pensacola	1329 Towne Alley		Apt 1105
+2646	Main	2294.0	US	Florida	Pensacola	6 South Alley		Suite 28
+2647	Main	2295.0	US	Missouri	Kansas City	8335 Lakewood Park		Suite 72
+2648	Main	2296.0	US	Texas	Longview	5827 Logan Lane	3.0	
+2649	Main	2297.0	US	Missouri	Saint Louis	6750 Nancy Court		Suite 66
+2650	Main	2298.0	US	Ohio	Columbus	58 Arizona Avenue		Room 674
+2651	Main	2299.0	US	District of Columbia	Washington	5317 Kinsman Pass		Apt 1175
+2652	Main	2300.0	US	Iowa	Des Moines	5713 Hanover Crossing		Room 1540
+2653	Secondary	2301.0	US	California	Oakland	4500 Dunning Lane		
+2654	Main	2301.0	US	Hawaii	Honolulu	16 Mayer Way		Apt 1182
+2655	Secondary	2302.0	US	Massachusetts	Boston	056 Grasskamp Court		Apt 1359
+2656	Main	2302.0	US	Louisiana	Shreveport	4335 Bunting Pass		Apt 1126
+2657	Secondary	2303.0	US	District of Columbia	Washington	16337 Westerfield Lane		Suite 17
+2658	Main	2303.0	US	Florida	Daytona Beach	5 Esch Circle		Suite 46
+2659	Main	2304.0	US	California	Stockton	11 Straubel Crossing	3.0	
+2660	Main	2305.0	US	South Dakota	Sioux Falls	03597 Anzinger Lane		Room 1711
+2661	Secondary	2306.0	US	California	San Jose	44 Butternut Trail		Room 1100
+2662	Main	2306.0	US	Louisiana	New Orleans	5310 Elgar Crossing		Suite 78
+2663	Main	2307.0	US	Texas	Austin	85945 Little Fleur Place	19.0	
+2664	Main	2308.0	US	Florida	Naples	91 Golf View Place		Room 1934
+2665	Main	2309.0	US	Georgia	Atlanta	17424 3rd Avenue	16.0	
+2666	Secondary	2310.0	US	Nebraska	Lincoln	603 Ridge Oak Hill		
+2667	Main	2310.0	US	Ohio	Cleveland	99 Dixon Terrace		Room 1552
+2668	Main	2311.0	US	Connecticut	Waterbury	1 American Lane		Suite 37
+2669	Main	2312.0	US	Virginia	Richmond	37755 Bluejay Lane		Room 1475
+2670	Secondary	2313.0	US	Pennsylvania	Philadelphia	9610 Helena Pass		Suite 71
+2671	Main	2313.0	US	Florida	Gainesville	3 Warner Lane		Suite 27
+2672	Main	2314.0	US	Alabama	Birmingham	34012 Beilfuss Avenue	1.0	
+2673	Main	2315.0	US	Kentucky	Lexington	92360 Atwood Alley		Room 45
+2674	Secondary	2316.0	US	Connecticut	Bridgeport	8 Bluejay Way		
+2675	Main	2316.0	US	Ohio	Dayton	5 Jana Way		Room 825
+2676	Main	2317.0	US	Florida	Naples	0 Mandrake Court		Suite 34
+2677	Main	2318.0	US	Missouri	Saint Louis	00 Elmside Place	8.0	
+2678	Main	2319.0	US	Florida	Miami	2584 Ryan Park		Suite 85
+2679	Secondary	2320.0	US	Nevada	Las Vegas	58589 Roxbury Place		Apt 1860
+2680	Main	2320.0	US	Texas	Corpus Christi	1403 Arkansas Street		Room 997
+2681	Secondary	2321.0	US	Indiana	Evansville	6992 Victoria Lane	19.0	
+2682	Main	2321.0	US	Illinois	Chicago	899 Schurz Circle		Room 694
+2683	Main	2322.0	US	Connecticut	West Hartford	7 Mcguire Alley		Room 1315
+2684	Main	2323.0	US	Alabama	Mobile	22400 Graedel Court		Suite 90
+2685	Main	2324.0	US	Arkansas	Hot Springs National Park	5875 International Place		Apt 1358
+2686	Main	2325.0	US	California	San Francisco	4 Di Loreto Court		Suite 43
+2688	Secondary	2326.0	US	Arkansas	Hot Springs National Park	4463 Fulton Place	16.0	
+2689	Main	2326.0	US	Indiana	Bloomington	278 Hayes Road		Room 566
+2690	Main	2327.0	US	Delaware	Wilmington	79645 Hansons Street	20.0	
+2691	Main	2328.0	US	Illinois	Peoria	7 Sunfield Center		Apt 1508
+2692	Secondary	2329.0	US	Michigan	Southfield	79244 Jackson Drive		Room 1400
+2693	Main	2329.0	US	South Carolina	Greenville	7 Del Mar Park		Room 828
+2694	Main	2330.0	US	Illinois	Springfield	6 Miller Street		Room 727
+2695	Main	2331.0	US	Florida	Fort Lauderdale	975 School Street		Room 1842
+2696	Main	2332.0	US	Texas	Dallas	593 Cardinal Street	17.0	
+2697	Main	2333.0	US	Florida	Fort Pierce	873 Bonner Terrace		Room 769
+2698	Main	2334.0	US	California	Van Nuys	21716 Elka Place		Room 633
+2699	Main	2335.0	US	North Carolina	Greensboro	1 Green Alley		Apt 171
+2700	Secondary	2336.0	US	Ohio	Hamilton	979 Maple Parkway		Room 963
+2701	Main	2336.0	US	Oklahoma	Tulsa	987 Truax Road		Room 1529
+2702	Main	2337.0	US	California	Sacramento	2 Tennyson Place		Room 1628
+2703	Secondary	2338.0	US	Florida	Fort Myers	903 Marcy Road		Suite 65
+2704	Main	2338.0	US	California	Long Beach	97 Miller Crossing	10.0	
+2705	Main	2339.0	US	Pennsylvania	Pittsburgh	77 Derek Parkway		Suite 85
+2706	Main	2340.0	US	Idaho	Pocatello	80 Gerald Plaza		Suite 94
+2707	Main	2341.0	US	Arizona	Phoenix	7930 Northview Center		Room 1451
+2708	Secondary	2342.0	US	Connecticut	New Haven	40013 Macpherson Place	20.0	
+2709	Main	2342.0	US	California	Long Beach	0 Sage Trail		Room 1728
+2710	Main	2343.0	US	New York	New York City	556 Lindbergh Drive		Suite 60
+2711	Main	2344.0	US	Texas	Austin	693 La Follette Avenue		Suite 29
+2712	Main	2345.0	US	Ohio	Akron	6009 Mallard Center		Room 1466
+2713	Main	2346.0	US	California	South Lake Tahoe	092 Truax Parkway		Room 718
+2714	Secondary	2347.0	US	Florida	Naples	113 Magdeline Avenue		Apt 1740
+2715	Main	2347.0	US	Georgia	Marietta	996 Golf View Court		Room 379
+2716	Main	2348.0	US	Illinois	Chicago	253 School Drive	2.0	
+2717	Main	2349.0	US	Florida	Jacksonville	516 Parkside Circle		Suite 37
+2718	Main	2350.0	US	Michigan	Detroit	38981 Lighthouse Bay Alley		Room 1185
+2719	Main	2351.0	US	Alaska	Anchorage	43154 Northview Plaza		Suite 22
+2720	Main	2352.0	US	Alabama	Mobile	8982 Shelley Center	15.0	
+2721	Main	2353.0	US	Indiana	Fort Wayne	40173 Messerschmidt Hill	14.0	
+2722	Main	2354.0	US	Rhode Island	Providence	5764 Ronald Regan Park		Suite 76
+2723	Main	2355.0	US	North Carolina	Winston Salem	94652 Kropf Lane		Suite 23
+2724	Main	2356.0	US	Tennessee	Chattanooga	64601 Bayside Road	18.0	
+2725	Main	2357.0	US	Georgia	Atlanta	19 Loomis Hill	4.0	
+2726	Main	2358.0	US	Nevada	Las Vegas	82203 Lawn Terrace	15.0	
+2727	Main	2359.0	US	Oklahoma	Oklahoma City	4 Elka Place		Suite 5
+2728	Main	2360.0	US	Texas	El Paso	5525 Transport Court		Apt 1631
+2729	Main	2361.0	US	Texas	Arlington	325 North Court		Suite 35
+2730	Main	2362.0	US	California	Los Angeles	41 Tennessee Street		Suite 34
+2732	Secondary	2363.0	US	California	Fresno	32034 Roxbury Parkway	11.0	
+2733	Main	2363.0	US	Missouri	Kansas City	872 Columbus Street	12.0	
+2734	Main	2364.0	US	Virginia	Richmond	18 Corben Terrace	5.0	
+2735	Main	2365.0	US	Pennsylvania	Pittsburgh	75474 Elka Crossing		Suite 77
+2736	Main	2366.0	US	Montana	Helena	91750 Dottie Plaza		Suite 68
+2737	Main	2367.0	US	California	San Francisco	69 Mifflin Hill		Suite 83
+2738	Main	2368.0	US	Ohio	Canton	28 Dryden Street		Suite 88
+2739	Main	2369.0	US	North Carolina	Charlotte	0 Dawn Street		Suite 97
+2740	Main	2370.0	US	Minnesota	Monticello	1002 Ramsey Alley		Room 1552
+2741	Main	2371.0	US	Colorado	Boulder	6 Calypso Alley		Suite 93
+2742	Main	2372.0	US	Ohio	Cleveland	4230 Kensington Trail		Room 1798
+2743	Main	2373.0	US	Texas	Abilene	75 Meadow Ridge Drive	18.0	
+2744	Secondary	2374.0	US	Kansas	Wichita	095 Superior Park	12.0	
+2745	Main	2374.0	US	Arizona	Tucson	5 Maryland Parkway	8.0	
+2746	Main	2375.0	US	Alabama	Birmingham	7 Scott Point		Room 1982
+2747	Main	2376.0	US	Washington	Seattle	6486 Erie Crossing		Suite 28
+2748	Main	2377.0	US	Washington	Tacoma	4 Alpine Point	1.0	
+2749	Main	2378.0	US	Florida	Tampa	605 Fieldstone Park	7.0	
+2750	Main	2379.0	US	Wisconsin	Madison	15 Main Hill	11.0	
+2751	Main	2380.0	US	Illinois	Chicago	89 Milwaukee Park	3.0	
+2752	Main	2381.0	US	Texas	Dallas	0 Orin Terrace		Apt 1184
+2753	Main	2382.0	US	Louisiana	Lafayette	70377 Dwight Terrace		Suite 53
+2754	Main	2383.0	US	Pennsylvania	Philadelphia	64 Lakewood Gardens Way	6.0	
+2755	Main	2384.0	US	Texas	Houston	7066 Gale Trail		Suite 24
+2756	Main	2385.0	US	Georgia	Valdosta	731 La Follette Way		Room 821
+2757	Main	2386.0	US	North Carolina	Durham	5 7th Point	6.0	
+2758	Main	2387.0	US	Iowa	Des Moines	00855 Dexter Trail	10.0	
+2759	Main	2388.0	US	Florida	Jacksonville	36156 North Avenue		Suite 6
+2760	Main	2389.0	US	Ohio	Cincinnati	94 Vahlen Center		Apt 1102
+2761	Main	2390.0	US	Pennsylvania	Allentown	08 Anniversary Point		Suite 25
+2762	Main	2391.0	US	Texas	Austin	423 Rowland Drive		Room 1459
+2763	Secondary	2392.0	US	Massachusetts	Boston	833 Hallows Pass		Suite 20
+2764	Main	2392.0	US	Virginia	Norfolk	04 Bartillon Street	6.0	
+2765	Main	2393.0	US	Iowa	Des Moines	108 Esch Hill	2.0	
+2766	Main	2394.0	US	Iowa	Davenport	479 Anhalt Terrace		Suite 48
+2767	Main	2395.0	US	Montana	Bozeman	09 American Ash Point		Suite 42
+2768	Main	2396.0	US	Texas	Lubbock	382 Michigan Park		Apt 1105
+2769	Main	2397.0	US	Nevada	Reno	44182 Karstens Road	19.0	
+2771	Secondary	2398.0	US	North Carolina	Fayetteville	4 Blaine Trail	1.0	
+2772	Main	2398.0	US	Kansas	Wichita	728 Manley Park	7.0	
+2773	Main	2399.0	US	California	Whittier	1 Packers Court		Suite 5
+2774	Main	2400.0	US	Alabama	Mobile	503 Eastlawn Pass	1.0	
+2775	Main	2401.0	US	Texas	Lubbock	77 Anniversary Hill	1.0	
+2776	Main	2402.0	US	New York	Brooklyn	68391 Arkansas Place		Suite 83
+2777	Main	2403.0	US	Kentucky	Louisville	5824 Manufacturers Crossing		Room 406
+2778	Main	2404.0	US	Texas	Austin	0 Bobwhite Avenue		Suite 94
+2779	Secondary	2405.0	US	Utah	Sandy	993 2nd Trail		Room 877
+2780	Main	2405.0	US	North Carolina	Charlotte	18456 Waywood Point		Suite 25
+2781	Secondary	2406.0	US	North Carolina	Charlotte	3408 Huxley Road		
+2782	Main	2406.0	US	Colorado	Denver	22160 Karstens Avenue		Apt 1730
+2783	Main	2407.0	US	Virginia	Richmond	9306 Hanover Pass		Suite 30
+2784	Main	2408.0	US	New York	New York City	517 Village Green Pass		Room 1227
+2786	Secondary	2409.0	US	Texas	Austin	5472 Prentice Court		Apt 1119
+2787	Main	2409.0	US	Florida	Clearwater	0 Center Avenue		Suite 89
+2788	Secondary	2410.0	US	Texas	Gatesville	7 Dottie Road		Apt 715
+2789	Main	2410.0	US	Texas	Houston	08 Fair Oaks Pass		Suite 62
+2790	Main	2411.0	US	New York	New York City	345 Northridge Plaza	4.0	
+2791	Secondary	2412.0	US	California	San Jose	69 Crowley Parkway		Suite 35
+2792	Main	2412.0	US	Wisconsin	Madison	64316 Upham Alley		Suite 86
+2793	Main	2413.0	US	Texas	Houston	84360 Lerdahl Place		Room 1646
+2794	Main	2414.0	US	Georgia	Valdosta	02 Clyde Gallagher Court		Apt 124
+2795	Main	2415.0	US	Texas	Amarillo	2 Basil Court		Apt 1682
+2796	Main	2416.0	US	Massachusetts	Cambridge	00495 Bluestem Point		Apt 1285
+2797	Secondary	2417.0	US	Michigan	Midland	14 Prairieview Parkway		Room 1070
+2798	Main	2417.0	US	Ohio	Canton	8 Morning Trail		Suite 42
+2799	Main	2418.0	US	Texas	San Antonio	359 Autumn Leaf Court	12.0	
+2801	Secondary	2419.0	US	California	Chula Vista	9222 Elmside Road		Apt 997
+2802	Main	2419.0	US	Texas	Conroe	4243 Myrtle Circle		Apt 1025
+2803	Main	2420.0	US	California	San Francisco	31536 Dexter Way		Room 813
+2804	Main	2421.0	US	California	South Lake Tahoe	344 Prentice Terrace	6.0	
+2805	Main	2422.0	US	Virginia	Roanoke	45 Service Park		Room 339
+2806	Main	2423.0	US	Indiana	South Bend	1281 Express Way		Room 1342
+2807	Main	2424.0	US	District of Columbia	Washington	5527 Service Plaza		Apt 120
+2808	Main	2425.0	US	California	San Jose	48027 Tennessee Avenue	11.0	
+2809	Main	2426.0	US	District of Columbia	Washington	33042 Twin Pines Junction		Suite 100
+2810	Main	2427.0	US	Idaho	Boise	2 Riverside Park	5.0	
+2811	Main	2428.0	US	Kansas	Shawnee Mission	2 Kings Drive	14.0	
+2812	Main	2429.0	US	Michigan	Battle Creek	9048 Fallview Circle		Apt 1003
+2813	Main	2430.0	US	Wisconsin	Madison	6 Westend Parkway		Suite 41
+2814	Main	2431.0	US	New York	New York City	9581 Mitchell Junction		Room 344
+2815	Main	2432.0	US	Texas	Houston	3271 Rigney Circle		Suite 25
+2816	Main	2433.0	US	Pennsylvania	Philadelphia	72401 Hollow Ridge Place		Apt 1108
+2817	Main	2434.0	US	New York	New York City	709 Crowley Junction	9.0	
+2818	Main	2435.0	US	Maryland	Baltimore	5 Browning Trail		Room 1365
+2819	Main	2436.0	US	California	San Jose	50 Redwing Lane		Room 1999
+2820	Main	2437.0	US	North Carolina	Greensboro	1323 Pearson Drive		Suite 73
+2821	Main	2438.0	US	Nevada	Las Vegas	3635 Huxley Circle		Suite 27
+2822	Main	2439.0	US	Maryland	Gaithersburg	706 Hazelcrest Drive		Suite 2
+2823	Main	2440.0	US	North Carolina	Winston Salem	276 Milwaukee Park		Suite 17
+2824	Main	2441.0	US	North Carolina	Gastonia	9 Golf View Road	11.0	
+2825	Branch		US	Michigan	Flint	45 Rowland Hill		
+2826	Branch		US	California	San Jose	158 Milwaukee Plaza		
+2827	Branch		US	Minnesota	Minneapolis	69520 Aberg Point		
+2828	Branch		US	Florida	Gainesville	06 Vernon Terrace		
+2829	Branch		US	California	San Rafael	174 Mosinee Plaza		
+2830	Branch		US	Ohio	Canton	87870 Del Sol Avenue		
+2831	Branch		US	Florida	Miami Beach	98360 Clove Terrace		
+2832	Branch		US	Virginia	Alexandria	8554 Hauk Hill		
+2833	Branch		US	Texas	San Antonio	670 Sutherland Lane		
+2834	Branch		US	West Virginia	Charleston	8111 Melvin Way		
+2835	Branch		US	Illinois	Chicago	7364 Duke Alley		
+2836	Branch		US	Pennsylvania	Reading	1 Elmside Avenue		
+2837	Branch		US	Arizona	Phoenix	5162 Washington Road		
+2838	Branch		US	Michigan	Detroit	76 Springs Hill		
+2839	Branch		US	Connecticut	Hartford	59 Rusk Center		
+2840	Branch		US	Oregon	Portland	47864 Dunning Point		
+2841	Branch		US	Indiana	Muncie	8 West Way		
+2842	Branch		US	North Carolina	Durham	8 Logan Crossing		
+2843	Branch		US	Minnesota	Duluth	1015 Graedel Center		
+2844	Branch		US	Michigan	Battle Creek	5440 Summit Junction		
+2845	Branch		US	North Carolina	Asheville	3594 Center Crossing		
+2846	Branch		US	New York	Bronx	9673 Warrior Terrace		
+2847	Branch		US	Texas	Austin	65 Farmco Lane		
+2848	Branch		US	Missouri	Saint Louis	9 Center Crossing		
+2849	Branch		US	New York	Bronx	0823 Iowa Alley		
+2850	Branch		US	Louisiana	Shreveport	925 Crest Line Junction		
