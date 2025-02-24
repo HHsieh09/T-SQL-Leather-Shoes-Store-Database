@@ -1,5 +1,4 @@
-Topic: Leather Shoes Database Business Solution Project
-Advanced Database Applications
+Topic: Leather Shoes Database Business Solution Project - Advanced Database Applications
 
 The data in this database is primarily obtained through the ETL technique, and all execution should ideally be contained within a single file. Therefore, the order in which the SQL files are executed is crucial. Below is the sequence to create tables, insert data, and query the database, with explanations of each step in this project:
 
