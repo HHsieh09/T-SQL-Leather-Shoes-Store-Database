@@ -1,42 +1,78 @@
-Topic: Leather Shoes Database Business Solution Project - Advanced Database Applications
+# Leather Shoes Database Business Solution Project
 
-The data in this database is primarily obtained through the ETL technique, and all execution should ideally be contained within a single file. Therefore, the order in which the SQL files are executed is crucial. Below is the sequence to create tables, insert data, and query the database, with explanations of each step in this project:
+## Overview
+This project is designed to optimize business operations for a leather shoe company by implementing an advanced database application. The database integrates data from third-party ERP systems through ETL (Extract, Transform, Load) techniques, ensuring efficient and error-free processing. By leveraging T-SQL, the project enhances corporate accounting insights and streamlines operational decision-making.
 
-1. Import Flat Files
-Explain: This is the most important step. As this database relies on ETL for data acquisition, it is required to import the 18 flat files at the outset to ensure that subsequent processes function effectively.  
+## Key Features
+- **Optimized Data Processing:** Utilized T-SQL to develop stored procedures that retrieve deduplicated and error-free data.
+- **OLTP System Implementation:** Designed and implemented an OLTP system to manage and integrate data from third-party ERP systems.
+- **Business Insights:** Developed custom analytical procedures to support actionable business insights.
 
-Notice: When importing flat files, the Import Flat File application may incorrectly identify data types. To avoid mistakes, it is advisable to "Allow Nulls" for all columns, assign the majority of ID columns as INT, and designate the non-date columns as NVARCHAR(50) or VARCHAR(50). It is important to note that InventoryID and PromotionID should be treated as VARCHAR.  
+## Execution Flow
+The database operations rely on a structured and sequential execution of SQL scripts. It is critical to follow the correct execution order to maintain data integrity and ensure proper functionality. Below is a comprehensive breakdown of each step in the implementation process:
 
-2. LeatherShoes_TableCreate
-Explain: To create a stored procedure that creates the necessary tables within the database.
+### 1. Import Flat Files
+- **Description:** The initial step involves importing 18 flat files that serve as the primary data sources for the system. This step is crucial as all subsequent processes depend on the successful integration of these files.
+- **Important Considerations:**
+  - The Import Flat File application may incorrectly determine data types during import.
+  - To prevent data inconsistencies, it is recommended to enable "Allow Nulls" for all columns.
+  - Most ID columns should be assigned as `INT`, while non-date text-based fields should be formatted as `NVARCHAR(50)` or `VARCHAR(50)`. 
+  - Specific fields such as `InventoryID` and `PromotionID` should always be designated as `VARCHAR` to ensure proper data handling.
 
-3. LeatherShoes_Order_TableInsert
-Explain: To create a stored procedure that inserts order-related data through ETL into corresponding tables.
+### 2. Table Creation
+- **Script:** `LeatherShoes_TableCreate.sql`
+- **Purpose:** Establishes the foundational database schema by creating all necessary tables that will store transactional and reference data.
+- **Process:** This step involves the execution of a stored procedure that methodically defines table structures, ensuring proper data storage, indexing, and relational integrity.
 
-4. LeatherShoes_InventoryPurchaseDetail_TableInsert
-Explain: To create a stored procedure that inserts inventory purchase detail related data through ETL into corresponding tables.
+### 3. Order Data Insertion
+- **Script:** `LeatherShoes_Order_TableInsert.sql`
+- **Purpose:** Populates the database with order-related data, enabling the tracking and management of customer purchases.
+- **Process:** The script executes a structured ETL process to transfer, validate, and store order information in the designated tables.
 
-5. LeatherShoes_Others_TableInsert
-Explain: To create a stored procedure that inserts the remaining data through ETL into corresponding tables.
+### 4. Inventory Purchase Data Insertion
+- **Script:** `LeatherShoes_InventoryPurchaseDetail_TableInsert.sql`
+- **Purpose:** Inserts detailed inventory purchase records into the database, ensuring that stock replenishment data is accurately captured.
+- **Process:** This stored procedure facilitates the systematic integration of inventory purchases, linking them to suppliers, products, and order history.
 
-6. (Optional) LeatherShoes_BasicInsert 
-Explain: Since the database employs ETL for data acquisition, the execution of this file is optional. 
+### 5. Other Data Insertion
+- **Script:** `LeatherShoes_Others_TableInsert.sql`
+- **Purpose:** Completes the data population process by inserting supplementary business-related records that support overall system functionality.
+- **Process:** The script ensures that auxiliary datasets, such as customer demographics and promotional data, are systematically integrated.
 
-7. LeatherShoes_FrequentlyPurchaseTrend_Select
-Explain: To create a stored procedure that queries customers who frequently purchased, excluding employees.
+### 6. (Optional) Basic Data Insertion
+- **Script:** `LeatherShoes_BasicInsert.sql`
+- **Purpose:** This optional execution allows for additional manual data insertion if required.
+- **Process:** Although not mandatory, executing this script may be useful in initializing default values or supplementing specific records before running analytical queries.
 
-8. LeatherShoes_EmployeeSalesPerformance_Select
-Explain: To create a stored procedure that analyzes the sales performance of employees.
+### 7. Frequently Purchased Items Analysis
+- **Script:** `LeatherShoes_FrequentlyPurchaseTrend_Select.sql`
+- **Purpose:** Extracts insights into customer purchasing trends by identifying frequently purchased items while excluding employee transactions.
+- **Process:** This query-based stored procedure analyzes historical sales data to determine customer buying patterns, supporting strategic decision-making.
 
-9. LeatherShoes_StockIdentify_Select
-Explain: To create a stored procedure that identifies current stock levels and assesses the need for additional inventory orders from suppliers.
+### 8. Employee Sales Performance Analysis
+- **Script:** `LeatherShoes_EmployeeSalesPerformance_Select.sql`
+- **Purpose:** Evaluates the effectiveness and efficiency of employees in driving sales.
+- **Process:** This analytical query examines employee performance metrics, sales volume, and revenue contributions, providing insights for performance-based incentives and operational improvements.
 
-10. LeatherShoes_TableCreate & ETL Execute Stored
-Explain: To create a stored procedure that executes the previously created table and all related ETL insert stored procedures.
+### 9. Stock Identification
+- **Script:** `LeatherShoes_StockIdentify_Select.sql`
+- **Purpose:** Monitors current inventory levels and assesses the necessity for additional stock orders.
+- **Process:** This stored procedure systematically scans inventory data, identifying potential shortages or surplus stock, and provides recommendations for replenishment.
 
-11. LeatherShoes_Execution
-Explain: This final step executes the stored procedures established in the previous steps, along with the three business solution query stored procedures
+### 10. Table Creation & ETL Execution
+- **Script:** `LeatherShoes_TableCreate & ETL Execute Stored.sql`
+- **Purpose:** Consolidates and executes all table creation processes alongside ETL data insertion procedures in a single step.
+- **Process:** This script ensures that the entire database setup, including schema definitions and initial data population, is executed in an organized and structured manner.
 
-By following these steps, one can achieve the complete functionality of the leather shoe store database, and effectively address key business challenges.
+### 11. Final Execution
+- **Script:** `LeatherShoes_Execution.sql`
+- **Purpose:** Serves as the concluding step, executing all stored procedures to complete the database implementation.
+- **Process:** This script initiates all predefined business intelligence queries and ensures that the system is fully operational by integrating all processed data.
 
-※ Just in case there is a need for dropping the created tables and the source data tables, the LeatherShoes_TableDrop and LeatherShoes_ETLTableDrop are provided.
+## Additional Utilities
+To facilitate database maintenance and troubleshooting, the following scripts are provided:
+- **Table Drop Script:** `LeatherShoes_TableDrop.sql` – Drops all created tables if re-initialization is required.
+- **ETL Table Drop Script:** `LeatherShoes_ETLTableDrop.sql` – Removes all ETL-related tables to reset data processing.
+
+## Conclusion
+Following the structured execution of these steps will result in a fully functional and optimized database system tailored to meet the needs of the leather shoe company. By implementing this solution, businesses can ensure seamless inventory management, gain actionable sales insights, and drive data-driven decision-making for operational success.
